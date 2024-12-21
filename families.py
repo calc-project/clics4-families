@@ -112,7 +112,7 @@ for family, network in networks.items():
                 data["languages"], 
                 data["words"])
 
-    write_gml(network, Path("graphs") / family + ".gml")
+    write_gml(network, Path("graphs") / "{0}.gml".format(family))
 
 with open("overview.md", "w") as f:
     f.write(tabulate(family_table, headers=["Family", "Languages"],
