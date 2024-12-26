@@ -31,7 +31,7 @@ def get_cognates(varieties, languages, words):
     return len(cluster)
 
 
-CLICSPATH = "clics4-0.2"
+CLICSPATH = "clics4-0.3"
 
 
 ds1 = Dataset.from_metadata(Path(CLICSPATH) / "cldf/StructureDataset-metadata.json")

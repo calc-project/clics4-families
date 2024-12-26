@@ -2,7 +2,7 @@ graph [
   node [
     id 0
     label "WATER"
-    varieties "clics4-1450//clics4-1450//clics4-1451//clics4-1683//clics4-1480"
+    varieties "clics4-1447//clics4-1447//clics4-1448//clics4-1680//clics4-1478"
     languages "mono1275//mono1275//coma1245//chem1251//nort2954"
     words ""
     Variety_Count 5
@@ -11,7 +11,7 @@ graph [
   node [
     id 1
     label "FIRE"
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words ""
     Variety_Count 1
@@ -20,7 +20,7 @@ graph [
   node [
     id 2
     label "EYE"
-    varieties "clics4-1450//clics4-1286"
+    varieties "clics4-1447//clics4-1286"
     languages "mono1275//luis1253"
     words "p u"
     Variety_Count 2
@@ -29,7 +29,7 @@ graph [
   node [
     id 3
     label "TOOTH"
-    varieties "clics4-1683//clics4-1286//clics4-1513//clics4-1514//clics4-46"
+    varieties "clics4-1680//clics4-1286//clics4-1509//clics4-1510//clics4-46"
     languages "chem1251//luis1253//cupe1243//cahu1264//yaqu1251"
     words "t a w a//t a m a//t a m//t a m a + l"
     Variety_Count 5
@@ -38,7 +38,7 @@ graph [
   node [
     id 4
     label "DOG"
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words ""
     Variety_Count 1
@@ -56,7 +56,7 @@ graph [
   node [
     id 6
     label "HEAD"
-    varieties "clics4-1286//clics4-1450//clics4-1513//clics4-1514//clics4-1684//clics4-1513"
+    varieties "clics4-1286//clics4-1447//clics4-1509//clics4-1510//clics4-1681//clics4-1509"
     languages "luis1253//mono1275//cupe1243//cahu1264//shos1248//cupe1243"
     words "y uː + l a//w oː//y u//y u l u k a + l//p a m p i"
     Variety_Count 6
@@ -65,7 +65,7 @@ graph [
   node [
     id 7
     label "EAR"
-    varieties "clics4-1450//clics4-46//clics4-1480//clics4-1683//clics4-1350//clics4-1480//clics4-1515//clics4-1683"
+    varieties "clics4-1447//clics4-46//clics4-1478//clics4-1680//clics4-1348//clics4-1478//clics4-1511//clics4-1680"
     languages "mono1275//yaqu1251//nort2954//chem1251//serr1255//nort2954//serr1255//chem1251"
     words "n a"
     Variety_Count 8
@@ -92,7 +92,7 @@ graph [
   node [
     id 10
     label "BONE"
-    varieties "clics4-1286//clics4-1514//clics4-1953"
+    varieties "clics4-1286//clics4-1510//clics4-1950"
     languages "luis1253//cahu1264//sout2969"
     words ""
     Variety_Count 3
@@ -110,7 +110,7 @@ graph [
   node [
     id 12
     label "GOOD"
-    varieties "clics4-1513//clics4-46//clics4-239//clics4-1213//clics4-1632"
+    varieties "clics4-1509//clics4-46//clics4-239//clics4-1209//clics4-1630"
     languages "cupe1243//yaqu1251//high1278//yaqu1251//tuba1278"
     words "a"
     Variety_Count 5
@@ -119,7 +119,7 @@ graph [
   node [
     id 13
     label "EGG"
-    varieties "clics4-1450//clics4-1450"
+    varieties "clics4-1447//clics4-1447"
     languages "mono1275//mono1275"
     words "n o"
     Variety_Count 2
@@ -128,7 +128,7 @@ graph [
   node [
     id 14
     label "TONGUE"
-    varieties "clics4-1450//clics4-1465//clics4-1465"
+    varieties "clics4-1447//clics4-1463//clics4-1463"
     languages "mono1275//utee1244//utee1244"
     words ""
     Variety_Count 3
@@ -146,7 +146,7 @@ graph [
   node [
     id 16
     label "MOUTH"
-    varieties "clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-46//clics4-1286//clics4-1513//clics4-1514//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450"
+    varieties "clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-46//clics4-1286//clics4-1509//clics4-1510//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447"
     languages "mono1275//mono1275//mono1275//mono1275//yaqu1251//luis1253//cupe1243//cahu1264//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275"
     words "t y//t y//t y//t y"
     Variety_Count 14
@@ -173,7 +173,7 @@ graph [
   node [
     id 19
     label "BIG"
-    varieties "clics4-1332//clics4-1451//clics4-46"
+    varieties "clics4-1329//clics4-1448//clics4-46"
     languages "pana1305//coma1245//yaqu1251"
     words "p i a//p i a//bʷ e ʔ u"
     Variety_Count 3
@@ -182,7 +182,7 @@ graph [
   node [
     id 20
     label "STONE"
-    varieties "clics4-1494"
+    varieties "clics4-1490"
     languages "kawa1283"
     words "t y + b i"
     Variety_Count 1
@@ -200,7 +200,7 @@ graph [
   node [
     id 22
     label "SLEEP"
-    varieties "clics4-1450//clics4-1450"
+    varieties "clics4-1447//clics4-1447"
     languages "mono1275//mono1275"
     words ""
     Variety_Count 2
@@ -209,7 +209,7 @@ graph [
   node [
     id 23
     label "SMOKE (EXHAUST)"
-    varieties "clics4-1684"
+    varieties "clics4-1681"
     languages "shos1248"
     words ""
     Variety_Count 1
@@ -218,7 +218,7 @@ graph [
   node [
     id 24
     label "COME"
-    varieties "clics4-1286//clics4-1450"
+    varieties "clics4-1286//clics4-1447"
     languages "luis1253//mono1275"
     words "m o n"
     Variety_Count 2
@@ -227,7 +227,7 @@ graph [
   node [
     id 25
     label "WHITE"
-    varieties "clics4-46//clics4-1213"
+    varieties "clics4-46//clics4-1209"
     languages "yaqu1251//yaqu1251"
     words "t o s a l i//t o̞ s a l i"
     Variety_Count 2
@@ -236,7 +236,7 @@ graph [
   node [
     id 26
     label "EAT"
-    varieties "clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1514//clics4-1450//clics4-1450//clics4-1450//clics4-1450"
+    varieties "clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1510//clics4-1447//clics4-1447//clics4-1447//clics4-1447"
     languages "mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//cahu1264//mono1275//mono1275//mono1275//mono1275"
     words "t y//t y//t y//t y//t y"
     Variety_Count 11
@@ -245,7 +245,7 @@ graph [
   node [
     id 27
     label "STAR"
-    varieties "clics4-1350//clics4-1515//clics4-1683"
+    varieties "clics4-1348//clics4-1511//clics4-1680"
     languages "serr1255//serr1255//chem1251"
     words ""
     Variety_Count 3
@@ -254,7 +254,7 @@ graph [
   node [
     id 28
     label "SEE"
-    varieties "clics4-1513//clics4-1683//clics4-239//clics4-1513"
+    varieties "clics4-1509//clics4-1680//clics4-239//clics4-1509"
     languages "cupe1243//chem1251//high1278//cupe1243"
     words "t e w//p uː"
     Variety_Count 4
@@ -272,7 +272,7 @@ graph [
   node [
     id 30
     label "LEAF"
-    varieties "clics4-1450//clics4-1350//clics4-1480//clics4-1515//clics4-1683//clics4-1332//clics4-239//clics4-239//clics4-1465//clics4-1480//clics4-1683"
+    varieties "clics4-1447//clics4-1348//clics4-1478//clics4-1511//clics4-1680//clics4-1329//clics4-239//clics4-239//clics4-1463//clics4-1478//clics4-1680"
     languages "mono1275//serr1255//nort2954//serr1255//chem1251//pana1305//high1278//high1278//utee1244//nort2954//chem1251"
     words "p i//k a v a ts//n a k a//q a v//n a n k a//p i s i//ʃ i w i + t"
     Variety_Count 11
@@ -281,7 +281,7 @@ graph [
   node [
     id 31
     label "NECK"
-    varieties "clics4-46//clics4-1213//clics4-1350//clics4-1513"
+    varieties "clics4-46//clics4-1209//clics4-1348//clics4-1509"
     languages "yaqu1251//yaqu1251//serr1255//cupe1243"
     words ""
     Variety_Count 4
@@ -299,7 +299,7 @@ graph [
   node [
     id 33
     label "MOTHER"
-    varieties "clics4-1332//clics4-1451//clics4-1350//clics4-1450"
+    varieties "clics4-1329//clics4-1448//clics4-1348//clics4-1447"
     languages "pana1305//coma1245//serr1255//mono1275"
     words ""
     Variety_Count 4
@@ -308,7 +308,7 @@ graph [
   node [
     id 34
     label "ASH"
-    varieties "clics4-1684"
+    varieties "clics4-1681"
     languages "shos1248"
     words "k u + kː w i + pː y h"
     Variety_Count 1
@@ -326,7 +326,7 @@ graph [
   node [
     id 36
     label "NAME"
-    varieties "clics4-1513//clics4-1513"
+    varieties "clics4-1509//clics4-1509"
     languages "cupe1243//cupe1243"
     words "t e w//t e w"
     Variety_Count 2
@@ -335,7 +335,7 @@ graph [
   node [
     id 37
     label "COLD"
-    varieties "clics4-1350//clics4-1450//clics4-1450//clics4-1286"
+    varieties "clics4-1348//clics4-1447//clics4-1447//clics4-1286"
     languages "serr1255//mono1275//mono1275//luis1253"
     words "ʃ y v y t//y//y"
     Variety_Count 4
@@ -344,7 +344,7 @@ graph [
   node [
     id 38
     label "FATHER"
-    varieties "clics4-1513//clics4-1513//clics4-1480//clics4-1514"
+    varieties "clics4-1509//clics4-1509//clics4-1478//clics4-1510"
     languages "cupe1243//cupe1243//nort2954//cahu1264"
     words "n a//n a"
     Variety_Count 4
@@ -353,7 +353,7 @@ graph [
   node [
     id 39
     label "HOUSE"
-    varieties "clics4-1450//clics4-1450"
+    varieties "clics4-1447//clics4-1447"
     languages "mono1275//mono1275"
     words "n o//n o"
     Variety_Count 2
@@ -362,7 +362,7 @@ graph [
   node [
     id 40
     label "I"
-    varieties "clics4-1450//clics4-1450"
+    varieties "clics4-1447//clics4-1447"
     languages "mono1275//mono1275"
     words ""
     Variety_Count 2
@@ -371,7 +371,7 @@ graph [
   node [
     id 41
     label "ROOT"
-    varieties "clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-46//clics4-46//clics4-1450//clics4-1450"
+    varieties "clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-46//clics4-46//clics4-1447//clics4-1447"
     languages "mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//yaqu1251//yaqu1251//mono1275//mono1275"
     words "t y//t y//t y//t y//t y//t y//t y//t y"
     Variety_Count 12
@@ -380,7 +380,7 @@ graph [
   node [
     id 42
     label "LOUSE"
-    varieties "clics4-1465//clics4-1973//clics4-1973//clics4-1514//clics4-1683"
+    varieties "clics4-1463//clics4-1970//clics4-1970//clics4-1510//clics4-1680"
     languages "utee1244//tong1329//tong1329//cahu1264//chem1251"
     words "p õ ʔ ã + v ɪ//aː r//aː r//s a//a ts i"
     Variety_Count 5
@@ -398,7 +398,7 @@ graph [
   node [
     id 44
     label "SIT"
-    varieties "clics4-1451//clics4-1465"
+    varieties "clics4-1448//clics4-1463"
     languages "coma1245//utee1244"
     words "k a h t y//k a r y"
     Variety_Count 2
@@ -407,7 +407,7 @@ graph [
   node [
     id 45
     label "LONG"
-    varieties "clics4-1451//clics4-1683//clics4-1450//clics4-46//clics4-1450"
+    varieties "clics4-1448//clics4-1680//clics4-1447//clics4-46//clics4-1447"
     languages "coma1245//chem1251//mono1275//yaqu1251//mono1275"
     words "p aː//p aː//y//t eː b e"
     Variety_Count 5
@@ -416,7 +416,7 @@ graph [
   node [
     id 46
     label "CLOUD"
-    varieties "clics4-1515//clics4-239//clics4-1494//clics4-1684//clics4-1953//clics4-1350//clics4-1514//clics4-1683"
+    varieties "clics4-1511//clics4-239//clics4-1490//clics4-1681//clics4-1950//clics4-1348//clics4-1510//clics4-1680"
     languages "serr1255//high1278//kawa1283//shos1248//sout2969//serr1255//cahu1264//chem1251"
     words "t a yː + t"
     Variety_Count 8
@@ -434,7 +434,7 @@ graph [
   node [
     id 48
     label "WIND"
-    varieties "clics4-46//clics4-239//clics4-1213//clics4-1350//clics4-1450"
+    varieties "clics4-46//clics4-239//clics4-1209//clics4-1348//clics4-1447"
     languages "yaqu1251//high1278//yaqu1251//serr1255//mono1275"
     words "j eː k a//e h e k a + t//j e̞ː k a"
     Variety_Count 5
@@ -452,7 +452,7 @@ graph [
   node [
     id 50
     label "HEAR"
-    varieties "clics4-1480//clics4-1683//clics4-1953//clics4-1465//clics4-1480//clics4-1683//clics4-46//clics4-46"
+    varieties "clics4-1478//clics4-1680//clics4-1950//clics4-1463//clics4-1478//clics4-1680//clics4-46//clics4-46"
     languages "nort2954//chem1251//sout2969//utee1244//nort2954//chem1251//yaqu1251//yaqu1251"
     words "n a k a//n a n k a//n a ŋ q a//n y k aː v ɪ//n a k a//n a n k a"
     Variety_Count 8
@@ -479,7 +479,7 @@ graph [
   node [
     id 53
     label "BELLY"
-    varieties "clics4-1450//clics4-1514//clics4-1513"
+    varieties "clics4-1447//clics4-1510//clics4-1509"
     languages "mono1275//cahu1264//cupe1243"
     words "q o//t e//h a"
     Variety_Count 3
@@ -488,7 +488,7 @@ graph [
   node [
     id 54
     label "FISH"
-    varieties "clics4-1450//clics4-1683//clics4-1450//clics4-1515"
+    varieties "clics4-1447//clics4-1680//clics4-1447//clics4-1511"
     languages "mono1275//chem1251//mono1275//serr1255"
     words "p a//p a g y"
     Variety_Count 4
@@ -497,7 +497,7 @@ graph [
   node [
     id 55
     label "WHAT"
-    varieties "clics4-1465//clics4-46//clics4-46//clics4-1213//clics4-1350//clics4-1465//clics4-46//clics4-1480"
+    varieties "clics4-1463//clics4-46//clics4-46//clics4-1209//clics4-1348//clics4-1463//clics4-46//clics4-1478"
     languages "utee1244//yaqu1251//yaqu1251//yaqu1251//serr1255//utee1244//yaqu1251//nort2954"
     words "a g//j i t a//j i t a//j i t a//h a m i n a t//a g"
     Variety_Count 8
@@ -506,7 +506,7 @@ graph [
   node [
     id 56
     label "TREE"
-    varieties "clics4-46//clics4-239//clics4-239//clics4-239//clics4-239//clics4-1514//clics4-46//clics4-1684"
+    varieties "clics4-46//clics4-239//clics4-239//clics4-239//clics4-239//clics4-1510//clics4-46//clics4-1681"
     languages "yaqu1251//high1278//high1278//high1278//high1278//cahu1264//yaqu1251//shos1248"
     words "j u j a//kʷ o w i + t//kʷ o w i + t//kʷ o w i + t//kʷ o w i + t//k e l a w a t//j u j a"
     Variety_Count 8
@@ -524,7 +524,7 @@ graph [
   node [
     id 58
     label "BITE"
-    varieties "clics4-1450//clics4-1450//clics4-1450//clics4-1450"
+    varieties "clics4-1447//clics4-1447//clics4-1447//clics4-1447"
     languages "mono1275//mono1275//mono1275//mono1275"
     words "k y"
     Variety_Count 4
@@ -533,7 +533,7 @@ graph [
   node [
     id 59
     label "WHO"
-    varieties "clics4-1450//clics4-1480"
+    varieties "clics4-1447//clics4-1478"
     languages "mono1275//nort2954"
     words "h a//h a g a"
     Variety_Count 2
@@ -550,26 +550,26 @@ graph [
   ]
   node [
     id 61
-    label "DRINK"
-    varieties "clics4-46//clics4-1514"
-    languages "yaqu1251//cahu1264"
-    words ""
-    Variety_Count 2
-    Language_Count 2
-  ]
-  node [
-    id 62
     label "BLACK"
-    varieties "clics4-46//clics4-1213"
+    varieties "clics4-46//clics4-1209"
     languages "yaqu1251//yaqu1251"
     words "tʃ u k u l i//tʃ u k u l i"
     Variety_Count 2
     Language_Count 1
   ]
   node [
+    id 62
+    label "DRINK"
+    varieties "clics4-46//clics4-1510"
+    languages "yaqu1251//cahu1264"
+    words ""
+    Variety_Count 2
+    Language_Count 2
+  ]
+  node [
     id 63
     label "KILL"
-    varieties "clics4-1683//clics4-239//clics4-1683//clics4-1683//clics4-1953//clics4-1683//clics4-1953"
+    varieties "clics4-1680//clics4-239//clics4-1680//clics4-1680//clics4-1950//clics4-1680//clics4-1950"
     languages "chem1251//high1278//chem1251//chem1251//sout2969//chem1251//sout2969"
     words "p a k a//m i k i + t iː"
     Variety_Count 7
@@ -587,7 +587,7 @@ graph [
   node [
     id 65
     label "WING"
-    varieties "clics4-46//clics4-1350//clics4-1450//clics4-1450//clics4-1450"
+    varieties "clics4-46//clics4-1348//clics4-1447//clics4-1447//clics4-1447"
     languages "yaqu1251//serr1255//mono1275//mono1275//mono1275"
     words "m a s a m"
     Variety_Count 5
@@ -596,7 +596,7 @@ graph [
   node [
     id 66
     label "LIVER"
-    varieties "clics4-1332//clics4-1450//clics4-1514//clics4-1683"
+    varieties "clics4-1329//clics4-1447//clics4-1510//clics4-1680"
     languages "pana1305//mono1275//cahu1264//chem1251"
     words "n y m y"
     Variety_Count 4
@@ -605,7 +605,7 @@ graph [
   node [
     id 67
     label "FLY (MOVE THROUGH AIR)"
-    varieties "clics4-1350"
+    varieties "clics4-1348"
     languages "serr1255"
     words ""
     Variety_Count 1
@@ -614,7 +614,7 @@ graph [
   node [
     id 68
     label "HAND"
-    varieties "clics4-46//clics4-239//clics4-239//clics4-1213//clics4-1213//clics4-1632"
+    varieties "clics4-46//clics4-239//clics4-239//clics4-1209//clics4-1209//clics4-1630"
     languages "yaqu1251//high1278//high1278//yaqu1251//yaqu1251//tuba1278"
     words "m a m a m//i + m a + j"
     Variety_Count 6
@@ -632,7 +632,7 @@ graph [
   node [
     id 70
     label "THOU"
-    varieties "clics4-1450//clics4-1451//clics4-1465//clics4-239//clics4-239//clics4-239//clics4-1513//clics4-1513//clics4-1973"
+    varieties "clics4-1447//clics4-1448//clics4-1463//clics4-239//clics4-239//clics4-239//clics4-1509//clics4-1509//clics4-1970"
     languages "mono1275//coma1245//utee1244//high1278//high1278//high1278//cupe1243//cupe1243//tong1329"
     words ""
     Variety_Count 9
@@ -668,7 +668,7 @@ graph [
   node [
     id 74
     label "RAIN (PRECIPITATION)"
-    varieties "clics4-1350//clics4-1514"
+    varieties "clics4-1348//clics4-1510"
     languages "serr1255//cahu1264"
     words "w o ŋ a t//w e w n i + ʃ"
     Variety_Count 2
@@ -677,7 +677,7 @@ graph [
   node [
     id 75
     label "DRY"
-    varieties "clics4-1683"
+    varieties "clics4-1680"
     languages "chem1251"
     words "t a v a"
     Variety_Count 1
@@ -686,7 +686,7 @@ graph [
   node [
     id 76
     label "WET"
-    varieties "clics4-1513//clics4-1513"
+    varieties "clics4-1509//clics4-1509"
     languages "cupe1243//cupe1243"
     words "y u//y u"
     Variety_Count 2
@@ -713,7 +713,7 @@ graph [
   node [
     id 79
     label "FALL"
-    varieties "clics4-1450//clics4-1450"
+    varieties "clics4-1447//clics4-1447"
     languages "mono1275//mono1275"
     words "w i"
     Variety_Count 2
@@ -740,7 +740,7 @@ graph [
   node [
     id 82
     label "CRY"
-    varieties "clics4-1350//clics4-46//clics4-46//clics4-46"
+    varieties "clics4-1348//clics4-46//clics4-46//clics4-46"
     languages "serr1255//yaqu1251//yaqu1251//yaqu1251"
     words "j y"
     Variety_Count 4
@@ -749,7 +749,7 @@ graph [
   node [
     id 83
     label "WALK"
-    varieties "clics4-1480//clics4-1465//clics4-1450//clics4-1514//clics4-239//clics4-239//clics4-46//clics4-239//clics4-239//clics4-1286"
+    varieties "clics4-1478//clics4-1463//clics4-1447//clics4-1510//clics4-239//clics4-239//clics4-46//clics4-239//clics4-239//clics4-1286"
     languages "nort2954//utee1244//mono1275//cahu1264//high1278//high1278//yaqu1251//high1278//high1278//luis1253"
     words "n y mː i//p a g//n y//n e m//n e m i//n e m i//k aː t e"
     Variety_Count 10
@@ -758,7 +758,7 @@ graph [
   node [
     id 84
     label "PERSON"
-    varieties "clics4-1480//clics4-1332//clics4-1513"
+    varieties "clics4-1478//clics4-1329//clics4-1509"
     languages "nort2954//pana1305//cupe1243"
     words ""
     Variety_Count 3
@@ -776,7 +776,7 @@ graph [
   node [
     id 86
     label "DAY (NOT NIGHT)"
-    varieties "clics4-239//clics4-1683"
+    varieties "clics4-239//clics4-1680"
     languages "high1278//chem1251"
     words "t o n a + l"
     Variety_Count 2
@@ -794,7 +794,7 @@ graph [
   node [
     id 88
     label "WHERE"
-    varieties "clics4-1632//clics4-239//clics4-1683"
+    varieties "clics4-1630//clics4-239//clics4-1680"
     languages "tuba1278//high1278//chem1251"
     words "m aː + l//k a n"
     Variety_Count 3
@@ -803,7 +803,7 @@ graph [
   node [
     id 89
     label "BACK"
-    varieties "clics4-239//clics4-239//clics4-1450"
+    varieties "clics4-239//clics4-239//clics4-1447"
     languages "high1278//high1278//mono1275"
     words ""
     Variety_Count 3
@@ -812,7 +812,7 @@ graph [
   node [
     id 90
     label "LEFT"
-    varieties "clics4-1494"
+    varieties "clics4-1490"
     languages "kawa1283"
     words ""
     Variety_Count 1
@@ -839,7 +839,7 @@ graph [
   node [
     id 93
     label "THEY"
-    varieties "clics4-1451//clics4-1684//clics4-1451//clics4-1684//clics4-1451//clics4-1684//clics4-1450//clics4-1451//clics4-1684"
+    varieties "clics4-1448//clics4-1681//clics4-1448//clics4-1681//clics4-1448//clics4-1681//clics4-1447//clics4-1448//clics4-1681"
     languages "coma1245//shos1248//coma1245//shos1248//coma1245//shos1248//mono1275//coma1245//shos1248"
     words "m a//m a//m a//m a//m a//m a"
     Variety_Count 9
@@ -875,7 +875,7 @@ graph [
   node [
     id 97
     label "FLOWER"
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "h y"
     Variety_Count 1
@@ -902,7 +902,7 @@ graph [
   node [
     id 100
     label "EARTH (SOIL)"
-    varieties "clics4-46//clics4-46//clics4-239//clics4-1515//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1494//clics4-1683//clics4-1683"
+    varieties "clics4-46//clics4-46//clics4-239//clics4-1511//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1490//clics4-1680//clics4-1680"
     languages "yaqu1251//yaqu1251//high1278//serr1255//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//kawa1283//chem1251//chem1251"
     words "bʷ i a"
     Variety_Count 17
@@ -911,7 +911,7 @@ graph [
   node [
     id 101
     label "DIG"
-    varieties "clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450"
+    varieties "clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447"
     languages "mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275"
     words "t y//t y//t y//t y//t y//t y"
     Variety_Count 10
@@ -929,7 +929,7 @@ graph [
   node [
     id 103
     label "THAT"
-    varieties "clics4-1350//clics4-1451//clics4-1514//clics4-1515//clics4-1684//clics4-1350//clics4-1451//clics4-1514//clics4-1515//clics4-1684//clics4-1350//clics4-1451//clics4-1514//clics4-1515//clics4-1684//clics4-1450//clics4-1451//clics4-1684//clics4-1514"
+    varieties "clics4-1348//clics4-1448//clics4-1510//clics4-1511//clics4-1681//clics4-1348//clics4-1448//clics4-1510//clics4-1511//clics4-1681//clics4-1348//clics4-1448//clics4-1510//clics4-1511//clics4-1681//clics4-1447//clics4-1448//clics4-1681//clics4-1510"
     languages "serr1255//coma1245//cahu1264//serr1255//shos1248//serr1255//coma1245//cahu1264//serr1255//shos1248//serr1255//coma1245//cahu1264//serr1255//shos1248//mono1275//coma1245//shos1248//cahu1264"
     words "a m a//m a//p e//a m a//m a//a m a//m a//p e//a m a//m a//a m a//m a//p e//a m a//m a//m a h u//m a//m a//p e"
     Variety_Count 19
@@ -938,7 +938,7 @@ graph [
   node [
     id 104
     label "YOU"
-    varieties "clics4-1450//clics4-1451//clics4-1465"
+    varieties "clics4-1447//clics4-1448//clics4-1463"
     languages "mono1275//coma1245//utee1244"
     words "yː//y n y//y m y"
     Variety_Count 3
@@ -956,7 +956,7 @@ graph [
   node [
     id 106
     label "BURN (SOMETHING)"
-    varieties "clics4-1450//clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973//clics4-46//clics4-1450//clics4-239//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450"
+    varieties "clics4-1447//clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970//clics4-46//clics4-1447//clics4-239//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447"
     languages "mono1275//high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329//yaqu1251//mono1275//high1278//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275"
     words "t y"
     Variety_Count 29
@@ -965,7 +965,7 @@ graph [
   node [
     id 107
     label "BURNING"
-    varieties "clics4-1450//clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450"
+    varieties "clics4-1447//clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447"
     languages "mono1275//high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275"
     words "t y//t a t a//β e̞ː t e̞//tsʰ u y a//w a y a//h u//t y//w e h a r y//kʷ i y aː//n a i//h i g w a//s e x + i n//tsʰ u t//h u a + i//ts a m a + t//k u ts i//w a i h j a + n k y h//q u tː ts y a//v e r eː k"
     Variety_Count 27
@@ -1001,7 +1001,7 @@ graph [
   node [
     id 111
     label "FRUIT"
-    varieties "clics4-1450//clics4-1450//clics4-1286//clics4-1450"
+    varieties "clics4-1447//clics4-1447//clics4-1286//clics4-1447"
     languages "mono1275//mono1275//luis1253//mono1275"
     words "t u//t u//p u ʃ + l a"
     Variety_Count 4
@@ -1010,7 +1010,7 @@ graph [
   node [
     id 112
     label "GRASS"
-    varieties "clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-46//clics4-239//clics4-239//clics4-239//clics4-1332//clics4-1332//clics4-1450//clics4-1450//clics4-1450"
+    varieties "clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-46//clics4-239//clics4-239//clics4-239//clics4-1329//clics4-1329//clics4-1447//clics4-1447//clics4-1447"
     languages "mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//yaqu1251//high1278//high1278//high1278//pana1305//pana1305//mono1275//mono1275//mono1275"
     words "t y//t y//t y//t y//t y//t y//t y"
     Variety_Count 16
@@ -1019,7 +1019,7 @@ graph [
   node [
     id 113
     label "FEATHER"
-    varieties "clics4-1350//clics4-1450//clics4-1450//clics4-1450"
+    varieties "clics4-1348//clics4-1447//clics4-1447//clics4-1447"
     languages "serr1255//mono1275//mono1275//mono1275"
     words "m a h a ts//q a"
     Variety_Count 4
@@ -1037,7 +1037,7 @@ graph [
   node [
     id 115
     label "SHARP"
-    varieties "clics4-1450//clics4-1450//clics4-1450//clics4-1450"
+    varieties "clics4-1447//clics4-1447//clics4-1447//clics4-1447"
     languages "mono1275//mono1275//mono1275//mono1275"
     words "k y//k y//k y"
     Variety_Count 4
@@ -1046,7 +1046,7 @@ graph [
   node [
     id 116
     label "MALE PERSON"
-    varieties "clics4-46//clics4-239//clics4-46//clics4-1450//clics4-1683//clics4-1953"
+    varieties "clics4-46//clics4-239//clics4-46//clics4-1447//clics4-1680//clics4-1950"
     languages "yaqu1251//high1278//yaqu1251//mono1275//chem1251//sout2969"
     words ""
     Variety_Count 6
@@ -1082,7 +1082,7 @@ graph [
   node [
     id 120
     label "DUST"
-    varieties "clics4-1515//clics4-1513//clics4-1513"
+    varieties "clics4-1511//clics4-1509//clics4-1509"
     languages "serr1255//cupe1243//cupe1243"
     words "t i y v a + t"
     Variety_Count 3
@@ -1090,21 +1090,21 @@ graph [
   ]
   node [
     id 121
-    label "THUNDER"
-    varieties "clics4-46//clics4-1515"
-    languages "yaqu1251//serr1255"
-    words ""
-    Variety_Count 2
-    Language_Count 2
-  ]
-  node [
-    id 122
     label "LIGHTNING"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 122
+    label "THUNDER"
+    varieties "clics4-46//clics4-1511"
+    languages "yaqu1251//serr1255"
+    words ""
+    Variety_Count 2
+    Language_Count 2
   ]
   node [
     id 123
@@ -1136,7 +1136,7 @@ graph [
   node [
     id 126
     label "OLD (AGED)"
-    varieties "clics4-239//clics4-46//clics4-239//clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
+    varieties "clics4-239//clics4-46//clics4-239//clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
     languages "high1278//yaqu1251//high1278//high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
     words "w e w e + t"
     Variety_Count 19
@@ -1145,7 +1145,7 @@ graph [
   node [
     id 127
     label "OLD (USED)"
-    varieties "clics4-239//clics4-46//clics4-239//clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
+    varieties "clics4-239//clics4-46//clics4-239//clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
     languages "high1278//yaqu1251//high1278//high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
     words "w e w e + t//o ʔ o r a//w e w e + t//s o l + t i + k//o̞ ʔ o̞ ɾ a//a n x a//p y e tː y m p y//u v i h a t//m uː a ts i y eː//ts u k u h p y//w iː//m o a//iː + t y//u v i h p y + t//uː l a w y + t//y i t y + p y w + v//p y a i tː y m + p y h//iː//e r aː x p o"
     Variety_Count 19
@@ -1163,7 +1163,7 @@ graph [
   node [
     id 129
     label "THROW"
-    varieties "clics4-1350//clics4-1350//clics4-1350"
+    varieties "clics4-1348//clics4-1348//clics4-1348"
     languages "serr1255//serr1255//serr1255"
     words "p i//p i//p i"
     Variety_Count 3
@@ -1172,7 +1172,7 @@ graph [
   node [
     id 130
     label "LEG"
-    varieties "clics4-239//clics4-1286//clics4-1286//clics4-1332//clics4-1350//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1513//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973//clics4-46//clics4-239//clics4-1513"
+    varieties "clics4-239//clics4-1286//clics4-1286//clics4-1329//clics4-1348//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1509//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970//clics4-46//clics4-239//clics4-1509"
     languages "high1278//luis1253//luis1253//pana1305//serr1255//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cupe1243//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329//yaqu1251//high1278//cupe1243"
     words ""
     Variety_Count 22
@@ -1217,7 +1217,7 @@ graph [
   node [
     id 135
     label "HOLD"
-    varieties "clics4-1350//clics4-46//clics4-46//clics4-46//clics4-46"
+    varieties "clics4-1348//clics4-46//clics4-46//clics4-46//clics4-46"
     languages "serr1255//yaqu1251//yaqu1251//yaqu1251//yaqu1251"
     words "j a//m a tʃ u ʔ u t e//j i p p u e//j i p p u e"
     Variety_Count 5
@@ -1235,7 +1235,7 @@ graph [
   node [
     id 137
     label "ROTTEN"
-    varieties "clics4-1332"
+    varieties "clics4-1329"
     languages "pana1305"
     words ""
     Variety_Count 1
@@ -1253,7 +1253,7 @@ graph [
   node [
     id 139
     label "DIE"
-    varieties "clics4-239//clics4-1350//clics4-1350"
+    varieties "clics4-239//clics4-1348//clics4-1348"
     languages "high1278//serr1255//serr1255"
     words ""
     Variety_Count 3
@@ -1288,15 +1288,6 @@ graph [
   ]
   node [
     id 143
-    label "SMELL (PERCEIVE)"
-    varieties "clics4-1213//clics4-239"
-    languages "yaqu1251//high1278"
-    words "ŋ ɔ k ɔ"
-    Variety_Count 2
-    Language_Count 2
-  ]
-  node [
-    id 144
     label "FEAR (BE AFRAID)"
     varieties ""
     languages ""
@@ -1305,9 +1296,18 @@ graph [
     Language_Count 0
   ]
   node [
+    id 144
+    label "SMELL (PERCEIVE)"
+    varieties "clics4-1209//clics4-239"
+    languages "yaqu1251//high1278"
+    words "ŋ ɔ k ɔ"
+    Variety_Count 2
+    Language_Count 2
+  ]
+  node [
     id 145
     label "SUCK"
-    varieties "clics4-1350"
+    varieties "clics4-1348"
     languages "serr1255"
     words ""
     Variety_Count 1
@@ -1342,6 +1342,33 @@ graph [
   ]
   node [
     id 149
+    label "PATH"
+    varieties "clics4-1447//clics4-239//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
+    languages "mono1275//high1278//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
+    words "n yː//o h + t i//p e + t//p o e//p o k t//n yː//p u ɛ//p o o//t oː + v y//p i + t//p i t//p oː q + t//p o h t//p o//p o a i//p oː//p e t"
+    Variety_Count 17
+    Language_Count 15
+  ]
+  node [
+    id 150
+    label "ROAD"
+    varieties "clics4-1447//clics4-239//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
+    languages "mono1275//high1278//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
+    words "n yː"
+    Variety_Count 17
+    Language_Count 15
+  ]
+  node [
+    id 151
+    label "BELOW OR UNDER"
+    varieties "clics4-1510//clics4-1510//clics4-1510//clics4-46//clics4-239//clics4-239//clics4-1510"
+    languages "cahu1264//cahu1264//cahu1264//yaqu1251//high1278//high1278//cahu1264"
+    words "p e//p e//p e//b e t u k u//t a n i//n e + w i n + t a n i"
+    Variety_Count 7
+    Language_Count 3
+  ]
+  node [
+    id 152
     label "STEAL"
     varieties ""
     languages ""
@@ -1350,36 +1377,9 @@ graph [
     Language_Count 0
   ]
   node [
-    id 150
-    label "PATH"
-    varieties "clics4-1450//clics4-239//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
-    languages "mono1275//high1278//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
-    words "n yː//o h + t i//p e + t//p o e//p o k t//n yː//p u ɛ//p o o//t oː + v y//p i + t//p i t//p oː q + t//p o h t//p o//p o a i//p oː//p e t"
-    Variety_Count 17
-    Language_Count 15
-  ]
-  node [
-    id 151
-    label "ROAD"
-    varieties "clics4-1450//clics4-239//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
-    languages "mono1275//high1278//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
-    words "n yː"
-    Variety_Count 17
-    Language_Count 15
-  ]
-  node [
-    id 152
-    label "BELOW OR UNDER"
-    varieties "clics4-1514//clics4-1514//clics4-1514//clics4-46//clics4-239//clics4-239//clics4-1514"
-    languages "cahu1264//cahu1264//cahu1264//yaqu1251//high1278//high1278//cahu1264"
-    words "p e//p e//p e//b e t u k u//t a n i//n e + w i n + t a n i"
-    Variety_Count 7
-    Language_Count 3
-  ]
-  node [
     id 153
     label "INTESTINES"
-    varieties "clics4-1513//clics4-1514"
+    varieties "clics4-1509//clics4-1510"
     languages "cupe1243//cahu1264"
     words ""
     Variety_Count 2
@@ -1397,7 +1397,7 @@ graph [
   node [
     id 155
     label "FOOT"
-    varieties "clics4-239//clics4-1286//clics4-1286//clics4-1332//clics4-1350//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1513//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973//clics4-1513//clics4-1513//clics4-1515//clics4-1450//clics4-1450//clics4-1450//clics4-1450"
+    varieties "clics4-239//clics4-1286//clics4-1286//clics4-1329//clics4-1348//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1509//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970//clics4-1509//clics4-1509//clics4-1511//clics4-1447//clics4-1447//clics4-1447//clics4-1447"
     languages "high1278//luis1253//luis1253//pana1305//serr1255//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cupe1243//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329//cupe1243//cupe1243//serr1255//mono1275//mono1275//mono1275//mono1275"
     words "i + m e tʃ//e + t//e + t//n u ŋ kʷ a pː y h//ts a k a ts//ts a k a ts//h u//o m o//j uː a v ɪ//k a u p a//j uː + v y//x u tsʰ i//x u tsʰ i//ts aː q + l e g//uː kː a pː yː l//j u//oː n//j y u + ʃ//n e n eː v"
     Variety_Count 26
@@ -1406,7 +1406,7 @@ graph [
   node [
     id 156
     label "DREAM (SOMETHING)"
-    varieties "clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1450//clics4-1451//clics4-1451//clics4-1465//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1513//clics4-1514//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1684//clics4-1953//clics4-1973"
+    varieties "clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1447//clics4-1448//clics4-1448//clics4-1463//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1509//clics4-1510//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1681//clics4-1950//clics4-1970"
     languages "luis1253//pana1305//serr1255//mono1275//mono1275//coma1245//coma1245//utee1244//utee1244//nort2954//kawa1283//cupe1243//cupe1243//cahu1264//cahu1264//serr1255//tuba1278//chem1251//shos1248//shos1248//sout2969//tong1329"
     words ""
     Variety_Count 22
@@ -1414,39 +1414,39 @@ graph [
   ]
   node [
     id 157
-    label "FOG"
-    varieties "clics4-239//clics4-1494//clics4-1684//clics4-1953"
-    languages "high1278//kawa1283//shos1248//sout2969"
-    words "m i ʃ + t i//k y n a + v i//p a k y n a + pː y h//p a g i nː a + ʃ"
-    Variety_Count 4
-    Language_Count 4
-  ]
-  node [
-    id 158
-    label "COUNT"
-    varieties "clics4-1286//clics4-1286"
-    languages "luis1253//luis1253"
-    words ""
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 159
     label "CHILD (DESCENDANT)"
-    varieties "clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973//clics4-239//clics4-239//clics4-46//clics4-46//clics4-1513//clics4-1514//clics4-1514"
+    varieties "clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970//clics4-239//clics4-239//clics4-46//clics4-46//clics4-1509//clics4-1510//clics4-1510"
     languages "luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329//high1278//high1278//yaqu1251//yaqu1251//cupe1243//cahu1264//cahu1264"
     words "k i h aː + t//p i a mː y tː s i//m a y h a t//t u w a p y//t y e t y//t u a tsʰ ɪ//d u a k i//p i ʃ y oː + tsʰ i//n a//k i//a n y iː ts + i//t uː m u + u n//p i s o//t u a//t u a + ɢ//kʷ e t iː"
     Variety_Count 23
     Language_Count 17
   ]
   node [
-    id 160
+    id 158
     label "CHILD (YOUNG HUMAN)"
-    varieties "clics4-239//clics4-239//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973//clics4-46//clics4-239//clics4-1513//clics4-1514//clics4-1514"
+    varieties "clics4-239//clics4-239//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970//clics4-46//clics4-239//clics4-1509//clics4-1510//clics4-1510"
     languages "high1278//high1278//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329//yaqu1251//high1278//cupe1243//cahu1264//cahu1264"
     words "k o n e + t//k o n e + t"
     Variety_Count 23
     Language_Count 17
+  ]
+  node [
+    id 159
+    label "FOG"
+    varieties "clics4-239//clics4-1490//clics4-1681//clics4-1950"
+    languages "high1278//kawa1283//shos1248//sout2969"
+    words "m i ʃ + t i//k y n a + v i//p a k y n a + pː y h//p a g i nː a + ʃ"
+    Variety_Count 4
+    Language_Count 4
+  ]
+  node [
+    id 160
+    label "COUNT"
+    varieties "clics4-1286//clics4-1286"
+    languages "luis1253//luis1253"
+    words ""
+    Variety_Count 2
+    Language_Count 1
   ]
   node [
     id 161
@@ -1505,7 +1505,7 @@ graph [
   node [
     id 167
     label "STRIKE"
-    varieties "clics4-46//clics4-239//clics4-239//clics4-1286//clics4-1332//clics4-1350//clics4-1350//clics4-1450//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1684//clics4-1953//clics4-1350//clics4-1350"
+    varieties "clics4-46//clics4-239//clics4-239//clics4-1286//clics4-1329//clics4-1348//clics4-1348//clics4-1447//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1681//clics4-1950//clics4-1348//clics4-1348"
     languages "yaqu1251//high1278//high1278//luis1253//pana1305//serr1255//serr1255//mono1275//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//shos1248//sout2969//serr1255//serr1255"
     words "b e b a//k i + m a g a//m a h + m a g a//p a q a//t a pː a i h//p i//p i//t a b i//t a b i//n a r aː j aː k y p y//w h tsʰ o g//p o t a//ts o k o//p u x//t u l a//p oː ŋ//k o h k o hʷ i n + a t//t o + pː a i h//t a pː o r u"
     Variety_Count 21
@@ -1523,7 +1523,7 @@ graph [
   node [
     id 169
     label "STICK"
-    varieties "clics4-1973//clics4-1286//clics4-1684"
+    varieties "clics4-1970//clics4-1286//clics4-1681"
     languages "tong1329//luis1253//shos1248"
     words "k u t aː//k u l aː w u + t//h uː + p i n"
     Variety_Count 3
@@ -1532,7 +1532,7 @@ graph [
   node [
     id 170
     label "BE ALIVE"
-    varieties "clics4-1480//clics4-1683//clics4-1513//clics4-239//clics4-239//clics4-239//clics4-1451//clics4-1465//clics4-239"
+    varieties "clics4-1478//clics4-1680//clics4-1509//clics4-239//clics4-239//clics4-239//clics4-1448//clics4-1463//clics4-239"
     languages "nort2954//chem1251//cupe1243//high1278//high1278//high1278//coma1245//utee1244//high1278"
     words "n y m y//n y w y//q u s a"
     Variety_Count 9
@@ -1549,20 +1549,20 @@ graph [
   ]
   node [
     id 172
-    label "GO"
-    varieties "clics4-239//clics4-239//clics4-239//clics4-239"
-    languages "high1278//high1278//high1278//high1278"
-    words "n e m i//n e m i//n e m i//n e h + n e m i"
-    Variety_Count 4
-    Language_Count 1
-  ]
-  node [
-    id 173
     label "SEA"
     varieties "clics4-239"
     languages "high1278"
     words ""
     Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 173
+    label "GO"
+    varieties "clics4-239//clics4-239//clics4-239//clics4-239"
+    languages "high1278//high1278//high1278//high1278"
+    words "n e m i//n e m i//n e m i//n e h + n e m i"
+    Variety_Count 4
     Language_Count 1
   ]
   node [
@@ -1594,15 +1594,6 @@ graph [
   ]
   node [
     id 177
-    label "RUN"
-    varieties "clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251"
-    words "bʷ i t e"
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 178
     label "NINE"
     varieties ""
     languages ""
@@ -1611,9 +1602,18 @@ graph [
     Language_Count 0
   ]
   node [
+    id 178
+    label "RUN"
+    varieties "clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251"
+    words "bʷ i t e"
+    Variety_Count 2
+    Language_Count 1
+  ]
+  node [
     id 179
     label "THINK (REFLECT)"
-    varieties "clics4-1286//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953"
+    varieties "clics4-1286//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950"
     languages "luis1253//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969"
     words "w o y a"
     Variety_Count 17
@@ -1622,7 +1622,7 @@ graph [
   node [
     id 180
     label "THINK (BELIEVE)"
-    varieties "clics4-1286//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953"
+    varieties "clics4-1286//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950"
     languages "luis1253//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969"
     words "w o y a//e̞ a//w o y a//m u k u a t u//w i n i k a w//s u n a w i//s u a t y t y//s u m a i//s u n a m i//m u g u w a + r y//w e y + y a x//s i tsʰ u//ts a m a q aː n + v t//t oː j + y + t//m u g u a//s u a//ts u mː a i"
     Variety_Count 17
@@ -1631,7 +1631,7 @@ graph [
   node [
     id 181
     label "HOW"
-    varieties "clics4-1465//clics4-1683//clics4-1350//clics4-1465"
+    varieties "clics4-1463//clics4-1680//clics4-1348//clics4-1463"
     languages "utee1244//chem1251//serr1255//utee1244"
     words "a g//h a g a"
     Variety_Count 4
@@ -1640,7 +1640,7 @@ graph [
   node [
     id 182
     label "BREATHE"
-    varieties "clics4-1480//clics4-239//clics4-239//clics4-239//clics4-1513"
+    varieties "clics4-1478//clics4-239//clics4-239//clics4-239//clics4-1509"
     languages "nort2954//high1278//high1278//high1278//cupe1243"
     words "s o"
     Variety_Count 5
@@ -1648,30 +1648,30 @@ graph [
   ]
   node [
     id 183
-    label "SEW"
-    varieties "clics4-46//clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251//yaqu1251"
-    words "j i ʔ i k a//j i ʔ i k a"
-    Variety_Count 3
-    Language_Count 1
-  ]
-  node [
-    id 184
     label "WE (INCLUSIVE)"
-    varieties "clics4-1953//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-239//clics4-239//clics4-1213//clics4-1350//clics4-1513//clics4-1514//clics4-1515//clics4-239"
+    varieties "clics4-1950//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-239//clics4-239//clics4-1209//clics4-1348//clics4-1509//clics4-1510//clics4-1511//clics4-239"
     languages "sout2969//high1278//yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//high1278//high1278//high1278//yaqu1251//serr1255//cupe1243//cahu1264//serr1255//high1278"
     words "t a ŋ w a//t i"
     Variety_Count 16
     Language_Count 6
   ]
   node [
-    id 185
+    id 184
     label "WE (EXCLUSIVE)"
-    varieties "clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-239//clics4-239//clics4-1213//clics4-1350//clics4-1513//clics4-1514//clics4-1515//clics4-239//clics4-1480"
+    varieties "clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-239//clics4-239//clics4-1209//clics4-1348//clics4-1509//clics4-1510//clics4-1511//clics4-239//clics4-1478"
     languages "high1278//yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//high1278//high1278//high1278//yaqu1251//serr1255//cupe1243//cahu1264//serr1255//high1278//nort2954"
     words "t i//i t e p o//i t e p o//i t e p o//i t e p o//t i//t e h + w a + n//t + h//k e h//i t e̞ p o̞//i ts a m//tsʰ e m//tsʰ e m//a ts a m"
     Variety_Count 16
     Language_Count 6
+  ]
+  node [
+    id 185
+    label "SEW"
+    varieties "clics4-46//clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251//yaqu1251"
+    words "j i ʔ i k a//j i ʔ i k a"
+    Variety_Count 3
+    Language_Count 1
   ]
   node [
     id 186
@@ -1721,7 +1721,7 @@ graph [
   node [
     id 191
     label "FROG"
-    varieties "clics4-1350//clics4-1514//clics4-1632//clics4-1973"
+    varieties "clics4-1348//clics4-1510//clics4-1630//clics4-1970"
     languages "serr1255//cahu1264//tuba1278//tong1329"
     words ""
     Variety_Count 4
@@ -1739,7 +1739,7 @@ graph [
   node [
     id 193
     label "CORRECT (RIGHT)"
-    varieties "clics4-1683//clics4-46//clics4-239//clics4-1213//clics4-1632//clics4-1683"
+    varieties "clics4-1680//clics4-46//clics4-239//clics4-1209//clics4-1630//clics4-1680"
     languages "chem1251//yaqu1251//high1278//yaqu1251//tuba1278//chem1251"
     words "t y v i//t u ʔ i//kʷ a l i + j e t o k//t u ʔ i//t y"
     Variety_Count 6
@@ -1756,21 +1756,21 @@ graph [
   ]
   node [
     id 195
-    label "KNIFE"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "k u tʃ i ʔ i m"
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 196
     label "FULL"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 196
+    label "KNIFE"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "k u tʃ i ʔ i m"
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
     id 197
@@ -1784,7 +1784,7 @@ graph [
   node [
     id 198
     label "MEAT"
-    varieties "clics4-46//clics4-46//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973//clics4-1450//clics4-1450"
+    varieties "clics4-46//clics4-46//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970//clics4-1447//clics4-1447"
     languages "yaqu1251//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329//mono1275//mono1275"
     words "w aː k a s//w aː k a s//w aː i + ʃ//t u kː u a i t y n//a + t a p//t u//t u h k u//t y k a p y//t u k u//p aː + v i//w a//w a//t u k//t u k u w a//t u k u//t u kː u//t u qː u a + ʃ//t uː k e n"
     Variety_Count 20
@@ -1811,7 +1811,7 @@ graph [
   node [
     id 201
     label "FLY (INSECT)"
-    varieties "clics4-1286//clics4-1286//clics4-1514"
+    varieties "clics4-1286//clics4-1286//clics4-1510"
     languages "luis1253//luis1253//cahu1264"
     words "k u"
     Variety_Count 3
@@ -1819,7 +1819,7 @@ graph [
   ]
   node [
     id 202
-    label "ELBOW"
+    label "FINGER"
     varieties ""
     languages ""
     words ""
@@ -1828,7 +1828,7 @@ graph [
   ]
   node [
     id 203
-    label "FINGER"
+    label "ELBOW"
     varieties ""
     languages ""
     words ""
@@ -1838,7 +1838,7 @@ graph [
   node [
     id 204
     label "BLUNT"
-    varieties "clics4-1465//clics4-1465"
+    varieties "clics4-1463//clics4-1463"
     languages "utee1244//utee1244"
     words ""
     Variety_Count 2
@@ -1856,7 +1856,7 @@ graph [
   node [
     id 206
     label "SPLIT"
-    varieties "clics4-1332//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239"
+    varieties "clics4-1329//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239"
     languages "pana1305//yaqu1251//yaqu1251//yaqu1251//high1278//high1278"
     words "p a h a//tʃ u k t a//tʃ u k t a//tʃ u k t a//k i + t a p a n a//k i + t a p a n a"
     Variety_Count 6
@@ -1864,21 +1864,21 @@ graph [
   ]
   node [
     id 207
+    label "THROAT"
+    varieties "clics4-46//clics4-46//clics4-1209//clics4-1348//clics4-1509//clics4-46//clics4-1447//clics4-1447//clics4-1463"
+    languages "yaqu1251//yaqu1251//yaqu1251//serr1255//cupe1243//yaqu1251//mono1275//mono1275//utee1244"
+    words "k u s i a//k u t a n aː//k u t a n aː//n g o h o ts//p a v a"
+    Variety_Count 9
+    Language_Count 5
+  ]
+  node [
+    id 208
     label "COUGH"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
-  ]
-  node [
-    id 208
-    label "THROAT"
-    varieties "clics4-46//clics4-46//clics4-1213//clics4-1350//clics4-1513//clics4-46//clics4-1450//clics4-1450//clics4-1465"
-    languages "yaqu1251//yaqu1251//yaqu1251//serr1255//cupe1243//yaqu1251//mono1275//mono1275//utee1244"
-    words "k u s i a//k u t a n aː//k u t a n aː//n g o h o ts//p a v a"
-    Variety_Count 9
-    Language_Count 5
   ]
   node [
     id 209
@@ -1900,26 +1900,26 @@ graph [
   ]
   node [
     id 211
-    label "UPPER LEG (THIGH)"
-    varieties "clics4-46//clics4-239//clics4-1213"
-    languages "yaqu1251//high1278//yaqu1251"
-    words "m a tʃ a m//i + k e s"
-    Variety_Count 3
-    Language_Count 2
-  ]
-  node [
-    id 212
     label "GROW"
-    varieties "clics4-1480"
+    varieties "clics4-1478"
     languages "nort2954"
     words "n aː"
     Variety_Count 1
     Language_Count 1
   ]
   node [
+    id 212
+    label "UPPER LEG (THIGH)"
+    varieties "clics4-46//clics4-239//clics4-1209"
+    languages "yaqu1251//high1278//yaqu1251"
+    words "m a tʃ a m//i + k e s"
+    Variety_Count 3
+    Language_Count 2
+  ]
+  node [
     id 213
     label "FLESH"
-    varieties "clics4-46//clics4-46//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973//clics4-1450//clics4-1450"
+    varieties "clics4-46//clics4-46//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970//clics4-1447//clics4-1447"
     languages "yaqu1251//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329//mono1275//mono1275"
     words "w aː k a s"
     Variety_Count 20
@@ -1928,7 +1928,7 @@ graph [
   node [
     id 214
     label "SQUEEZE"
-    varieties "clics4-239//clics4-239//clics4-1450//clics4-1450"
+    varieties "clics4-239//clics4-239//clics4-1447//clics4-1447"
     languages "high1278//high1278//mono1275//mono1275"
     words "k i + p a tʃ k a"
     Variety_Count 4
@@ -1937,7 +1937,7 @@ graph [
   node [
     id 215
     label "THIN (OF SHAPE OF OBJECT)"
-    varieties "clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1286//clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1973"
+    varieties "clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1286//clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1970"
     languages "mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//luis1253//high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//tong1329"
     words "t y//t y//t y//t y//t y//t y//t y//t y//t y//a l u//p i tʃ a w a + k"
     Variety_Count 27
@@ -1946,7 +1946,7 @@ graph [
   node [
     id 216
     label "THIN (SLIM)"
-    varieties "clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1286//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1973"
+    varieties "clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1286//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1970"
     languages "mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//luis1253//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//tong1329"
     words "t y//t y//t y//t y//t y//t y//t y//t y//t y//a l u//w a k i l a//a l u//t a t u tː s i//i v i v i//t y//t a h i//tsʰ aː//t y k i j a i//o h o + j eː//m i ŋ i + ʃ//y a w i + ʃ//j e i p k a//a lː a l a lː i p i tsʰ//ts i a u//t a t u i h//y a r oː r e"
     Variety_Count 26
@@ -1972,15 +1972,6 @@ graph [
   ]
   node [
     id 219
-    label "CLIMB"
-    varieties "clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251"
-    words "j a ʔ a m u//j a ʔ a m u"
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 220
     label "WORM"
     varieties "clics4-239"
     languages "high1278"
@@ -1989,31 +1980,40 @@ graph [
     Language_Count 1
   ]
   node [
+    id 220
+    label "CLIMB"
+    varieties "clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251"
+    words "j a ʔ a m u//j a ʔ a m u"
+    Variety_Count 2
+    Language_Count 1
+  ]
+  node [
     id 221
-    label "HIDE (CONCEAL)"
-    varieties "clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953"
-    languages "high1278//yaqu1251//luis1253//pana1305//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969"
-    words "k i + t a t i + a"
-    Variety_Count 16
-    Language_Count 16
-  ]
-  node [
-    id 222
-    label "HIDE (ONESELF)"
-    varieties "clics4-1213//clics4-1286//clics4-1332//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953"
-    languages "yaqu1251//luis1253//pana1305//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969"
-    words "e̞ ʔ e̞ ɾ i a//h e l i//w a ts i kː a t y h//n a w aː z i//w a ts i t y k i t y//aː g//w a ts i//w a z i a//w i l y + y a x//n e ŋ//m yː j + k i n + v t//uː k uː tsʰ y + t//aː//w a ts i + t i kː i h//aː g a + ɣ w"
-    Variety_Count 15
-    Language_Count 15
-  ]
-  node [
-    id 223
     label "TAKE"
     varieties "clics4-239"
     languages "high1278"
     words ""
     Variety_Count 1
     Language_Count 1
+  ]
+  node [
+    id 222
+    label "HIDE (CONCEAL)"
+    varieties "clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950"
+    languages "high1278//yaqu1251//luis1253//pana1305//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969"
+    words "k i + t a t i + a"
+    Variety_Count 16
+    Language_Count 16
+  ]
+  node [
+    id 223
+    label "HIDE (ONESELF)"
+    varieties "clics4-1209//clics4-1286//clics4-1329//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950"
+    languages "yaqu1251//luis1253//pana1305//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969"
+    words "e̞ ʔ e̞ ɾ i a//h e l i//w a ts i kː a t y h//n a w aː z i//w a ts i t y k i t y//aː g//w a ts i//w a z i a//w i l y + y a x//n e ŋ//m yː j + k i n + v t//uː k uː tsʰ y + t//aː//w a ts i + t i kː i h//aː g a + ɣ w"
+    Variety_Count 15
+    Language_Count 15
   ]
   node [
     id 224
@@ -2054,7 +2054,7 @@ graph [
   node [
     id 228
     label "BOW"
-    varieties "clics4-1332//clics4-1450//clics4-1494//clics4-1683//clics4-1684//clics4-1286//clics4-1451//clics4-1494//clics4-1513//clics4-1514"
+    varieties "clics4-1329//clics4-1447//clics4-1490//clics4-1680//clics4-1681//clics4-1286//clics4-1448//clics4-1490//clics4-1509//clics4-1510"
     languages "pana1305//mono1275//kawa1283//chem1251//shos1248//luis1253//coma1245//kawa1283//cupe1243//cahu1264"
     words ""
     Variety_Count 10
@@ -2071,15 +2071,6 @@ graph [
   ]
   node [
     id 230
-    label "SPEAR"
-    varieties "clics4-1450//clics4-1350//clics4-1515//clics4-1450//clics4-1953//clics4-1286//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1286//clics4-1973//clics4-1973"
-    languages "mono1275//serr1255//serr1255//mono1275//sout2969//luis1253//coma1245//utee1244//nort2954//kawa1283//cupe1243//luis1253//tong1329//tong1329"
-    words "p a//h u tsʰ//h uː + t//p a//oː + ʃ//h uː l a//p aː k a//uː//p o ŋ o s a//h u w a + z i//h u y a l"
-    Variety_Count 14
-    Language_Count 10
-  ]
-  node [
-    id 231
     label "HORN (ANATOMY)"
     varieties ""
     languages ""
@@ -2088,13 +2079,22 @@ graph [
     Language_Count 0
   ]
   node [
-    id 232
+    id 231
     label "RIVER"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 232
+    label "SPEAR"
+    varieties "clics4-1447//clics4-1348//clics4-1511//clics4-1447//clics4-1950//clics4-1286//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1286//clics4-1970//clics4-1970"
+    languages "mono1275//serr1255//serr1255//mono1275//sout2969//luis1253//coma1245//utee1244//nort2954//kawa1283//cupe1243//luis1253//tong1329//tong1329"
+    words "p a//h u tsʰ//h uː + t//p a//oː + ʃ//h uː l a//p aː k a//uː//p o ŋ o s a//h u w a + z i//h u y a l"
+    Variety_Count 14
+    Language_Count 10
   ]
   node [
     id 233
@@ -2117,7 +2117,7 @@ graph [
   node [
     id 235
     label "ARROW"
-    varieties "clics4-1286//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513"
+    varieties "clics4-1286//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509"
     languages "luis1253//coma1245//utee1244//nort2954//kawa1283//cupe1243"
     words ""
     Variety_Count 6
@@ -2135,7 +2135,7 @@ graph [
   node [
     id 237
     label "ABOVE"
-    varieties "clics4-1480//clics4-1450//clics4-1450//clics4-1450//clics4-46//clics4-1286"
+    varieties "clics4-1478//clics4-1447//clics4-1447//clics4-1447//clics4-46//clics4-1286"
     languages "nort2954//mono1275//mono1275//mono1275//yaqu1251//luis1253"
     words "p aː//t u//t u//t u//b e p a//e"
     Variety_Count 6
@@ -2153,7 +2153,7 @@ graph [
   node [
     id 239
     label "LUNG"
-    varieties "clics4-1480//clics4-1973//clics4-1973"
+    varieties "clics4-1478//clics4-1970//clics4-1970"
     languages "nort2954//tong1329//tong1329"
     words ""
     Variety_Count 3
@@ -2224,15 +2224,6 @@ graph [
   ]
   node [
     id 247
-    label "SHADE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 248
     label "NARROW"
     varieties "clics4-239"
     languages "high1278"
@@ -2241,9 +2232,18 @@ graph [
     Language_Count 1
   ]
   node [
+    id 248
+    label "SHADE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
     id 249
     label "FIREWOOD"
-    varieties "clics4-239//clics4-239//clics4-239//clics4-1514//clics4-1973"
+    varieties "clics4-239//clics4-239//clics4-239//clics4-1510//clics4-1970"
     languages "high1278//high1278//high1278//cahu1264//tong1329"
     words "kʷ o w i + t"
     Variety_Count 5
@@ -2269,21 +2269,21 @@ graph [
   ]
   node [
     id 252
-    label "CHEW"
-    varieties "clics4-1450//clics4-1450//clics4-1450//clics4-1450"
-    languages "mono1275//mono1275//mono1275//mono1275"
-    words "k y//k y"
-    Variety_Count 4
-    Language_Count 1
-  ]
-  node [
-    id 253
     label "HONEY"
-    varieties "clics4-1332//clics4-1350//clics4-1973"
+    varieties "clics4-1329//clics4-1348//clics4-1970"
     languages "pana1305//serr1255//tong1329"
     words ""
     Variety_Count 3
     Language_Count 3
+  ]
+  node [
+    id 253
+    label "CHEW"
+    varieties "clics4-1447//clics4-1447//clics4-1447//clics4-1447"
+    languages "mono1275//mono1275//mono1275//mono1275"
+    words "k y//k y"
+    Variety_Count 4
+    Language_Count 1
   ]
   node [
     id 254
@@ -2351,7 +2351,7 @@ graph [
   node [
     id 261
     label "SICK"
-    varieties "clics4-46//clics4-1683//clics4-1350//clics4-1683//clics4-1953//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973//clics4-1683"
+    varieties "clics4-46//clics4-1680//clics4-1348//clics4-1680//clics4-1950//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970//clics4-1680"
     languages "yaqu1251//chem1251//serr1255//chem1251//sout2969//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329//chem1251"
     words "k o ʔ o k o e//p a k a//m u k//p a k a//p a qː a"
     Variety_Count 22
@@ -2404,15 +2404,6 @@ graph [
   ]
   node [
     id 267
-    label "BITTER"
-    varieties "clics4-46//clics4-1213"
-    languages "yaqu1251//yaqu1251"
-    words ""
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 268
     label "MAIZE"
     varieties "clics4-1286"
     languages "luis1253"
@@ -2421,16 +2412,16 @@ graph [
     Language_Count 1
   ]
   node [
-    id 269
+    id 268
     label "AND"
-    varieties "clics4-1350//clics4-1451//clics4-239"
+    varieties "clics4-1348//clics4-1448//clics4-239"
     languages "serr1255//coma1245//high1278"
     words "h a m y k//t y a s y//w a n"
     Variety_Count 3
     Language_Count 3
   ]
   node [
-    id 270
+    id 269
     label "BUTTERFLY"
     varieties ""
     languages ""
@@ -2439,9 +2430,18 @@ graph [
     Language_Count 0
   ]
   node [
+    id 270
+    label "BITTER"
+    varieties "clics4-46//clics4-1209"
+    languages "yaqu1251//yaqu1251"
+    words ""
+    Variety_Count 2
+    Language_Count 1
+  ]
+  node [
     id 271
     label "HE"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973//clics4-1451//clics4-1684//clics4-1350//clics4-1451//clics4-1514//clics4-1515//clics4-1684//clics4-1514"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970//clics4-1448//clics4-1681//clics4-1348//clics4-1448//clics4-1510//clics4-1511//clics4-1681//clics4-1510"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329//yaqu1251//yaqu1251//high1278//high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329//coma1245//shos1248//serr1255//coma1245//cahu1264//serr1255//shos1248//cahu1264"
     words ""
     Variety_Count 52
@@ -2450,7 +2450,7 @@ graph [
   node [
     id 272
     label "SHE"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973//clics4-1451//clics4-1684//clics4-1350//clics4-1451//clics4-1514//clics4-1515//clics4-1684//clics4-1514"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970//clics4-1448//clics4-1681//clics4-1348//clics4-1448//clics4-1510//clics4-1511//clics4-1681//clics4-1510"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329//yaqu1251//yaqu1251//high1278//high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329//coma1245//shos1248//serr1255//coma1245//cahu1264//serr1255//shos1248//cahu1264"
     words "aː p o//aː p o//aː p o//aː p o//j e h//j e h + w a//aː p o̞//p oː//m a t y n//a m a//i h u//m a//m aː s//u + s u//s a + m a//p e//p e//a m a//ts//m a ŋ//m a//m a ŋ a + h e//p oː"
     Variety_Count 52
@@ -2459,7 +2459,7 @@ graph [
   node [
     id 273
     label "OTHER"
-    varieties "clics4-1450//clics4-1450//clics4-1450//clics4-1494//clics4-1450//clics4-46//clics4-1213"
+    varieties "clics4-1447//clics4-1447//clics4-1447//clics4-1490//clics4-1447//clics4-46//clics4-1209"
     languages "mono1275//mono1275//mono1275//kawa1283//mono1275//yaqu1251//yaqu1251"
     words "k y//k y//k y//kʷ iː//k y//s eː n u//s e̞ː n u"
     Variety_Count 7
@@ -2468,7 +2468,7 @@ graph [
   node [
     id 274
     label "OLDER BROTHER (OF MAN)"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-1213//clics4-239//clics4-239//clics4-239//clics4-239"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-1209//clics4-239//clics4-239//clics4-239//clics4-239"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//yaqu1251//high1278//high1278//high1278//high1278"
     words "s a i l a//s a i l a//s a i//s a i//iː + k n i + w//s a i l a//s a i l a//s a i//s a i//iː + k n i + w"
     Variety_Count 21
@@ -2477,7 +2477,7 @@ graph [
   node [
     id 275
     label "OLDER BROTHER (OF WOMAN)"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-1213//clics4-239//clics4-239//clics4-239//clics4-239"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-1209//clics4-239//clics4-239//clics4-239//clics4-239"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//yaqu1251//high1278//high1278//high1278//high1278"
     words "s a i l a//s a i l a//s a i//s a i//iː + k n i + w//s a i l a//s a i l a//s a i//s a i//iː + k n i + w//s a i l a//s a i//s a i//s a i//s a i//iː + k n i + w//s a i"
     Variety_Count 21
@@ -2504,7 +2504,7 @@ graph [
   node [
     id 278
     label "INSIDE"
-    varieties "clics4-1286//clics4-1350//clics4-1450//clics4-1494//clics4-239"
+    varieties "clics4-1286//clics4-1348//clics4-1447//clics4-1490//clics4-239"
     languages "luis1253//serr1255//mono1275//kawa1283//high1278"
     words ""
     Variety_Count 5
@@ -2530,7 +2530,7 @@ graph [
   ]
   node [
     id 281
-    label "HARD"
+    label "HORSE"
     varieties ""
     languages ""
     words ""
@@ -2539,7 +2539,7 @@ graph [
   ]
   node [
     id 282
-    label "HORSE"
+    label "HARD"
     varieties ""
     languages ""
     words ""
@@ -2549,7 +2549,7 @@ graph [
   node [
     id 283
     label "NO"
-    varieties "clics4-1514//clics4-1514//clics4-1465//clics4-1450//clics4-1450//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
+    varieties "clics4-1510//clics4-1510//clics4-1463//clics4-1447//clics4-1447//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
     languages "cahu1264//cahu1264//utee1244//mono1275//mono1275//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
     words "k i//k i//k a//q a//q a"
     Variety_Count 21
@@ -2558,7 +2558,7 @@ graph [
   node [
     id 284
     label "NOT"
-    varieties "clics4-1514//clics4-1514//clics4-1465//clics4-1450//clics4-1450//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
+    varieties "clics4-1510//clics4-1510//clics4-1463//clics4-1447//clics4-1447//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
     languages "cahu1264//cahu1264//utee1244//mono1275//mono1275//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
     words "k i//k i//k a//q a//q a//q a y//k e//n a w//q a//k e//k a//g a i//j u w + aː + t y//q a y//k i//q a i//h aː i ʃ//k a ts//k e//q a//x a y"
     Variety_Count 21
@@ -2567,7 +2567,7 @@ graph [
   node [
     id 285
     label "TURN (SOMETHING)"
-    varieties "clics4-239//clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953"
+    varieties "clics4-239//clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950"
     languages "high1278//high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969"
     words "k i + n e l o + a//k i + n e l o + a//k u a k t e̞//m o m a//m u n u h//m a n u m k//m i//k oː n i t y//k o m o n i tsʰ i//ts a m y n a//m y n i ʃ i//w a x + y a x//m e y e//n g o h aː h + q + t u r n + w//p a j k + y t//k o t o//p u i n u a h//m y n i tsː i + ɣ + t o + t u r n + o v e r"
     Variety_Count 18
@@ -2576,7 +2576,7 @@ graph [
   node [
     id 286
     label "TURN AROUND"
-    varieties "clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-239//clics4-239"
+    varieties "clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-239//clics4-239"
     languages "high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//high1278//high1278"
     words "k i + k e p a"
     Variety_Count 19
@@ -2602,15 +2602,6 @@ graph [
   ]
   node [
     id 289
-    label "FEW"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 290
     label "STAB"
     varieties ""
     languages ""
@@ -2619,13 +2610,22 @@ graph [
     Language_Count 0
   ]
   node [
-    id 291
-    label "BRAIN"
+    id 290
+    label "FEW"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 291
+    label "THERE"
+    varieties "clics4-46//clics4-1209"
+    languages "yaqu1251//yaqu1251"
+    words ""
+    Variety_Count 2
+    Language_Count 1
   ]
   node [
     id 292
@@ -2638,16 +2638,7 @@ graph [
   ]
   node [
     id 293
-    label "THERE"
-    varieties "clics4-46//clics4-1213"
-    languages "yaqu1251//yaqu1251"
-    words ""
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 294
-    label "TOBACCO"
+    label "BRAIN"
     varieties ""
     languages ""
     words ""
@@ -2655,7 +2646,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 295
+    id 294
     label "HOLE"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -2664,8 +2655,17 @@ graph [
     Language_Count 1
   ]
   node [
-    id 296
+    id 295
     label "LIP"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 296
+    label "TOBACCO"
     varieties ""
     languages ""
     words ""
@@ -2711,7 +2711,7 @@ graph [
   node [
     id 301
     label "WORK (ACTIVITY)"
-    varieties "clics4-1683//clics4-1683"
+    varieties "clics4-1680//clics4-1680"
     languages "chem1251//chem1251"
     words "t y v i//t y v i"
     Variety_Count 2
@@ -2719,7 +2719,7 @@ graph [
   ]
   node [
     id 302
-    label "SWALLOW"
+    label "ARMPIT"
     varieties ""
     languages ""
     words ""
@@ -2728,7 +2728,7 @@ graph [
   ]
   node [
     id 303
-    label "ARMPIT"
+    label "SWALLOW"
     varieties ""
     languages ""
     words ""
@@ -2828,7 +2828,7 @@ graph [
   node [
     id 314
     label "PAINFUL"
-    varieties "clics4-1683//clics4-1350//clics4-1683//clics4-1953//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973//clics4-1683"
+    varieties "clics4-1680//clics4-1348//clics4-1680//clics4-1950//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970//clics4-1680"
     languages "chem1251//serr1255//chem1251//sout2969//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329//chem1251"
     words "p a k a//m u k//p a k a//p a qː a//t i w a//k a mː a h//m u k//q a m a//h o y o p i y//p a k a k i//t y o j a i//j eː//q aː w i + ʃ//q e l y a//m y h ts a n//y nː y h y + a t//p a k a//k a mː a h + d u lː + p a i n//p a qː a//ts aː y t//p a k a"
     Variety_Count 21
@@ -2845,21 +2845,21 @@ graph [
   ]
   node [
     id 316
+    label "SOUR"
+    varieties "clics4-46//clics4-1209"
+    languages "yaqu1251//yaqu1251"
+    words "tʃ iː b u//tʃ iː β u"
+    Variety_Count 2
+    Language_Count 1
+  ]
+  node [
+    id 317
     label "MONKEY"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
-  ]
-  node [
-    id 317
-    label "SOUR"
-    varieties "clics4-46//clics4-1213"
-    languages "yaqu1251//yaqu1251"
-    words "tʃ iː b u//tʃ iː β u"
-    Variety_Count 2
-    Language_Count 1
   ]
   node [
     id 318
@@ -2891,7 +2891,7 @@ graph [
   node [
     id 321
     label "HAIR (HEAD)"
-    varieties "clics4-1286//clics4-1450//clics4-1513//clics4-1514//clics4-1684//clics4-1513"
+    varieties "clics4-1286//clics4-1447//clics4-1509//clics4-1510//clics4-1681//clics4-1509"
     languages "luis1253//mono1275//cupe1243//cahu1264//shos1248//cupe1243"
     words ""
     Variety_Count 6
@@ -2918,7 +2918,7 @@ graph [
   node [
     id 324
     label "DRUM"
-    varieties "clics4-1465"
+    varieties "clics4-1463"
     languages "utee1244"
     words "p a p u n i"
     Variety_Count 1
@@ -2926,7 +2926,7 @@ graph [
   ]
   node [
     id 325
-    label "LIGHT (RADIATION)"
+    label "DOVE"
     varieties ""
     languages ""
     words ""
@@ -2935,7 +2935,7 @@ graph [
   ]
   node [
     id 326
-    label "DOVE"
+    label "LIGHT (RADIATION)"
     varieties ""
     languages ""
     words ""
@@ -2963,7 +2963,7 @@ graph [
   node [
     id 329
     label "CUT OR HACK"
-    varieties "clics4-1450//clics4-1450"
+    varieties "clics4-1447//clics4-1447"
     languages "mono1275//mono1275"
     words "w i//w i"
     Variety_Count 2
@@ -2989,15 +2989,6 @@ graph [
   ]
   node [
     id 332
-    label "WOOD"
-    varieties "clics4-239//clics4-239//clics4-239//clics4-46"
-    languages "high1278//high1278//high1278//yaqu1251"
-    words ""
-    Variety_Count 4
-    Language_Count 2
-  ]
-  node [
-    id 333
     label "POUND"
     varieties "clics4-239"
     languages "high1278"
@@ -3006,22 +2997,31 @@ graph [
     Language_Count 1
   ]
   node [
-    id 334
-    label "WORK (LABOUR)"
-    varieties ""
-    languages ""
+    id 333
+    label "WOOD"
+    varieties "clics4-239//clics4-239//clics4-239//clics4-46"
+    languages "high1278//high1278//high1278//yaqu1251"
     words ""
-    Variety_Count 0
-    Language_Count 0
+    Variety_Count 4
+    Language_Count 2
   ]
   node [
-    id 335
+    id 334
     label "SOFT"
     varieties "clics4-239"
     languages "high1278"
     words ""
     Variety_Count 1
     Language_Count 1
+  ]
+  node [
+    id 335
+    label "WORK (LABOUR)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 336
@@ -3043,21 +3043,21 @@ graph [
   ]
   node [
     id 338
-    label "SUGAR CANE"
-    varieties "clics4-1332//clics4-1350//clics4-1973//clics4-46"
-    languages "pana1305//serr1255//tong1329//yaqu1251"
-    words "p i h n aː p i n//p i h a + tʃ//a w eː//a s u k a"
-    Variety_Count 4
-    Language_Count 4
-  ]
-  node [
-    id 339
     label "DARK"
-    varieties "clics4-46//clics4-1213"
+    varieties "clics4-46//clics4-1209"
     languages "yaqu1251//yaqu1251"
     words ""
     Variety_Count 2
     Language_Count 1
+  ]
+  node [
+    id 339
+    label "SUGAR CANE"
+    varieties "clics4-1329//clics4-1348//clics4-1970//clics4-46"
+    languages "pana1305//serr1255//tong1329//yaqu1251"
+    words "p i h n aː p i n//p i h a + tʃ//a w eː//a s u k a"
+    Variety_Count 4
+    Language_Count 4
   ]
   node [
     id 340
@@ -3071,7 +3071,7 @@ graph [
   node [
     id 341
     label "OLDER SISTER (OF MAN)"
-    varieties "clics4-239//clics4-239//clics4-239//clics4-239//clics4-46//clics4-46//clics4-239//clics4-239//clics4-46//clics4-46//clics4-239//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1213//clics4-46//clics4-46"
+    varieties "clics4-239//clics4-239//clics4-239//clics4-239//clics4-46//clics4-46//clics4-239//clics4-239//clics4-46//clics4-46//clics4-239//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1209//clics4-46//clics4-46"
     languages "high1278//high1278//high1278//high1278//yaqu1251//yaqu1251//high1278//high1278//yaqu1251//yaqu1251//high1278//high1278//yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//high1278//yaqu1251//yaqu1251//yaqu1251"
     words "iː + k n i + w//iː + k n i + w//iː + k n i + w//iː + k n i + w//a k o//a k o//iː + k n i + w//n o + sʷ aː + i k n iː + w//a k o//a k o//iː + k n i + w//n o + sʷ aː + i k n iː + w"
     Variety_Count 21
@@ -3080,7 +3080,7 @@ graph [
   node [
     id 342
     label "OLDER SISTER (OF WOMAN)"
-    varieties "clics4-239//clics4-239//clics4-239//clics4-239//clics4-46//clics4-46//clics4-239//clics4-239//clics4-46//clics4-46//clics4-239//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1213//clics4-46//clics4-46"
+    varieties "clics4-239//clics4-239//clics4-239//clics4-239//clics4-46//clics4-46//clics4-239//clics4-239//clics4-46//clics4-46//clics4-239//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1209//clics4-46//clics4-46"
     languages "high1278//high1278//high1278//high1278//yaqu1251//yaqu1251//high1278//high1278//yaqu1251//yaqu1251//high1278//high1278//yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//high1278//yaqu1251//yaqu1251//yaqu1251"
     words "iː + k n i + w//iː + k n i + w//iː + k n i + w//iː + k n i + w//a k o//a k o//iː + k n i + w//n o + sʷ aː + i k n iː + w//a k o//a k o//iː + k n i + w//n o + sʷ aː + i k n iː + w//a k o//a k o//a k o//a k o//iː + k n i + w//n o + sʷ aː + i k n iː + w//a k o̞"
     Variety_Count 21
@@ -3133,24 +3133,15 @@ graph [
   ]
   node [
     id 348
-    label "FAST"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 349
     label "BASKET"
-    varieties "clics4-1451"
+    varieties "clics4-1448"
     languages "coma1245"
     words "aː w o"
     Variety_Count 1
     Language_Count 1
   ]
   node [
-    id 350
+    id 349
     label "SCORPION"
     varieties ""
     languages ""
@@ -3159,8 +3150,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 351
+    id 350
     label "SNEEZE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 351
+    label "FAST"
     varieties ""
     languages ""
     words ""
@@ -3179,7 +3179,7 @@ graph [
   node [
     id 353
     label "FAECES (EXCREMENT)"
-    varieties "clics4-1514"
+    varieties "clics4-1510"
     languages "cahu1264"
     words "kʷ a"
     Variety_Count 1
@@ -3214,21 +3214,21 @@ graph [
   ]
   node [
     id 357
+    label "DUCK"
+    varieties "clics4-1447"
+    languages "mono1275"
+    words "p i y a"
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 358
     label "TOE"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
-  ]
-  node [
-    id 358
-    label "DUCK"
-    varieties "clics4-1450"
-    languages "mono1275"
-    words "p i y a"
-    Variety_Count 1
-    Language_Count 1
   ]
   node [
     id 359
@@ -3241,21 +3241,21 @@ graph [
   ]
   node [
     id 360
-    label "LIGHT (WEIGHT)"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 361
     label "GOAT"
     varieties "clics4-46"
     languages "yaqu1251"
     words ""
     Variety_Count 1
     Language_Count 1
+  ]
+  node [
+    id 361
+    label "LIGHT (WEIGHT)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 362
@@ -3268,7 +3268,7 @@ graph [
   ]
   node [
     id 363
-    label "FRIEND"
+    label "RUB"
     varieties ""
     languages ""
     words ""
@@ -3277,7 +3277,7 @@ graph [
   ]
   node [
     id 364
-    label "RUB"
+    label "FRIEND"
     varieties ""
     languages ""
     words ""
@@ -3314,7 +3314,7 @@ graph [
   node [
     id 368
     label "SMOOTH"
-    varieties "clics4-46//clics4-1213//clics4-239"
+    varieties "clics4-46//clics4-1209//clics4-239"
     languages "yaqu1251//yaqu1251//high1278"
     words "tʃ i t a b e t a l a i//tʃ i t a β e̞ t a l a i//j e m a ʃ + tʃ i n"
     Variety_Count 3
@@ -3359,7 +3359,7 @@ graph [
   node [
     id 373
     label "MAT"
-    varieties "clics4-239//clics4-1332//clics4-1332"
+    varieties "clics4-239//clics4-1329//clics4-1329"
     languages "high1278//pana1305//pana1305"
     words "t a p e tʃ//p o h m aː//p o h m aː"
     Variety_Count 3
@@ -3367,15 +3367,6 @@ graph [
   ]
   node [
     id 374
-    label "THREAD"
-    varieties "clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251"
-    words ""
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 375
     label "GO UP (ASCEND)"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -3384,8 +3375,17 @@ graph [
     Language_Count 1
   ]
   node [
+    id 375
+    label "THREAD"
+    varieties "clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251"
+    words ""
+    Variety_Count 2
+    Language_Count 1
+  ]
+  node [
     id 376
-    label "PISS"
+    label "CROW"
     varieties ""
     languages ""
     words ""
@@ -3394,7 +3394,7 @@ graph [
   ]
   node [
     id 377
-    label "CROW"
+    label "PISS"
     varieties ""
     languages ""
     words ""
@@ -3502,15 +3502,6 @@ graph [
   ]
   node [
     id 389
-    label "BEAUTIFUL"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 390
     label "EVIL"
     varieties ""
     languages ""
@@ -3519,8 +3510,17 @@ graph [
     Language_Count 0
   ]
   node [
+    id 390
+    label "AT"
+    varieties "clics4-1286//clics4-1348//clics4-1447//clics4-1490//clics4-46"
+    languages "luis1253//serr1255//mono1275//kawa1283//yaqu1251"
+    words "ŋ a//p e a//w eː//p i"
+    Variety_Count 5
+    Language_Count 5
+  ]
+  node [
     id 391
-    label "COMB"
+    label "BEAUTIFUL"
     varieties ""
     languages ""
     words ""
@@ -3529,12 +3529,12 @@ graph [
   ]
   node [
     id 392
-    label "AT"
-    varieties "clics4-1286//clics4-1350//clics4-1450//clics4-1494//clics4-46"
-    languages "luis1253//serr1255//mono1275//kawa1283//yaqu1251"
-    words "ŋ a//p e a//w eː//p i"
-    Variety_Count 5
-    Language_Count 5
+    label "COMB"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 393
@@ -3548,7 +3548,7 @@ graph [
   node [
     id 394
     label "YOUNGER BROTHER (OF WOMAN)"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-1213//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-239//clics4-239//clics4-239"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-1209//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-239//clics4-239//clics4-239"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//high1278//high1278//high1278//high1278"
     words "s a i l a//s a i l a//s a i l a//s a i l a//s a i//iː + k n i + w//s a i l a"
     Variety_Count 21
@@ -3557,7 +3557,7 @@ graph [
   node [
     id 395
     label "YOUNGER BROTHER (OF MAN)"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-1213//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-239//clics4-239//clics4-239"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-1209//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-239//clics4-239//clics4-239"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//high1278//high1278//high1278//high1278"
     words ""
     Variety_Count 21
@@ -3610,15 +3610,6 @@ graph [
   ]
   node [
     id 401
-    label "FENCE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 402
     label "HOE"
     varieties ""
     languages ""
@@ -3627,13 +3618,22 @@ graph [
     Language_Count 0
   ]
   node [
-    id 403
-    label "SHOUT"
+    id 402
+    label "FENCE"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 403
+    label "SNORE"
+    varieties "clics4-239"
+    languages "high1278"
+    words ""
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
     id 404
@@ -3646,12 +3646,12 @@ graph [
   ]
   node [
     id 405
-    label "SNORE"
-    varieties "clics4-239"
-    languages "high1278"
+    label "SHOUT"
+    varieties ""
+    languages ""
     words ""
-    Variety_Count 1
-    Language_Count 1
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 406
@@ -3664,7 +3664,7 @@ graph [
   ]
   node [
     id 407
-    label "POOR"
+    label "IF"
     varieties ""
     languages ""
     words ""
@@ -3673,7 +3673,7 @@ graph [
   ]
   node [
     id 408
-    label "IF"
+    label "POOR"
     varieties ""
     languages ""
     words ""
@@ -3683,7 +3683,7 @@ graph [
   node [
     id 409
     label "FLAT"
-    varieties "clics4-46//clics4-1213"
+    varieties "clics4-46//clics4-1209"
     languages "yaqu1251//yaqu1251"
     words ""
     Variety_Count 2
@@ -3701,7 +3701,7 @@ graph [
   node [
     id 411
     label "IT"
-    varieties "clics4-46//clics4-46//clics4-239//clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973//clics4-1451//clics4-1684//clics4-1350//clics4-1451//clics4-1514//clics4-1515//clics4-1684//clics4-1514"
+    varieties "clics4-46//clics4-46//clics4-239//clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970//clics4-1448//clics4-1681//clics4-1348//clics4-1448//clics4-1510//clics4-1511//clics4-1681//clics4-1510"
     languages "yaqu1251//yaqu1251//high1278//high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329//yaqu1251//yaqu1251//high1278//high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329//coma1245//shos1248//serr1255//coma1245//cahu1264//serr1255//shos1248//cahu1264"
     words "aː p o//aː p o//j e h//j e h + w a//aː p o̞//p oː//m a t y n//a m a//i h u//m a//m aː s//u + s u//s a + m a//p e//p e//a m a//ts//m a ŋ//m a//m a ŋ a + h e//p oː//aː p o//aː p o//j e h//j e h + w a//aː p o̞//p oː//m a t y n//a m a//i h u//m a//m aː s//u + s u//s a + m a//p e//p e//a m a//ts//m a ŋ//m a//m a ŋ a + h e//p oː"
     Variety_Count 50
@@ -3727,15 +3727,6 @@ graph [
   ]
   node [
     id 414
-    label "BROOM"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 415
     label "BREAK (CLEAVE)"
     varieties "clics4-46//clics4-46//clics4-239//clics4-239//clics4-239//clics4-239"
     languages "yaqu1251//yaqu1251//high1278//high1278//high1278//high1278"
@@ -3744,7 +3735,7 @@ graph [
     Language_Count 2
   ]
   node [
-    id 416
+    id 415
     label "BREAK (BREAKING)"
     varieties "clics4-46//clics4-46//clics4-239//clics4-239//clics4-239//clics4-239"
     languages "yaqu1251//yaqu1251//high1278//high1278//high1278//high1278"
@@ -3753,7 +3744,7 @@ graph [
     Language_Count 2
   ]
   node [
-    id 417
+    id 416
     label "GARDEN"
     varieties ""
     languages ""
@@ -3762,8 +3753,17 @@ graph [
     Language_Count 0
   ]
   node [
+    id 417
+    label "BROOM"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
     id 418
-    label "DEEP"
+    label "ELEPHANT"
     varieties ""
     languages ""
     words ""
@@ -3772,7 +3772,7 @@ graph [
   ]
   node [
     id 419
-    label "ELEPHANT"
+    label "DEEP"
     varieties ""
     languages ""
     words ""
@@ -3808,15 +3808,6 @@ graph [
   ]
   node [
     id 423
-    label "THING"
-    varieties "clics4-46//clics4-239//clics4-46//clics4-46"
-    languages "yaqu1251//high1278//yaqu1251//yaqu1251"
-    words ""
-    Variety_Count 4
-    Language_Count 2
-  ]
-  node [
-    id 424
     label "RAIN (RAINING)"
     varieties ""
     languages ""
@@ -3825,13 +3816,22 @@ graph [
     Language_Count 0
   ]
   node [
-    id 425
+    id 424
     label "TOWN"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 425
+    label "THING"
+    varieties "clics4-46//clics4-239//clics4-46//clics4-46"
+    languages "yaqu1251//high1278//yaqu1251//yaqu1251"
+    words ""
+    Variety_Count 4
+    Language_Count 2
   ]
   node [
     id 426
@@ -3863,7 +3863,7 @@ graph [
   node [
     id 429
     label "YOUNGER SISTER (OF MAN)"
-    varieties "clics4-239//clics4-239//clics4-239//clics4-239//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1213//clics4-46//clics4-46//clics4-239//clics4-239//clics4-46//clics4-46//clics4-239//clics4-239//clics4-46"
+    varieties "clics4-239//clics4-239//clics4-239//clics4-239//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1209//clics4-46//clics4-46//clics4-239//clics4-239//clics4-46//clics4-46//clics4-239//clics4-239//clics4-46"
     languages "high1278//high1278//high1278//high1278//yaqu1251//yaqu1251//high1278//high1278//yaqu1251//yaqu1251//yaqu1251//high1278//high1278//yaqu1251//yaqu1251//high1278//high1278//yaqu1251"
     words "iː + k n i + w//iː + k n i + w//iː + k n i + w//iː + k n i + w"
     Variety_Count 18
@@ -3872,7 +3872,7 @@ graph [
   node [
     id 430
     label "YOUNGER SISTER (OF WOMAN)"
-    varieties "clics4-239//clics4-239//clics4-239//clics4-239//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1213//clics4-46//clics4-46//clics4-239//clics4-239//clics4-46//clics4-46//clics4-239//clics4-239//clics4-46"
+    varieties "clics4-239//clics4-239//clics4-239//clics4-239//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1209//clics4-46//clics4-46//clics4-239//clics4-239//clics4-46//clics4-46//clics4-239//clics4-239//clics4-46"
     languages "high1278//high1278//high1278//high1278//yaqu1251//yaqu1251//high1278//high1278//yaqu1251//yaqu1251//yaqu1251//high1278//high1278//yaqu1251//yaqu1251//high1278//high1278//yaqu1251"
     words "iː + k n i + w//iː + k n i + w//iː + k n i + w//iː + k n i + w//a k o//w a i//iː + k n i + w//n o + sʷ aː + i k n iː + w//w a i"
     Variety_Count 18
@@ -3880,21 +3880,21 @@ graph [
   ]
   node [
     id 431
-    label "BEFORE"
-    varieties "clics4-46//clics4-1213//clics4-239"
-    languages "yaqu1251//yaqu1251//high1278"
-    words ""
-    Variety_Count 3
-    Language_Count 2
-  ]
-  node [
-    id 432
     label "BLUE"
     varieties "clics4-239"
     languages "high1278"
     words ""
     Variety_Count 1
     Language_Count 1
+  ]
+  node [
+    id 432
+    label "BEFORE"
+    varieties "clics4-46//clics4-1209//clics4-239"
+    languages "yaqu1251//yaqu1251//high1278"
+    words ""
+    Variety_Count 3
+    Language_Count 2
   ]
   node [
     id 433
@@ -3907,6 +3907,15 @@ graph [
   ]
   node [
     id 434
+    label "OWL"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 435
     label "CLOTH"
     varieties "clics4-239"
     languages "high1278"
@@ -3915,22 +3924,13 @@ graph [
     Language_Count 1
   ]
   node [
-    id 435
+    id 436
     label "OLD MAN"
     varieties "clics4-239//clics4-239"
     languages "high1278//high1278"
     words ""
     Variety_Count 2
     Language_Count 1
-  ]
-  node [
-    id 436
-    label "OWL"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
   ]
   node [
     id 437
@@ -3943,15 +3943,6 @@ graph [
   ]
   node [
     id 438
-    label "LAZY"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 439
     label "RICH"
     varieties ""
     languages ""
@@ -3960,8 +3951,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 440
+    id 439
     label "GET"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 440
+    label "LAZY"
     varieties ""
     languages ""
     words ""
@@ -4061,7 +4061,7 @@ graph [
   node [
     id 451
     label "THATCH"
-    varieties "clics4-46//clics4-1286//clics4-1350//clics4-1465//clics4-1494//clics4-1513//clics4-1514//clics4-1632//clics4-1683"
+    varieties "clics4-46//clics4-1286//clics4-1348//clics4-1463//clics4-1490//clics4-1509//clics4-1510//clics4-1630//clics4-1680"
     languages "yaqu1251//luis1253//serr1255//utee1244//kawa1283//cupe1243//cahu1264//tuba1278//chem1251"
     words "r a m aː//k o t l a + ʃ//h a m a n//k a n i u vʷ aː g//tsʰ i k u p u + w a + a k a + k a h n i + j a//t eː tsʰ o//k i s + v a x a t//w a tː a ŋ aː + n + h a nː iː l i ŋ//t a k a"
     Variety_Count 9
@@ -4070,7 +4070,7 @@ graph [
   node [
     id 452
     label "ROOF"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-1286//clics4-1350//clics4-1465//clics4-1494//clics4-1513//clics4-1514//clics4-1632//clics4-1683"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-1286//clics4-1348//clics4-1463//clics4-1490//clics4-1509//clics4-1510//clics4-1630//clics4-1680"
     languages "yaqu1251//yaqu1251//yaqu1251//luis1253//serr1255//utee1244//kawa1283//cupe1243//cahu1264//tuba1278//chem1251"
     words "b e p a ʔ a r i a//b e p a ʔ a r i a"
     Variety_Count 11
@@ -4106,7 +4106,7 @@ graph [
   node [
     id 456
     label "AGAIN"
-    varieties "clics4-1350//clics4-1451"
+    varieties "clics4-1348//clics4-1448"
     languages "serr1255//coma1245"
     words ""
     Variety_Count 2
@@ -4132,7 +4132,7 @@ graph [
   ]
   node [
     id 459
-    label "TEAR (SHRED)"
+    label "KNEEL"
     varieties ""
     languages ""
     words ""
@@ -4141,21 +4141,21 @@ graph [
   ]
   node [
     id 460
+    label "TEAR (SHRED)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 461
     label "WEAVE"
     varieties "clics4-46//clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251//yaqu1251"
     words "j i ʔ i k a"
     Variety_Count 3
     Language_Count 1
-  ]
-  node [
-    id 461
-    label "KNEEL"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
   ]
   node [
     id 462
@@ -4186,21 +4186,21 @@ graph [
   ]
   node [
     id 465
+    label "GUN"
+    varieties "clics4-1329//clics4-1447//clics4-1490//clics4-1680//clics4-1681//clics4-46//clics4-1490"
+    languages "pana1305//mono1275//kawa1283//chem1251//shos1248//yaqu1251//kawa1283"
+    words "e t y n//e d y//e d y//a ts y//a i t i//w i k o ʔ i"
+    Variety_Count 7
+    Language_Count 6
+  ]
+  node [
+    id 466
     label "LOVE"
     varieties "clics4-46"
     languages "yaqu1251"
     words ""
     Variety_Count 1
     Language_Count 1
-  ]
-  node [
-    id 466
-    label "GUN"
-    varieties "clics4-1332//clics4-1450//clics4-1494//clics4-1683//clics4-1684//clics4-46//clics4-1494"
-    languages "pana1305//mono1275//kawa1283//chem1251//shos1248//yaqu1251//kawa1283"
-    words "e t y n//e d y//e d y//a ts y//a i t i//w i k o ʔ i"
-    Variety_Count 7
-    Language_Count 6
   ]
   node [
     id 467
@@ -4214,7 +4214,7 @@ graph [
   node [
     id 468
     label "POT"
-    varieties "clics4-46//clics4-46//clics4-1465//clics4-1451"
+    varieties "clics4-46//clics4-46//clics4-1463//clics4-1448"
     languages "yaqu1251//yaqu1251//utee1244//coma1245"
     words ""
     Variety_Count 4
@@ -4268,7 +4268,7 @@ graph [
   node [
     id 474
     label "DEER"
-    varieties "clics4-1450//clics4-1450//clics4-1450//clics4-46//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450//clics4-1450"
+    varieties "clics4-1447//clics4-1447//clics4-1447//clics4-46//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447//clics4-1447"
     languages "mono1275//mono1275//mono1275//yaqu1251//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275//mono1275"
     words "t y//t y//t y"
     Variety_Count 11
@@ -4276,15 +4276,6 @@ graph [
   ]
   node [
     id 475
-    label "PESTLE"
-    varieties "clics4-1973"
-    languages "tong1329"
-    words ""
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 476
     label "REMAIN"
     varieties ""
     languages ""
@@ -4293,11 +4284,20 @@ graph [
     Language_Count 0
   ]
   node [
-    id 477
+    id 476
     label "KING"
     varieties "clics4-46"
     languages "yaqu1251"
     words "j a ʔ u t"
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 477
+    label "PESTLE"
+    varieties "clics4-1970"
+    languages "tong1329"
+    words ""
     Variety_Count 1
     Language_Count 1
   ]
@@ -4312,15 +4312,6 @@ graph [
   ]
   node [
     id 479
-    label "FISHING"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 480
     label "PARROT"
     varieties ""
     languages ""
@@ -4329,16 +4320,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 481
-    label "DIVIDE"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-239"
-    languages "yaqu1251//yaqu1251//yaqu1251//high1278"
-    words "n a ʔ i k i m t e//n a ʔ i k i m t e//n a ʔ i k i m t e//k i + ʃ e l o + a"
-    Variety_Count 4
-    Language_Count 2
+    id 480
+    label "FISHING"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
-    id 482
+    id 481
     label "NEST"
     varieties ""
     languages ""
@@ -4347,9 +4338,18 @@ graph [
     Language_Count 0
   ]
   node [
+    id 482
+    label "BOAT"
+    varieties "clics4-46//clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251//yaqu1251"
+    words "b a j u t"
+    Variety_Count 3
+    Language_Count 1
+  ]
+  node [
     id 483
     label "IN FRONT OF"
-    varieties "clics4-46//clics4-1213"
+    varieties "clics4-46//clics4-1209"
     languages "yaqu1251//yaqu1251"
     words "b i tʃ a p o//β i tʃ a p o̞"
     Variety_Count 2
@@ -4357,12 +4357,12 @@ graph [
   ]
   node [
     id 484
-    label "BOAT"
-    varieties "clics4-46//clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251//yaqu1251"
-    words "b a j u t"
-    Variety_Count 3
-    Language_Count 1
+    label "DIVIDE"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-239"
+    languages "yaqu1251//yaqu1251//yaqu1251//high1278"
+    words "n a ʔ i k i m t e//n a ʔ i k i m t e//n a ʔ i k i m t e//k i + ʃ e l o + a"
+    Variety_Count 4
+    Language_Count 2
   ]
   node [
     id 485
@@ -4384,21 +4384,21 @@ graph [
   ]
   node [
     id 487
-    label "UGLY"
-    varieties "clics4-239"
-    languages "high1278"
-    words "p i tʃ o + t i + k"
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 488
     label "EAST"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 488
+    label "UGLY"
+    varieties "clics4-239"
+    languages "high1278"
+    words "p i tʃ o + t i + k"
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
     id 489
@@ -4411,21 +4411,21 @@ graph [
   ]
   node [
     id 490
-    label "MONTH"
-    varieties "clics4-46//clics4-239"
-    languages "yaqu1251//high1278"
-    words "m eː tʃ a//m e tʃ + t i"
-    Variety_Count 2
-    Language_Count 2
-  ]
-  node [
-    id 491
     label "THUMB"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 491
+    label "MONTH"
+    varieties "clics4-46//clics4-239"
+    languages "yaqu1251//high1278"
+    words "m eː tʃ a//m e tʃ + t i"
+    Variety_Count 2
+    Language_Count 2
   ]
   node [
     id 492
@@ -4456,15 +4456,6 @@ graph [
   ]
   node [
     id 495
-    label "COVER"
-    varieties "clics4-239//clics4-239"
-    languages "high1278//high1278"
-    words "k i + p a tʃ o + a//k i + tʃ a kʷ a"
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 496
     label "WEST"
     varieties ""
     languages ""
@@ -4473,13 +4464,22 @@ graph [
     Language_Count 0
   ]
   node [
-    id 497
+    id 496
     label "SNOW"
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
     words ""
     Variety_Count 2
     Language_Count 2
+  ]
+  node [
+    id 497
+    label "COVER"
+    varieties "clics4-239//clics4-239"
+    languages "high1278//high1278"
+    words "k i + p a tʃ o + a//k i + tʃ a kʷ a"
+    Variety_Count 2
+    Language_Count 1
   ]
   node [
     id 498
@@ -4501,15 +4501,6 @@ graph [
   ]
   node [
     id 500
-    label "BLIND"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 501
     label "SEIZE"
     varieties "clics4-239"
     languages "high1278"
@@ -4518,8 +4509,8 @@ graph [
     Language_Count 1
   ]
   node [
-    id 502
-    label "GO DOWN (DESCEND)"
+    id 501
+    label "BLIND"
     varieties ""
     languages ""
     words ""
@@ -4527,7 +4518,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 503
+    id 502
     label "SHY"
     varieties ""
     languages ""
@@ -4536,7 +4527,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 504
+    id 503
     label "MEET"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -4545,8 +4536,8 @@ graph [
     Language_Count 1
   ]
   node [
-    id 505
-    label "THORN"
+    id 504
+    label "GO DOWN (DESCEND)"
     varieties ""
     languages ""
     words ""
@@ -4554,13 +4545,22 @@ graph [
     Language_Count 0
   ]
   node [
-    id 506
+    id 505
     label "FLEA"
-    varieties "clics4-1465"
+    varieties "clics4-1463"
     languages "utee1244"
     words ""
     Variety_Count 1
     Language_Count 1
+  ]
+  node [
+    id 506
+    label "THORN"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 507
@@ -4573,24 +4573,6 @@ graph [
   ]
   node [
     id 508
-    label "ASK (REQUEST)"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 509
-    label "WEAK"
-    varieties "clics4-239"
-    languages "high1278"
-    words "kʷ e kʷ e t a k a"
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 510
     label "CENTIPEDE"
     varieties ""
     languages ""
@@ -4599,12 +4581,30 @@ graph [
     Language_Count 0
   ]
   node [
-    id 511
+    id 509
     label "WHICH"
     varieties "clics4-46//clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251//yaqu1251"
     words "j i t a//j i t a//j i t a"
     Variety_Count 3
+    Language_Count 1
+  ]
+  node [
+    id 510
+    label "ASK (REQUEST)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 511
+    label "WEAK"
+    varieties "clics4-239"
+    languages "high1278"
+    words "kʷ e kʷ e t a k a"
+    Variety_Count 1
     Language_Count 1
   ]
   node [
@@ -4618,15 +4618,6 @@ graph [
   ]
   node [
     id 513
-    label "DEAF"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 514
     label "MIDDAY"
     varieties ""
     languages ""
@@ -4635,8 +4626,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 515
+    id 514
     label "DAY BEFORE YESTERDAY"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 515
+    label "DEAF"
     varieties ""
     languages ""
     words ""
@@ -4663,30 +4663,30 @@ graph [
   ]
   node [
     id 518
-    label "WASP"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 519
     label "EARRING"
-    varieties "clics4-1953"
+    varieties "clics4-1950"
     languages "sout2969"
     words ""
     Variety_Count 1
     Language_Count 1
   ]
   node [
-    id 520
+    id 519
     label "LION"
     varieties "clics4-46"
     languages "yaqu1251"
     words ""
     Variety_Count 1
     Language_Count 1
+  ]
+  node [
+    id 520
+    label "WASP"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 521
@@ -4709,7 +4709,7 @@ graph [
   node [
     id 523
     label "CHIEFTAIN"
-    varieties "clics4-1515//clics4-46"
+    varieties "clics4-1511//clics4-46"
     languages "serr1255//yaqu1251"
     words "k e"
     Variety_Count 2
@@ -4717,24 +4717,6 @@ graph [
   ]
   node [
     id 524
-    label "SHUT"
-    varieties "clics4-239"
-    languages "high1278"
-    words ""
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 525
-    label "EVENING"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 526
     label "HOW MANY PIECES"
     varieties "clics4-239"
     languages "high1278"
@@ -4743,7 +4725,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 527
+    id 525
     label "HOW MUCH"
     varieties "clics4-239"
     languages "high1278"
@@ -4752,8 +4734,26 @@ graph [
     Language_Count 1
   ]
   node [
+    id 526
+    label "SHUT"
+    varieties "clics4-239"
+    languages "high1278"
+    words ""
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 527
+    label "EVENING"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
     id 528
-    label "ANSWER"
+    label "BOOK"
     varieties ""
     languages ""
     words ""
@@ -4762,7 +4762,7 @@ graph [
   ]
   node [
     id 529
-    label "SHIT (DEFECATE)"
+    label "ANSWER"
     varieties ""
     languages ""
     words ""
@@ -4771,7 +4771,7 @@ graph [
   ]
   node [
     id 530
-    label "PRESS"
+    label "SHIT (DEFECATE)"
     varieties ""
     languages ""
     words ""
@@ -4780,7 +4780,7 @@ graph [
   ]
   node [
     id 531
-    label "BOOK"
+    label "PRESS"
     varieties ""
     languages ""
     words ""
@@ -4852,21 +4852,21 @@ graph [
   ]
   node [
     id 539
-    label "LANGUAGE"
-    varieties "clics4-46//clics4-239"
-    languages "yaqu1251//high1278"
-    words ""
-    Variety_Count 2
-    Language_Count 2
-  ]
-  node [
-    id 540
     label "YAM"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 540
+    label "LANGUAGE"
+    varieties "clics4-46//clics4-239"
+    languages "yaqu1251//high1278"
+    words ""
+    Variety_Count 2
+    Language_Count 2
   ]
   node [
     id 541
@@ -4897,15 +4897,6 @@ graph [
   ]
   node [
     id 544
-    label "REST"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 545
     label "SOUTH"
     varieties ""
     languages ""
@@ -4914,7 +4905,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 546
+    id 545
     label "WHY"
     varieties ""
     languages ""
@@ -4923,7 +4914,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 547
+    id 546
     label "GOURD"
     varieties "clics4-239"
     languages "high1278"
@@ -4932,7 +4923,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 548
+    id 547
     label "NORTH"
     varieties ""
     languages ""
@@ -4941,8 +4932,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 549
+    id 548
     label "SWORD"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 549
+    label "REST"
     varieties ""
     languages ""
     words ""
@@ -4978,24 +4978,6 @@ graph [
   ]
   node [
     id 553
-    label "ANKLE"
-    varieties "clics4-1514//clics4-1513//clics4-1513//clics4-1513//clics4-1515"
-    languages "cahu1264//cupe1243//cupe1243//cupe1243//serr1255"
-    words "a//x u tsʰ i//x u tsʰ i//x u tsʰ i//n a v yː + t"
-    Variety_Count 5
-    Language_Count 3
-  ]
-  node [
-    id 554
-    label "BRING"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 555
     label "MATERNAL UNCLE (MOTHER'S BROTHER)"
     varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251"
@@ -5004,7 +4986,16 @@ graph [
     Language_Count 1
   ]
   node [
-    id 556
+    id 554
+    label "ANKLE"
+    varieties "clics4-1510//clics4-1509//clics4-1509//clics4-1509//clics4-1511"
+    languages "cahu1264//cupe1243//cupe1243//cupe1243//serr1255"
+    words "a//x u tsʰ i//x u tsʰ i//x u tsʰ i//n a v yː + t"
+    Variety_Count 5
+    Language_Count 3
+  ]
+  node [
+    id 555
     label "OIL (ORGANIC SUBSTANCE)"
     varieties ""
     languages ""
@@ -5013,13 +5004,22 @@ graph [
     Language_Count 0
   ]
   node [
-    id 557
+    id 556
     label "PICK UP"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
     words ""
     Variety_Count 2
     Language_Count 1
+  ]
+  node [
+    id 557
+    label "BRING"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 558
@@ -5059,15 +5059,6 @@ graph [
   ]
   node [
     id 562
-    label "CATCH"
-    varieties "clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251"
-    words ""
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 563
     label "YES"
     varieties ""
     languages ""
@@ -5076,17 +5067,26 @@ graph [
     Language_Count 0
   ]
   node [
-    id 564
-    label "DAWN"
-    varieties "clics4-239"
-    languages "high1278"
-    words "kʷ a l k a n"
-    Variety_Count 1
+    id 563
+    label "CATCH"
+    varieties "clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251"
+    words ""
+    Variety_Count 2
     Language_Count 1
   ]
   node [
-    id 565
+    id 564
     label "TASTE (SOMETHING)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 565
+    label "LOW"
     varieties ""
     languages ""
     words ""
@@ -5104,7 +5104,7 @@ graph [
   ]
   node [
     id 567
-    label "LOW"
+    label "UNTIE"
     varieties ""
     languages ""
     words ""
@@ -5113,12 +5113,12 @@ graph [
   ]
   node [
     id 568
-    label "UNTIE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
+    label "DAWN"
+    varieties "clics4-239"
+    languages "high1278"
+    words "kʷ a l k a n"
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
     id 569
@@ -5168,7 +5168,7 @@ graph [
   node [
     id 574
     label "PAPER"
-    varieties "clics4-1973"
+    varieties "clics4-1970"
     languages "tong1329"
     words "a"
     Variety_Count 1
@@ -5176,21 +5176,21 @@ graph [
   ]
   node [
     id 575
+    label "ICE"
+    varieties "clics4-46//clics4-239"
+    languages "yaqu1251//high1278"
+    words "s a p a m//s e k + t i"
+    Variety_Count 2
+    Language_Count 2
+  ]
+  node [
+    id 576
     label "TELL"
     varieties "clics4-239//clics4-46"
     languages "high1278//yaqu1251"
     words "s a n i + l o + a"
     Variety_Count 2
     Language_Count 2
-  ]
-  node [
-    id 576
-    label "SHOW"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "b i t t u a"
-    Variety_Count 1
-    Language_Count 1
   ]
   node [
     id 577
@@ -5203,24 +5203,15 @@ graph [
   ]
   node [
     id 578
-    label "ICE"
-    varieties "clics4-46//clics4-239"
-    languages "yaqu1251//high1278"
-    words "s a p a m//s e k + t i"
-    Variety_Count 2
-    Language_Count 2
+    label "SHOW"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "b i t t u a"
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
     id 579
-    label "SWEAT (SUBSTANCE)"
-    varieties "clics4-1513//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1683//clics4-1953//clics4-1973//clics4-1683//clics4-1683//clics4-1683"
-    languages "cupe1243//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//chem1251//sout2969//tong1329//chem1251//chem1251//chem1251"
-    words "e//x u l a//p o ts oi n//j y ʃ k y//m uː s a i//t a k u s i t oi t y//p a k aː tsʰ ɪ p i//k u n aː//h u v a + k aː//e//e a l//j y ʃ k a//p a k a//p a qː aː + ʃ//a h + t o ŋ//p a k a//p a k a"
-    Variety_Count 18
-    Language_Count 13
-  ]
-  node [
-    id 580
     label "ITCH"
     varieties ""
     languages ""
@@ -5229,13 +5220,22 @@ graph [
     Language_Count 0
   ]
   node [
-    id 581
+    id 580
     label "SIT DOWN"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 581
+    label "SWEAT (SUBSTANCE)"
+    varieties "clics4-1509//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1680//clics4-1950//clics4-1970//clics4-1680//clics4-1680//clics4-1680"
+    languages "cupe1243//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//chem1251//sout2969//tong1329//chem1251//chem1251//chem1251"
+    words "e//x u l a//p o ts oi n//j y ʃ k y//m uː s a i//t a k u s i t oi t y//p a k aː tsʰ ɪ p i//k u n aː//h u v a + k aː//e//e a l//j y ʃ k a//p a k a//p a qː aː + ʃ//a h + t o ŋ//p a k a//p a k a"
+    Variety_Count 18
+    Language_Count 13
   ]
   node [
     id 582
@@ -5257,21 +5257,21 @@ graph [
   ]
   node [
     id 584
-    label "WRITE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 585
     label "HAWK"
     varieties "clics4-239"
     languages "high1278"
     words "kʷ i ʃ i n"
     Variety_Count 1
     Language_Count 1
+  ]
+  node [
+    id 585
+    label "WRITE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 586
@@ -5311,6 +5311,15 @@ graph [
   ]
   node [
     id 590
+    label "OLD PERSON"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 591
     label "CHANGE"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -5319,17 +5328,8 @@ graph [
     Language_Count 1
   ]
   node [
-    id 591
-    label "HATE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
     id 592
-    label "OLD PERSON"
+    label "HATE"
     varieties ""
     languages ""
     words ""
@@ -5356,15 +5356,6 @@ graph [
   ]
   node [
     id 595
-    label "FIND"
-    varieties "clics4-239//clics4-46//clics4-46"
-    languages "high1278//yaqu1251//yaqu1251"
-    words "k i + a h s i"
-    Variety_Count 3
-    Language_Count 2
-  ]
-  node [
-    id 596
     label "SKIRT"
     varieties "clics4-239"
     languages "high1278"
@@ -5373,16 +5364,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 597
-    label "HUT"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words ""
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 598
+    id 596
     label "GHOST"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -5391,7 +5373,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 599
+    id 597
     label "COUNTRY"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -5400,8 +5382,26 @@ graph [
     Language_Count 1
   ]
   node [
+    id 598
+    label "FIND"
+    varieties "clics4-239//clics4-46//clics4-46"
+    languages "high1278//yaqu1251//yaqu1251"
+    words "k i + a h s i"
+    Variety_Count 3
+    Language_Count 2
+  ]
+  node [
+    id 599
+    label "HUT"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words ""
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
     id 600
-    label "FILL"
+    label "CUT DOWN"
     varieties ""
     languages ""
     words ""
@@ -5419,15 +5419,6 @@ graph [
   ]
   node [
     id 602
-    label "CUT DOWN"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 603
     label "SEPARATE"
     varieties "clics4-46//clics4-46//clics4-46//clics4-239"
     languages "yaqu1251//yaqu1251//yaqu1251//high1278"
@@ -5436,7 +5427,7 @@ graph [
     Language_Count 2
   ]
   node [
-    id 604
+    id 603
     label "PILLOW"
     varieties ""
     languages ""
@@ -5445,16 +5436,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 605
-    label "AFTERNOON"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "k u p t e o"
-    Variety_Count 1
-    Language_Count 1
+    id 604
+    label "FILL"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
-    id 606
+    id 605
     label "CORPSE"
     varieties ""
     languages ""
@@ -5463,13 +5454,22 @@ graph [
     Language_Count 0
   ]
   node [
-    id 607
-    label "FOLLOW"
-    varieties "clics4-46//clics4-239"
-    languages "yaqu1251//high1278"
+    id 606
+    label "CHEAP"
+    varieties ""
+    languages ""
     words ""
-    Variety_Count 2
-    Language_Count 2
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 607
+    label "PREGNANT"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words ""
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
     id 608
@@ -5482,30 +5482,30 @@ graph [
   ]
   node [
     id 609
-    label "CHEAP"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 610
-    label "PREGNANT"
+    label "AFTERNOON"
     varieties "clics4-46"
     languages "yaqu1251"
-    words ""
+    words "k u p t e o"
     Variety_Count 1
     Language_Count 1
   ]
   node [
-    id 611
+    id 610
     label "CALF OF LEG"
     varieties "clics4-239"
     languages "high1278"
     words ""
     Variety_Count 1
     Language_Count 1
+  ]
+  node [
+    id 611
+    label "FOLLOW"
+    varieties "clics4-46//clics4-239"
+    languages "yaqu1251//high1278"
+    words ""
+    Variety_Count 2
+    Language_Count 2
   ]
   node [
     id 612
@@ -5536,15 +5536,6 @@ graph [
   ]
   node [
     id 615
-    label "MORTAR"
-    varieties "clics4-1332"
-    languages "pana1305"
-    words ""
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 616
     label "NETBAG"
     varieties ""
     languages ""
@@ -5553,16 +5544,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 617
-    label "CASSAVA"
-    varieties ""
-    languages ""
+    id 616
+    label "MORTAR"
+    varieties "clics4-1329"
+    languages "pana1305"
     words ""
-    Variety_Count 0
-    Language_Count 0
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
-    id 618
+    id 617
     label "FART"
     varieties ""
     languages ""
@@ -5571,8 +5562,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 619
+    id 618
     label "FLOAT"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 619
+    label "CASSAVA"
     varieties ""
     languages ""
     words ""
@@ -5617,24 +5617,6 @@ graph [
   ]
   node [
     id 624
-    label "CALL"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "t e u w a"
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 625
-    label "SINK (DESCEND)"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 626
     label "VEGETABLES"
     varieties ""
     languages ""
@@ -5643,7 +5625,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 627
+    id 625
     label "POST"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -5652,7 +5634,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 628
+    id 626
     label "BRIGHT"
     varieties ""
     languages ""
@@ -5661,13 +5643,31 @@ graph [
     Language_Count 0
   ]
   node [
-    id 629
+    id 627
+    label "SINK (DESCEND)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 628
     label "LADDER"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 629
+    label "CALL"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "t e u w a"
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
     id 630
@@ -5698,15 +5698,6 @@ graph [
   ]
   node [
     id 633
-    label "FIRST"
-    varieties "clics4-239"
-    languages "high1278"
-    words "a tʃ t o"
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 634
     label "SUGAR"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -5715,16 +5706,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 635
-    label "COOKED"
-    varieties "clics4-239"
-    languages "high1278"
-    words ""
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 636
+    id 634
     label "TIME"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -5733,7 +5715,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 637
+    id 635
     label "GO OUT"
     varieties ""
     languages ""
@@ -5742,16 +5724,25 @@ graph [
     Language_Count 0
   ]
   node [
-    id 638
-    label "EMBRACE"
-    varieties ""
-    languages ""
+    id 636
+    label "COOKED"
+    varieties "clics4-239"
+    languages "high1278"
     words ""
-    Variety_Count 0
-    Language_Count 0
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
-    id 639
+    id 637
+    label "FIRST"
+    varieties "clics4-239"
+    languages "high1278"
+    words "a tʃ t o"
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 638
     label "TOP"
     varieties "clics4-46//clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251//yaqu1251"
@@ -5760,13 +5751,22 @@ graph [
     Language_Count 1
   ]
   node [
-    id 640
+    id 639
     label "BABY"
     varieties "clics4-239"
     languages "high1278"
     words "p i l i"
     Variety_Count 1
     Language_Count 1
+  ]
+  node [
+    id 640
+    label "EMBRACE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 641
@@ -5779,15 +5779,6 @@ graph [
   ]
   node [
     id 642
-    label "FIELD"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 643
     label "TRAP (PITFALL)"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -5796,34 +5787,16 @@ graph [
     Language_Count 1
   ]
   node [
+    id 643
+    label "FIELD"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
     id 644
-    label "BORROW"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 645
-    label "SOME"
-    varieties "clics4-46//clics4-239//clics4-46//clics4-1213//clics4-46"
-    languages "yaqu1251//high1278//yaqu1251//yaqu1251//yaqu1251"
-    words "j i t a//t e h s a"
-    Variety_Count 5
-    Language_Count 2
-  ]
-  node [
-    id 646
-    label "WAIT (FOR)"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 647
     label "THIEF"
     varieties ""
     languages ""
@@ -5832,7 +5805,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 648
+    id 645
+    label "BORROW"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 646
     label "POINTED"
     varieties ""
     languages ""
@@ -5841,43 +5823,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 649
-    label "DEMON"
-    varieties "clics4-239"
-    languages "high1278"
-    words "a m o + kʷ a l i"
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 650
-    label "PATERNAL AUNT (FATHER'S SISTER)"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251"
-    words ""
-    Variety_Count 5
-    Language_Count 1
-  ]
-  node [
-    id 651
-    label "MATERNAL AUNT (MOTHER'S SISTER)"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251"
-    words "tʃ i ʔ i l a//tʃ i ʔ i l a//j a ʔ a k a//n e ʔ e s a//n e ʔ e s a"
-    Variety_Count 5
-    Language_Count 1
-  ]
-  node [
-    id 652
-    label "STRETCH"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 653
+    id 647
     label "NASAL MUCUS (SNOT)"
     varieties ""
     languages ""
@@ -5886,16 +5832,25 @@ graph [
     Language_Count 0
   ]
   node [
-    id 654
-    label "HILL"
-    varieties "clics4-46//clics4-239"
-    languages "yaqu1251//high1278"
-    words "k a w i//t e p e + t"
-    Variety_Count 2
+    id 648
+    label "DEMON"
+    varieties "clics4-239"
+    languages "high1278"
+    words "a m o + kʷ a l i"
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 649
+    label "SOME"
+    varieties "clics4-46//clics4-239//clics4-46//clics4-1209//clics4-46"
+    languages "yaqu1251//high1278//yaqu1251//yaqu1251//yaqu1251"
+    words "j i t a//t e h s a"
+    Variety_Count 5
     Language_Count 2
   ]
   node [
-    id 655
+    id 650
     label "WINDOW"
     varieties ""
     languages ""
@@ -5904,26 +5859,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 656
-    label "YOUNG MAN"
-    varieties "clics4-239//clics4-46//clics4-239"
-    languages "high1278//yaqu1251//high1278"
-    words "o k i tʃ + p i l//u s i + j u ʔ u bʷ a + j o ʔ o t u m e//o k i tʃ + p i l"
-    Variety_Count 3
-    Language_Count 2
-  ]
-  node [
-    id 657
-    label "FISHHOOK"
-    varieties "clics4-1350"
-    languages "serr1255"
-    words ""
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 658
-    label "COCKROACH"
+    id 651
+    label "STRETCH"
     varieties ""
     languages ""
     words ""
@@ -5931,7 +5868,52 @@ graph [
     Language_Count 0
   ]
   node [
-    id 659
+    id 652
+    label "WAIT (FOR)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 653
+    label "HILL"
+    varieties "clics4-46//clics4-239"
+    languages "yaqu1251//high1278"
+    words "k a w i//t e p e + t"
+    Variety_Count 2
+    Language_Count 2
+  ]
+  node [
+    id 654
+    label "PATERNAL AUNT (FATHER'S SISTER)"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251"
+    words ""
+    Variety_Count 5
+    Language_Count 1
+  ]
+  node [
+    id 655
+    label "MATERNAL AUNT (MOTHER'S SISTER)"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251"
+    words "tʃ i ʔ i l a//tʃ i ʔ i l a//j a ʔ a k a//n e ʔ e s a//n e ʔ e s a"
+    Variety_Count 5
+    Language_Count 1
+  ]
+  node [
+    id 656
+    label "FISHHOOK"
+    varieties "clics4-1348"
+    languages "serr1255"
+    words ""
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 657
     label "RICE"
     varieties ""
     languages ""
@@ -5940,43 +5922,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 660
-    label "EXTINGUISH"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
+    id 658
+    label "YOUNG MAN"
+    varieties "clics4-239//clics4-46//clics4-239"
+    languages "high1278//yaqu1251//high1278"
+    words "o k i tʃ + p i l//u s i + j u ʔ u bʷ a + j o ʔ o t u m e//o k i tʃ + p i l"
+    Variety_Count 3
+    Language_Count 2
   ]
   node [
-    id 661
-    label "KISS"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 662
-    label "ENEMY"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 663
-    label "MUROID (MOUSE OR RAT)"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 664
+    id 659
     label "BEAR"
     varieties ""
     languages ""
@@ -5985,7 +5940,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 665
+    id 660
+    label "COCKROACH"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 661
     label "DRAW MILK"
     varieties "clics4-239"
     languages "high1278"
@@ -5994,8 +5958,44 @@ graph [
     Language_Count 1
   ]
   node [
-    id 666
+    id 662
+    label "KISS"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 663
     label "SCRAPE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 664
+    label "ENEMY"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 665
+    label "EXTINGUISH"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 666
+    label "MUROID (MOUSE OR RAT)"
     varieties ""
     languages ""
     words ""
@@ -6013,21 +6013,21 @@ graph [
   ]
   node [
     id 668
-    label "STRONG"
-    varieties "clics4-239//clics4-239//clics4-239"
-    languages "high1278//high1278//high1278"
-    words ""
-    Variety_Count 3
-    Language_Count 1
-  ]
-  node [
-    id 669
     label "WAR"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 669
+    label "STRONG"
+    varieties "clics4-239//clics4-239//clics4-239"
+    languages "high1278//high1278//high1278"
+    words ""
+    Variety_Count 3
+    Language_Count 1
   ]
   node [
     id 670
@@ -6049,7 +6049,7 @@ graph [
   ]
   node [
     id 672
-    label "AFTERWARDS"
+    label "LEAD (GUIDE)"
     varieties ""
     languages ""
     words ""
@@ -6058,7 +6058,7 @@ graph [
   ]
   node [
     id 673
-    label "LEAD (GUIDE)"
+    label "AFTERWARDS"
     varieties ""
     languages ""
     words ""
@@ -6086,7 +6086,7 @@ graph [
   node [
     id 676
     label "SWEAT (PERSPIRE)"
-    varieties "clics4-1513//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1683//clics4-1953//clics4-1973//clics4-1683//clics4-1683//clics4-1683"
+    varieties "clics4-1509//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1680//clics4-1950//clics4-1970//clics4-1680//clics4-1680//clics4-1680"
     languages "cupe1243//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//chem1251//sout2969//tong1329//chem1251//chem1251//chem1251"
     words "e"
     Variety_Count 18
@@ -6112,15 +6112,6 @@ graph [
   ]
   node [
     id 679
-    label "DIFFICULT"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 680
     label "GRAIN"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -6129,7 +6120,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 681
+    id 680
     label "WIPE"
     varieties ""
     languages ""
@@ -6138,17 +6129,26 @@ graph [
     Language_Count 0
   ]
   node [
-    id 682
-    label "SPIN"
-    varieties "clics4-46//clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251//yaqu1251"
+    id 681
+    label "DIFFICULT"
+    varieties ""
+    languages ""
     words ""
-    Variety_Count 3
-    Language_Count 1
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 682
+    label "WALKING STICK"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 683
-    label "WALKING STICK"
+    label "RABBIT"
     varieties ""
     languages ""
     words ""
@@ -6166,17 +6166,17 @@ graph [
   ]
   node [
     id 685
-    label "RABBIT"
-    varieties ""
-    languages ""
+    label "SPIN"
+    varieties "clics4-46//clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251//yaqu1251"
     words ""
-    Variety_Count 0
-    Language_Count 0
+    Variety_Count 3
+    Language_Count 1
   ]
   node [
     id 686
     label "BEAT"
-    varieties "clics4-46//clics4-239//clics4-239//clics4-1286//clics4-1332//clics4-1350//clics4-1350//clics4-1450//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1684//clics4-1953//clics4-1350"
+    varieties "clics4-46//clics4-239//clics4-239//clics4-1286//clics4-1329//clics4-1348//clics4-1348//clics4-1447//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1681//clics4-1950//clics4-1348"
     languages "yaqu1251//high1278//high1278//luis1253//pana1305//serr1255//serr1255//mono1275//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//shos1248//sout2969//serr1255"
     words ""
     Variety_Count 20
@@ -6184,33 +6184,15 @@ graph [
   ]
   node [
     id 687
-    label "TREE TRUNK"
-    varieties "clics4-46//clics4-46"
+    label "SMELL (STINK)"
+    varieties "clics4-1209//clics4-46"
     languages "yaqu1251//yaqu1251"
-    words "n aː w a//n aː w a"
+    words ""
     Variety_Count 2
     Language_Count 1
   ]
   node [
     id 688
-    label "BE BORN"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 689
-    label "BELIEVE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 690
     label "SPREAD OUT"
     varieties "clics4-46//clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251//yaqu1251"
@@ -6219,26 +6201,17 @@ graph [
     Language_Count 1
   ]
   node [
-    id 691
-    label "SIDE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 692
-    label "SMELL (STINK)"
-    varieties "clics4-1213//clics4-46"
+    id 689
+    label "TREE TRUNK"
+    varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
-    words ""
+    words "n aː w a//n aː w a"
     Variety_Count 2
     Language_Count 1
   ]
   node [
-    id 693
-    label "ISLAND"
+    id 690
+    label "BE BORN"
     varieties ""
     languages ""
     words ""
@@ -6246,16 +6219,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 694
+    id 691
     label "FOX"
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words ""
     Variety_Count 1
     Language_Count 1
   ]
   node [
-    id 695
+    id 692
     label "PEPPER"
     varieties ""
     languages ""
@@ -6264,8 +6237,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 696
-    label "WRAP"
+    id 693
+    label "BELIEVE"
     varieties ""
     languages ""
     words ""
@@ -6273,13 +6246,40 @@ graph [
     Language_Count 0
   ]
   node [
-    id 697
+    id 694
     label "LAND"
     varieties "clics4-46//clics4-46//clics4-239"
     languages "yaqu1251//yaqu1251//high1278"
     words ""
     Variety_Count 3
     Language_Count 2
+  ]
+  node [
+    id 695
+    label "SIDE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 696
+    label "WAIST"
+    varieties "clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251"
+    words ""
+    Variety_Count 2
+    Language_Count 1
+  ]
+  node [
+    id 697
+    label "ISLAND"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 698
@@ -6292,21 +6292,21 @@ graph [
   ]
   node [
     id 699
-    label "WAIST"
-    varieties "clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251"
-    words ""
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 700
     label "FIREPLACE"
-    varieties "clics4-1514"
+    varieties "clics4-1510"
     languages "cahu1264"
     words "n a"
     Variety_Count 1
     Language_Count 1
+  ]
+  node [
+    id 700
+    label "WRAP"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 701
@@ -6400,15 +6400,6 @@ graph [
   ]
   node [
     id 711
-    label "DRUNK"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 712
     label "PRICE"
     varieties ""
     languages ""
@@ -6417,7 +6408,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 713
+    id 712
     label "BOARD"
     varieties ""
     languages ""
@@ -6426,43 +6417,16 @@ graph [
     Language_Count 0
   ]
   node [
+    id 713
+    label "DRUNK"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
     id 714
-    label "SHAKE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 715
-    label "WORLD"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251"
-    words ""
-    Variety_Count 4
-    Language_Count 1
-  ]
-  node [
-    id 716
-    label "CEASE"
-    varieties "clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251"
-    words "k i k t e//j a p t e"
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 717
-    label "DESTROY"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 718
     label "DROP (SOMETHING)"
     varieties ""
     languages ""
@@ -6471,7 +6435,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 719
+    id 715
     label "EARLY"
     varieties "clics4-239"
     languages "high1278"
@@ -6480,7 +6444,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 720
+    id 716
     label "FEAR (FRIGHT)"
     varieties "clics4-239"
     languages "high1278"
@@ -6489,8 +6453,44 @@ graph [
     Language_Count 1
   ]
   node [
+    id 717
+    label "WORLD"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251"
+    words ""
+    Variety_Count 4
+    Language_Count 1
+  ]
+  node [
+    id 718
+    label "CEASE"
+    varieties "clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251"
+    words "k i k t e//j a p t e"
+    Variety_Count 2
+    Language_Count 1
+  ]
+  node [
+    id 719
+    label "DESTROY"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 720
+    label "SHAKE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
     id 721
-    label "GROUNDNUT (PEANUT)"
+    label "RAM"
     varieties ""
     languages ""
     words ""
@@ -6499,21 +6499,21 @@ graph [
   ]
   node [
     id 722
-    label "LIGHT (IGNITE)"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "t a j a"
-    Variety_Count 1
-    Language_Count 1
+    label "GROUNDNUT (PEANUT)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 723
-    label "HIP"
-    varieties "clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251"
-    words "w i k o s a"
-    Variety_Count 2
-    Language_Count 1
+    label "TABLE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 724
@@ -6526,39 +6526,39 @@ graph [
   ]
   node [
     id 725
-    label "RAM"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 726
-    label "TABLE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 727
     label "DREAM"
-    varieties "clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1450//clics4-1451//clics4-1451//clics4-1465//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1513//clics4-1514//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1684//clics4-1953//clics4-1973"
+    varieties "clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1447//clics4-1448//clics4-1448//clics4-1463//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1509//clics4-1510//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1681//clics4-1950//clics4-1970"
     languages "luis1253//pana1305//serr1255//mono1275//mono1275//coma1245//coma1245//utee1244//utee1244//nort2954//kawa1283//cupe1243//cupe1243//cahu1264//cahu1264//serr1255//tuba1278//chem1251//shos1248//shos1248//sout2969//tong1329"
     words "p u t iː//n o p u s a m a//kʷ a h kʷ a tʃ a m u k//n o s i d a b i//n o s i d a b i//n a b u s i a i p y//n a b u s i a i p y//n o n o s i//n o n o s i//n o s e//n o n o ʃ i + d y//t u//t u//t e t//t e t//kʷ a h tʃ u m u k//t u mː u k a//n o n o s ɪ//n a + p u i s a i h//n a + p u i s a i h//n o nː o tsː i + p ɪ//h oː + h oː + w a r + r a + w eː tʃ"
     Variety_Count 22
     Language_Count 15
   ]
   node [
-    id 728
+    id 726
+    label "HIP"
+    varieties "clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251"
+    words "w i k o s a"
+    Variety_Count 2
+    Language_Count 1
+  ]
+  node [
+    id 727
     label "HOOK"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 728
+    label "LIGHT (IGNITE)"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "t a j a"
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
     id 729
@@ -6580,24 +6580,6 @@ graph [
   ]
   node [
     id 731
-    label "TRY"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 732
-    label "WOUND"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 733
     label "NAIL (TOOL)"
     varieties ""
     languages ""
@@ -6606,7 +6588,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 734
+    id 732
     label "SHIELD"
     varieties ""
     languages ""
@@ -6615,8 +6597,26 @@ graph [
     Language_Count 0
   ]
   node [
-    id 735
+    id 733
     label "UNDRESS"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 734
+    label "TRY"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 735
+    label "WOUND"
     varieties ""
     languages ""
     words ""
@@ -6715,15 +6715,6 @@ graph [
   ]
   node [
     id 746
-    label "FLUTE"
-    varieties "clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251"
-    words "k u s i a//k u s i a"
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 747
     label "CUT (WITH AXE)"
     varieties "clics4-46//clics4-46//clics4-239//clics4-239//clics4-46"
     languages "yaqu1251//yaqu1251//high1278//high1278//yaqu1251"
@@ -6732,7 +6723,7 @@ graph [
     Language_Count 2
   ]
   node [
-    id 748
+    id 747
     label "CHOP (INTO PIECES)"
     varieties "clics4-46//clics4-46//clics4-239//clics4-239//clics4-46"
     languages "yaqu1251//yaqu1251//high1278//high1278//yaqu1251"
@@ -6741,7 +6732,7 @@ graph [
     Language_Count 2
   ]
   node [
-    id 749
+    id 748
     label "ONION"
     varieties ""
     languages ""
@@ -6750,7 +6741,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 750
+    id 749
     label "SHAME"
     varieties ""
     languages ""
@@ -6759,12 +6750,21 @@ graph [
     Language_Count 0
   ]
   node [
-    id 751
+    id 750
     label "UP"
     varieties "clics4-46"
     languages "yaqu1251"
     words ""
     Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 751
+    label "FLUTE"
+    varieties "clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251"
+    words "k u s i a//k u s i a"
+    Variety_Count 2
     Language_Count 1
   ]
   node [
@@ -6787,21 +6787,21 @@ graph [
   ]
   node [
     id 754
-    label "PEEL"
+    label "WHEAT"
+    varieties "clics4-1680"
+    languages "chem1251"
+    words ""
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 755
+    label "SHOVEL"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
-  ]
-  node [
-    id 755
-    label "WHEAT"
-    varieties "clics4-1683"
-    languages "chem1251"
-    words ""
-    Variety_Count 1
-    Language_Count 1
   ]
   node [
     id 756
@@ -6814,24 +6814,6 @@ graph [
   ]
   node [
     id 757
-    label "SHOVEL"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 758
-    label "FEVER"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 759
     label "FIFTY"
     varieties ""
     languages ""
@@ -6840,8 +6822,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 760
-    label "SAP"
+    id 758
+    label "PEEL"
     varieties ""
     languages ""
     words ""
@@ -6849,7 +6831,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 761
+    id 759
+    label "FEVER"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 760
     label "KNEAD"
     varieties ""
     languages ""
@@ -6858,7 +6849,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 762
+    id 761
     label "EYELASH"
     varieties ""
     languages ""
@@ -6867,7 +6858,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 763
+    id 762
     label "THIRST"
     varieties ""
     languages ""
@@ -6876,8 +6867,17 @@ graph [
     Language_Count 0
   ]
   node [
+    id 763
+    label "PIPE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
     id 764
-    label "CUP"
+    label "BOTTOM"
     varieties ""
     languages ""
     words ""
@@ -6886,7 +6886,7 @@ graph [
   ]
   node [
     id 765
-    label "AUTUMN"
+    label "CUP"
     varieties ""
     languages ""
     words ""
@@ -6895,7 +6895,7 @@ graph [
   ]
   node [
     id 766
-    label "SLIP"
+    label "SAP"
     varieties ""
     languages ""
     words ""
@@ -6904,7 +6904,7 @@ graph [
   ]
   node [
     id 767
-    label "PIPE"
+    label "AUTUMN"
     varieties ""
     languages ""
     words ""
@@ -6922,15 +6922,6 @@ graph [
   ]
   node [
     id 769
-    label "BOTTOM"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 770
     label "IMMEDIATELY"
     varieties ""
     languages ""
@@ -6939,8 +6930,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 771
+    id 770
     label "SPEECH"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 771
+    label "SLIP"
     varieties ""
     languages ""
     words ""
@@ -6958,24 +6958,6 @@ graph [
   ]
   node [
     id 773
-    label "DISAPPEAR"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 774
-    label "LIE (MISLEAD)"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 775
     label "BLANKET"
     varieties ""
     languages ""
@@ -6984,7 +6966,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 776
+    id 774
     label "BESIDE"
     varieties ""
     languages ""
@@ -6993,7 +6975,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 777
+    id 775
     label "WOLF"
     varieties ""
     languages ""
@@ -7002,8 +6984,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 778
-    label "SHINE"
+    id 776
+    label "DISAPPEAR"
     varieties ""
     languages ""
     words ""
@@ -7011,7 +6993,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 779
+    id 777
+    label "LIE (MISLEAD)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 778
     label "SOW SEEDS"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -7020,8 +7011,17 @@ graph [
     Language_Count 1
   ]
   node [
-    id 780
+    id 779
     label "STRANGER"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 780
+    label "SHINE"
     varieties ""
     languages ""
     words ""
@@ -7039,21 +7039,21 @@ graph [
   ]
   node [
     id 782
-    label "TALL"
-    varieties "clics4-239//clics4-46"
-    languages "high1278//yaqu1251"
-    words "w e h k a + p a n"
-    Variety_Count 2
-    Language_Count 2
-  ]
-  node [
-    id 783
     label "MOUSE"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 783
+    label "TALL"
+    varieties "clics4-239//clics4-46"
+    languages "high1278//yaqu1251"
+    words "w e h k a + p a n"
+    Variety_Count 2
+    Language_Count 2
   ]
   node [
     id 784
@@ -7075,16 +7075,7 @@ graph [
   ]
   node [
     id 786
-    label "POISON"
-    varieties "clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251"
-    words ""
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 787
-    label "CLAY"
+    label "YOU (OBLIQUE CASE OF YOU)"
     varieties ""
     languages ""
     words ""
@@ -7092,8 +7083,17 @@ graph [
     Language_Count 0
   ]
   node [
+    id 787
+    label "FUR"
+    varieties "clics4-46//clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251//yaqu1251"
+    words "b eː a"
+    Variety_Count 3
+    Language_Count 1
+  ]
+  node [
     id 788
-    label "YOU (OBLIQUE CASE OF YOU)"
+    label "CLAY"
     varieties ""
     languages ""
     words ""
@@ -7111,24 +7111,15 @@ graph [
   ]
   node [
     id 790
-    label "FUR"
-    varieties "clics4-46//clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251//yaqu1251"
-    words "b eː a"
-    Variety_Count 3
-    Language_Count 1
-  ]
-  node [
-    id 791
-    label "MIX"
-    varieties "clics4-239//clics4-239"
-    languages "high1278//high1278"
+    label "POISON"
+    varieties "clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251"
     words ""
     Variety_Count 2
     Language_Count 1
   ]
   node [
-    id 792
+    id 791
     label "BELT"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -7137,16 +7128,16 @@ graph [
     Language_Count 1
   ]
   node [
-    id 793
-    label "OFTEN"
-    varieties ""
-    languages ""
+    id 792
+    label "MIX"
+    varieties "clics4-239//clics4-239"
+    languages "high1278//high1278"
     words ""
-    Variety_Count 0
-    Language_Count 0
+    Variety_Count 2
+    Language_Count 1
   ]
   node [
-    id 794
+    id 793
     label "SOLDIER"
     varieties ""
     languages ""
@@ -7155,7 +7146,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 795
+    id 794
     label "PLAIN"
     varieties "clics4-239//clics4-239//clics4-239"
     languages "high1278//high1278//high1278"
@@ -7164,8 +7155,17 @@ graph [
     Language_Count 1
   ]
   node [
+    id 795
+    label "MOVE"
+    varieties "clics4-239//clics4-46//clics4-239"
+    languages "high1278//yaqu1251//high1278"
+    words "k i + n e l o + a"
+    Variety_Count 3
+    Language_Count 2
+  ]
+  node [
     id 796
-    label "WINTER"
+    label "OFTEN"
     varieties ""
     languages ""
     words ""
@@ -7174,12 +7174,12 @@ graph [
   ]
   node [
     id 797
-    label "MOVE"
-    varieties "clics4-239//clics4-46//clics4-239"
-    languages "high1278//yaqu1251//high1278"
-    words "k i + n e l o + a"
-    Variety_Count 3
-    Language_Count 2
+    label "WINTER"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 798
@@ -7192,15 +7192,6 @@ graph [
   ]
   node [
     id 799
-    label "DISEASE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 800
     label "BOAST"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -7209,8 +7200,8 @@ graph [
     Language_Count 1
   ]
   node [
-    id 801
-    label "FAT (OBESE)"
+    id 800
+    label "DISEASE"
     varieties ""
     languages ""
     words ""
@@ -7218,16 +7209,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 802
-    label "LINE"
-    varieties "clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251"
-    words "w iː ʔ i"
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 803
+    id 801
     label "FLOWING BODY OF WATER"
     varieties "clics4-239"
     languages "high1278"
@@ -7236,7 +7218,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 804
+    id 802
     label "LOCK"
     varieties ""
     languages ""
@@ -7245,7 +7227,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 805
+    id 803
     label "FLEE"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -7254,16 +7236,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 806
-    label "FRAGRANT"
-    varieties "clics4-46//clics4-239"
-    languages "yaqu1251//high1278"
-    words "w i n j u b a//a hʷ i j a k"
-    Variety_Count 2
-    Language_Count 2
-  ]
-  node [
-    id 807
+    id 804
     label "GOOSE"
     varieties ""
     languages ""
@@ -7272,7 +7245,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 808
+    id 805
     label "PINCH"
     varieties ""
     languages ""
@@ -7281,13 +7254,40 @@ graph [
     Language_Count 0
   ]
   node [
-    id 809
-    label "JOIN"
+    id 806
+    label "LINE"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
-    words "n a u t o j a//n a u t o j a"
+    words "w iː ʔ i"
     Variety_Count 2
     Language_Count 1
+  ]
+  node [
+    id 807
+    label "FAT (OBESE)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 808
+    label "FRAGRANT"
+    varieties "clics4-46//clics4-239"
+    languages "yaqu1251//high1278"
+    words "w i n j u b a//a hʷ i j a k"
+    Variety_Count 2
+    Language_Count 2
+  ]
+  node [
+    id 809
+    label "BRACELET"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 810
@@ -7300,16 +7300,25 @@ graph [
   ]
   node [
     id 811
+    label "JOIN"
+    varieties "clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251"
+    words "n a u t o j a//n a u t o j a"
+    Variety_Count 2
+    Language_Count 1
+  ]
+  node [
+    id 812
     label "AIR"
-    varieties "clics4-46//clics4-239//clics4-1213"
+    varieties "clics4-46//clics4-239//clics4-1209"
     languages "yaqu1251//high1278//yaqu1251"
     words ""
     Variety_Count 3
     Language_Count 2
   ]
   node [
-    id 812
-    label "BRACELET"
+    id 813
+    label "SUMMER"
     varieties ""
     languages ""
     words ""
@@ -7317,7 +7326,25 @@ graph [
     Language_Count 0
   ]
   node [
-    id 813
+    id 814
+    label "SAW"
+    varieties "clics4-239"
+    languages "high1278"
+    words "t a + t e k i + l o + n i"
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 815
+    label "SCOLD"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "t e t e j w a"
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 816
     label "DRIP (EMIT LIQUID)"
     varieties "clics4-46//clics4-239//clics4-239"
     languages "yaqu1251//high1278//high1278"
@@ -7326,35 +7353,8 @@ graph [
     Language_Count 2
   ]
   node [
-    id 814
-    label "GIVE BIRTH"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 815
-    label "UNRIPE"
-    varieties "clics4-239"
-    languages "high1278"
-    words "ʃ o ʃ o + w i + k"
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 816
-    label "PADDLE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
     id 817
-    label "SUMMER"
+    label "GIVE BIRTH"
     varieties ""
     languages ""
     words ""
@@ -7372,39 +7372,39 @@ graph [
   ]
   node [
     id 819
-    label "SAW"
+    label "UNRIPE"
     varieties "clics4-239"
     languages "high1278"
-    words "t a + t e k i + l o + n i"
+    words "ʃ o ʃ o + w i + k"
     Variety_Count 1
     Language_Count 1
   ]
   node [
     id 820
-    label "PATERNAL UNCLE (FATHER'S BROTHER)"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251"
+    label "PADDLE"
+    varieties ""
+    languages ""
     words ""
-    Variety_Count 6
-    Language_Count 1
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 821
-    label "SCOLD"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "t e t e j w a"
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 822
     label "MEASURE"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 822
+    label "PATERNAL UNCLE (FATHER'S BROTHER)"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251"
+    words ""
+    Variety_Count 6
+    Language_Count 1
   ]
   node [
     id 823
@@ -7435,15 +7435,6 @@ graph [
   ]
   node [
     id 826
-    label "CULTIVATE"
-    varieties "clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251"
-    words ""
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 827
     label "TEACHER"
     varieties ""
     languages ""
@@ -7452,7 +7443,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 828
+    id 827
     label "SOUND OR NOISE"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -7461,16 +7452,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 829
-    label "LOAD"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 830
+    id 828
     label "BOWL"
     varieties "clics4-239"
     languages "high1278"
@@ -7479,7 +7461,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 831
+    id 829
     label "MAGIC"
     varieties ""
     languages ""
@@ -7488,7 +7470,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 832
+    id 830
     label "THUNDER (VERB)"
     varieties ""
     languages ""
@@ -7497,7 +7479,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 833
+    id 831
+    label "LOAD"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 832
     label "HEAVEN"
     varieties ""
     languages ""
@@ -7506,13 +7497,22 @@ graph [
     Language_Count 0
   ]
   node [
-    id 834
+    id 833
     label "THIRSTY"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 834
+    label "CULTIVATE"
+    varieties "clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251"
+    words ""
+    Variety_Count 2
+    Language_Count 1
   ]
   node [
     id 835
@@ -7535,7 +7535,7 @@ graph [
   node [
     id 837
     label "UPPER ARM"
-    varieties "clics4-1213//clics4-1213"
+    varieties "clics4-1209//clics4-1209"
     languages "yaqu1251//yaqu1251"
     words "m a m a m"
     Variety_Count 2
@@ -7552,15 +7552,6 @@ graph [
   ]
   node [
     id 839
-    label "NAKED"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 840
     label "COMMON COLD (DISEASE)"
     varieties ""
     languages ""
@@ -7569,7 +7560,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 841
+    id 840
     label "FORGE"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -7578,16 +7569,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 842
-    label "LOWER ARM"
-    varieties "clics4-1213//clics4-1213"
-    languages "yaqu1251//yaqu1251"
-    words "m a m a m//m a m a m"
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 843
+    id 841
     label "HAMMER"
     varieties ""
     languages ""
@@ -7596,8 +7578,26 @@ graph [
     Language_Count 0
   ]
   node [
-    id 844
+    id 842
     label "COAL"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 843
+    label "LOWER ARM"
+    varieties "clics4-1209//clics4-1209"
+    languages "yaqu1251//yaqu1251"
+    words "m a m a m//m a m a m"
+    Variety_Count 2
+    Language_Count 1
+  ]
+  node [
+    id 844
+    label "NAKED"
     varieties ""
     languages ""
     words ""
@@ -7633,15 +7633,6 @@ graph [
   ]
   node [
     id 848
-    label "LATE"
-    varieties "clics4-239//clics4-239//clics4-46"
-    languages "high1278//high1278//yaqu1251"
-    words "w e h k a + w a"
-    Variety_Count 3
-    Language_Count 2
-  ]
-  node [
-    id 849
     label "DEITY"
     varieties ""
     languages ""
@@ -7650,19 +7641,28 @@ graph [
     Language_Count 0
   ]
   node [
-    id 850
-    label "FISHNET"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
+    id 849
+    label "LATE"
+    varieties "clics4-239//clics4-239//clics4-46"
+    languages "high1278//high1278//yaqu1251"
+    words "w e h k a + w a"
+    Variety_Count 3
+    Language_Count 2
   ]
   node [
-    id 851
+    id 850
     label "DITCH"
     varieties "clics4-239"
     languages "high1278"
+    words ""
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 851
+    label "AGE"
+    varieties "clics4-46"
+    languages "yaqu1251"
     words ""
     Variety_Count 1
     Language_Count 1
@@ -7678,24 +7678,6 @@ graph [
   ]
   node [
     id 853
-    label "AGE"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words ""
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 854
-    label "SHORE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 855
     label "BEESWAX"
     varieties ""
     languages ""
@@ -7704,7 +7686,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 856
+    id 854
     label "THEE (OBLIQUE CASE OF YOU)"
     varieties ""
     languages ""
@@ -7713,16 +7695,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 857
-    label "HAVE"
-    varieties "clics4-46//clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251//yaqu1251"
+    id 855
+    label "FISHNET"
+    varieties ""
+    languages ""
     words ""
-    Variety_Count 3
-    Language_Count 1
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
-    id 858
+    id 856
     label "EWE"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -7731,7 +7713,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 859
+    id 857
     label "NECKLACE"
     varieties ""
     languages ""
@@ -7740,7 +7722,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 860
+    id 858
+    label "SHORE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 859
     label "STINGY"
     varieties ""
     languages ""
@@ -7749,12 +7740,21 @@ graph [
     Language_Count 0
   ]
   node [
-    id 861
+    id 860
     label "TREE STUMP"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
     words "n aː w a"
     Variety_Count 2
+    Language_Count 1
+  ]
+  node [
+    id 861
+    label "HAVE"
+    varieties "clics4-46//clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251//yaqu1251"
+    words ""
+    Variety_Count 3
     Language_Count 1
   ]
   node [
@@ -7841,7 +7841,7 @@ graph [
   node [
     id 871
     label "TOAD"
-    varieties "clics4-1350//clics4-1514//clics4-1632//clics4-1973"
+    varieties "clics4-1348//clics4-1510//clics4-1630//clics4-1970"
     languages "serr1255//cahu1264//tuba1278//tong1329"
     words "w a k a t a t//w a x a tʃ i lʲ//w oː h n aː l//kʷ a"
     Variety_Count 4
@@ -7849,20 +7849,20 @@ graph [
   ]
   node [
     id 872
-    label "RESCUE"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251"
-    words "a n i a//a n i a"
-    Variety_Count 4
-    Language_Count 1
-  ]
-  node [
-    id 873
     label "BEAM"
     varieties "clics4-46"
     languages "yaqu1251"
     words "b iː k a"
     Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 873
+    label "RESCUE"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251"
+    words "a n i a//a n i a"
+    Variety_Count 4
     Language_Count 1
   ]
   node [
@@ -7912,15 +7912,6 @@ graph [
   ]
   node [
     id 879
-    label "GRANDSON"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251"
-    words ""
-    Variety_Count 4
-    Language_Count 1
-  ]
-  node [
-    id 880
     label "GREEDY"
     varieties ""
     languages ""
@@ -7929,13 +7920,22 @@ graph [
     Language_Count 0
   ]
   node [
-    id 881
+    id 880
     label "SWEAR"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 881
+    label "GRANDSON"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251"
+    words ""
+    Variety_Count 4
+    Language_Count 1
   ]
   node [
     id 882
@@ -7993,7 +7993,7 @@ graph [
   ]
   node [
     id 888
-    label "YOUNG WOMAN"
+    label "SCHOOL"
     varieties ""
     languages ""
     words ""
@@ -8011,15 +8011,6 @@ graph [
   ]
   node [
     id 890
-    label "SCHOOL"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 891
     label "PINE"
     varieties ""
     languages ""
@@ -8028,13 +8019,22 @@ graph [
     Language_Count 0
   ]
   node [
-    id 892
+    id 891
     label "ENOUGH"
     varieties "clics4-46"
     languages "yaqu1251"
     words "b u ʔ u"
     Variety_Count 1
     Language_Count 1
+  ]
+  node [
+    id 892
+    label "YOUNG WOMAN"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 893
@@ -8066,7 +8066,7 @@ graph [
   node [
     id 896
     label "CLUB"
-    varieties "clics4-46//clics4-1332//clics4-1332//clics4-1514"
+    varieties "clics4-46//clics4-1329//clics4-1329//clics4-1510"
     languages "yaqu1251//pana1305//pana1305//cahu1264"
     words "k u t a"
     Variety_Count 4
@@ -8084,7 +8084,7 @@ graph [
   node [
     id 898
     label "BAG"
-    varieties "clics4-1632"
+    varieties "clics4-1630"
     languages "tuba1278"
     words ""
     Variety_Count 1
@@ -8092,15 +8092,6 @@ graph [
   ]
   node [
     id 899
-    label "BE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 900
     label "PALM TREE"
     varieties ""
     languages ""
@@ -8109,7 +8100,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 901
+    id 900
     label "WOMB"
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
@@ -8118,8 +8109,17 @@ graph [
     Language_Count 2
   ]
   node [
-    id 902
+    id 901
     label "CRAWL"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 902
+    label "BE"
     varieties ""
     languages ""
     words ""
@@ -8183,7 +8183,7 @@ graph [
   node [
     id 909
     label "LIGHT (COLOR)"
-    varieties "clics4-46//clics4-1213"
+    varieties "clics4-46//clics4-1209"
     languages "yaqu1251//yaqu1251"
     words ""
     Variety_Count 2
@@ -8317,15 +8317,6 @@ graph [
   ]
   node [
     id 924
-    label "IMITATE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 925
     label "MARE"
     varieties ""
     languages ""
@@ -8334,7 +8325,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 926
+    id 925
     label "WAVE"
     varieties ""
     languages ""
@@ -8343,8 +8334,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 927
-    label "ORPHAN"
+    id 926
+    label "IMITATE"
     varieties ""
     languages ""
     words ""
@@ -8352,7 +8343,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 928
+    id 927
     label "STUTTER"
     varieties ""
     languages ""
@@ -8361,7 +8352,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 929
+    id 928
     label "IDOL"
     varieties ""
     languages ""
@@ -8370,8 +8361,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 930
+    id 929
     label "HOLLOW OUT"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 930
+    label "ORPHAN"
     varieties ""
     languages ""
     words ""
@@ -8407,15 +8407,6 @@ graph [
   ]
   node [
     id 934
-    label "MARRY"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "k uː n a"
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 935
     label "WEIGH"
     varieties ""
     languages ""
@@ -8424,7 +8415,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 936
+    id 935
     label "EIGHTEEN"
     varieties ""
     languages ""
@@ -8433,25 +8424,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 937
-    label "THREATEN"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 938
-    label "GIVE BACK"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 939
+    id 936
     label "OWN"
     varieties "clics4-46//clics4-46//clics4-46//clics4-239//clics4-239"
     languages "yaqu1251//yaqu1251//yaqu1251//high1278//high1278"
@@ -8460,13 +8433,40 @@ graph [
     Language_Count 2
   ]
   node [
-    id 940
+    id 937
     label "HURRY"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 938
+    label "THREATEN"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 939
+    label "GIVE BACK"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 940
+    label "MARRY"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "k uː n a"
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
     id 941
@@ -8479,21 +8479,21 @@ graph [
   ]
   node [
     id 942
-    label "TUMBLE (FALL DOWN)"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 943
     label "DISH"
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
     words ""
     Variety_Count 2
     Language_Count 2
+  ]
+  node [
+    id 943
+    label "TUMBLE (FALL DOWN)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 944
@@ -8515,15 +8515,6 @@ graph [
   ]
   node [
     id 946
-    label "SIMILAR"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words ""
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 947
     label "OAR"
     varieties ""
     languages ""
@@ -8532,7 +8523,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 948
+    id 947
     label "DRIVE"
     varieties ""
     languages ""
@@ -8541,16 +8532,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 949
-    label "PROMISE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 950
+    id 948
     label "STORM"
     varieties ""
     languages ""
@@ -8559,7 +8541,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 951
+    id 949
     label "PRESERVE"
     varieties "clics4-46//clics4-46//clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251"
@@ -8568,7 +8550,16 @@ graph [
     Language_Count 1
   ]
   node [
-    id 952
+    id 950
+    label "SIMILAR"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words ""
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 951
     label "FIREFLY"
     varieties ""
     languages ""
@@ -8577,8 +8568,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 953
-    label "SAD"
+    id 952
+    label "PROMISE"
     varieties ""
     languages ""
     words ""
@@ -8586,7 +8577,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 954
+    id 953
     label "BRUISE"
     varieties ""
     languages ""
@@ -8595,16 +8586,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 955
+    id 954
     label "FISHING LINE"
-    varieties "clics4-46//clics4-46//clics4-1350"
+    varieties "clics4-46//clics4-46//clics4-1348"
     languages "yaqu1251//yaqu1251//serr1255"
     words "w iː ʔ i//w iː ʔ i//o kʷ a t"
     Variety_Count 3
     Language_Count 2
   ]
   node [
-    id 956
+    id 955
     label "PLOUGH"
     varieties ""
     languages ""
@@ -8613,7 +8604,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 957
+    id 956
     label "WRINKLED"
     varieties ""
     languages ""
@@ -8622,7 +8613,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 958
+    id 957
     label "BOTTLE"
     varieties ""
     languages ""
@@ -8631,16 +8622,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 959
-    label "EARTHWORM"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 960
+    id 958
     label "TALK"
     varieties ""
     languages ""
@@ -8649,7 +8631,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 961
+    id 959
     label "GLASS"
     varieties "clics4-239"
     languages "high1278"
@@ -8658,7 +8640,16 @@ graph [
     Language_Count 1
   ]
   node [
-    id 962
+    id 960
+    label "SAD"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 961
     label "EARTHQUAKE"
     varieties ""
     languages ""
@@ -8667,17 +8658,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 963
-    label "BE LATE"
-    varieties "clics4-239//clics4-239"
-    languages "high1278//high1278"
-    words "w e h k a + w a//w e h k a + w a"
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 964
-    label "FOR A LONG TIME"
+    id 962
+    label "EARTHWORM"
     varieties ""
     languages ""
     words ""
@@ -8685,7 +8667,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 965
+    id 963
     label "HAY"
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
@@ -8694,7 +8676,7 @@ graph [
     Language_Count 2
   ]
   node [
-    id 966
+    id 964
     label "QUIET"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -8703,16 +8685,16 @@ graph [
     Language_Count 1
   ]
   node [
-    id 967
-    label "NEPHEW"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251"
-    words "j a k a r a//j a k a r a"
-    Variety_Count 5
+    id 965
+    label "BE LATE"
+    varieties "clics4-239//clics4-239"
+    languages "high1278//high1278"
+    words "w e h k a + w a//w e h k a + w a"
+    Variety_Count 2
     Language_Count 1
   ]
   node [
-    id 968
+    id 966
     label "BUTTER"
     varieties ""
     languages ""
@@ -8721,7 +8703,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 969
+    id 967
+    label "FOR A LONG TIME"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 968
     label "OWE"
     varieties ""
     languages ""
@@ -8730,7 +8721,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 970
+    id 969
     label "SPADE"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -8739,7 +8730,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 971
+    id 970
     label "MISTAKE"
     varieties ""
     languages ""
@@ -8748,7 +8739,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 972
+    id 971
     label "MASTER"
     varieties ""
     languages ""
@@ -8757,12 +8748,21 @@ graph [
     Language_Count 0
   ]
   node [
-    id 973
+    id 972
     label "MEAL"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
     words "bʷ a ʔ a m e"
     Variety_Count 2
+    Language_Count 1
+  ]
+  node [
+    id 973
+    label "NEPHEW"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251"
+    words "j a k a r a//j a k a r a"
+    Variety_Count 5
     Language_Count 1
   ]
   node [
@@ -8785,7 +8785,7 @@ graph [
   ]
   node [
     id 976
-    label "PULL OFF (SKIN)"
+    label "ANCESTORS"
     varieties ""
     languages ""
     words ""
@@ -8794,7 +8794,7 @@ graph [
   ]
   node [
     id 977
-    label "ANCESTORS"
+    label "PULL OFF (SKIN)"
     varieties ""
     languages ""
     words ""
@@ -8866,15 +8866,6 @@ graph [
   ]
   node [
     id 985
-    label "BUNCH"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 986
     label "BLACKSMITH"
     varieties ""
     languages ""
@@ -8883,7 +8874,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 987
+    id 986
     label "SMALL (NOT TALL)"
     varieties ""
     languages ""
@@ -8892,8 +8883,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 988
+    id 987
     label "HELL"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 988
+    label "BUNCH"
     varieties ""
     languages ""
     words ""
@@ -8956,15 +8956,6 @@ graph [
   ]
   node [
     id 995
-    label "DIVE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 996
     label "BAKE"
     varieties ""
     languages ""
@@ -8973,7 +8964,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 997
+    id 996
     label "STIR"
     varieties ""
     languages ""
@@ -8982,7 +8973,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 998
+    id 997
     label "SKULL"
     varieties ""
     languages ""
@@ -8991,7 +8982,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 999
+    id 998
     label "DENY"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -9000,7 +8991,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1000
+    id 999
     label "SPRINGTIME"
     varieties ""
     languages ""
@@ -9009,7 +9000,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1001
+    id 1000
     label "STOVE"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -9018,8 +9009,17 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1002
+    id 1001
     label "SMALLPOX"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1002
+    label "DIVE"
     varieties ""
     languages ""
     words ""
@@ -9055,33 +9055,6 @@ graph [
   ]
   node [
     id 1006
-    label "NIECE"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251"
-    words "j a k a r a//j a k a r a//j a k a r a//a s o w aː r a//j a b i r e"
-    Variety_Count 5
-    Language_Count 1
-  ]
-  node [
-    id 1007
-    label "BEGIN"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1008
-    label "SOON"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1009
     label "FURROW"
     varieties "clics4-239"
     languages "high1278"
@@ -9090,7 +9063,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1010
+    id 1007
     label "MIDDLE"
     varieties ""
     languages ""
@@ -9099,7 +9072,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1011
+    id 1008
     label "TEA"
     varieties ""
     languages ""
@@ -9108,7 +9081,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1012
+    id 1009
     label "BLINK"
     varieties ""
     languages ""
@@ -9117,8 +9090,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1013
-    label "SMOKE (INHALE)"
+    id 1010
+    label "NIECE"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251"
+    words "j a k a r a//j a k a r a//j a k a r a//a s o w aː r a//j a b i r e"
+    Variety_Count 5
+    Language_Count 1
+  ]
+  node [
+    id 1011
+    label "BEGIN"
     varieties ""
     languages ""
     words ""
@@ -9126,7 +9108,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1014
+    id 1012
     label "PARENTS"
     varieties ""
     languages ""
@@ -9135,7 +9117,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1015
+    id 1013
     label "MOLAR TOOTH"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -9144,8 +9126,8 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1016
-    label "CROSS"
+    id 1014
+    label "SMOKE (INHALE)"
     varieties ""
     languages ""
     words ""
@@ -9153,16 +9135,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1017
-    label "DEATH"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1018
+    id 1015
     label "THIRD"
     varieties ""
     languages ""
@@ -9171,7 +9144,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1019
+    id 1016
     label "UDDER"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -9180,7 +9153,25 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1020
+    id 1017
+    label "SOON"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1018
+    label "DEATH"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1019
     label "KEEP"
     varieties "clics4-46//clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251//yaqu1251"
@@ -9189,7 +9180,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1021
+    id 1020
     label "SPRING (OF WATER)"
     varieties "clics4-46//clics4-46//clics4-239//clics4-239//clics4-239//clics4-239"
     languages "yaqu1251//yaqu1251//high1278//high1278//high1278//high1278"
@@ -9198,7 +9189,7 @@ graph [
     Language_Count 2
   ]
   node [
-    id 1022
+    id 1021
     label "MOTHER-IN-LAW (OF MAN)"
     varieties ""
     languages ""
@@ -9207,7 +9198,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1023
+    id 1022
     label "KETTLE"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -9216,8 +9207,17 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1024
+    id 1023
     label "MILL"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1024
+    label "CROSS"
     varieties ""
     languages ""
     words ""
@@ -9235,7 +9235,7 @@ graph [
   ]
   node [
     id 1026
-    label "TASTE"
+    label "WITH"
     varieties ""
     languages ""
     words ""
@@ -9262,7 +9262,7 @@ graph [
   ]
   node [
     id 1029
-    label "HOST"
+    label "TASTE"
     varieties ""
     languages ""
     words ""
@@ -9271,7 +9271,7 @@ graph [
   ]
   node [
     id 1030
-    label "MILLET"
+    label "HOST"
     varieties ""
     languages ""
     words ""
@@ -9280,7 +9280,7 @@ graph [
   ]
   node [
     id 1031
-    label "THIGH"
+    label "MILLET"
     varieties ""
     languages ""
     words ""
@@ -9289,7 +9289,7 @@ graph [
   ]
   node [
     id 1032
-    label "BECOME"
+    label "THIGH"
     varieties ""
     languages ""
     words ""
@@ -9298,7 +9298,7 @@ graph [
   ]
   node [
     id 1033
-    label "WITH"
+    label "BECOME"
     varieties ""
     languages ""
     words ""
@@ -9307,24 +9307,6 @@ graph [
   ]
   node [
     id 1034
-    label "LET GO OR SET FREE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1035
-    label "BRAVE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1036
     label "NINETEEN"
     varieties ""
     languages ""
@@ -9333,7 +9315,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1037
+    id 1035
     label "FAULT"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -9342,16 +9324,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1038
-    label "FRY"
-    varieties "clics4-46//clics4-46//clics4-239//clics4-239"
-    languages "yaqu1251//yaqu1251//high1278//high1278"
-    words ""
-    Variety_Count 4
-    Language_Count 2
-  ]
-  node [
-    id 1039
+    id 1036
     label "MELT"
     varieties ""
     languages ""
@@ -9360,7 +9333,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1040
+    id 1037
     label "TOENAIL"
     varieties ""
     languages ""
@@ -9369,7 +9342,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1041
+    id 1038
     label "YOKE"
     varieties ""
     languages ""
@@ -9378,8 +9351,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1042
-    label "STAND UP"
+    id 1039
+    label "LET GO OR SET FREE"
     varieties ""
     languages ""
     words ""
@@ -9387,8 +9360,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1043
-    label "CALABASH"
+    id 1040
+    label "BRAVE"
     varieties ""
     languages ""
     words ""
@@ -9396,7 +9369,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1044
+    id 1041
     label "LIE (REST)"
     varieties ""
     languages ""
@@ -9405,7 +9378,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1045
+    id 1042
     label "MOW"
     varieties ""
     languages ""
@@ -9414,7 +9387,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1046
+    id 1043
     label "FORTY"
     varieties ""
     languages ""
@@ -9423,7 +9396,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1047
+    id 1044
     label "CROUCH"
     varieties ""
     languages ""
@@ -9432,7 +9405,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1048
+    id 1045
     label "PORCUPINE"
     varieties ""
     languages ""
@@ -9441,7 +9414,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1049
+    id 1046
+    label "CALABASH"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1047
     label "END (OF TIME)"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -9450,7 +9432,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1050
+    id 1048
     label "SORE"
     varieties ""
     languages ""
@@ -9459,16 +9441,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1051
-    label "SMILE"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "aː tʃ e"
-    Variety_Count 1
-    Language_Count 1
+    id 1049
+    label "FRY"
+    varieties "clics4-46//clics4-46//clics4-239//clics4-239"
+    languages "yaqu1251//yaqu1251//high1278//high1278"
+    words ""
+    Variety_Count 4
+    Language_Count 2
   ]
   node [
-    id 1052
+    id 1050
     label "HOME"
     varieties ""
     languages ""
@@ -9477,16 +9459,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1053
-    label "PAIR"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "w o i"
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 1054
+    id 1051
     label "SILENCE"
     varieties ""
     languages ""
@@ -9495,7 +9468,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1055
+    id 1052
     label "BREAKFAST"
     varieties ""
     languages ""
@@ -9504,7 +9477,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1056
+    id 1053
     label "SORGHUM"
     varieties ""
     languages ""
@@ -9513,13 +9486,40 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1057
+    id 1054
+    label "STAND UP"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1055
+    label "SMILE"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "aː tʃ e"
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 1056
     label "VALLEY"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 1057
+    label "PAIR"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "w o i"
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
     id 1058
@@ -9568,6 +9568,15 @@ graph [
   ]
   node [
     id 1063
+    label "FREEZE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1064
     label "PROUD"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -9576,17 +9585,8 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1064
-    label "WAGES"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
     id 1065
-    label "PRIEST"
+    label "WAGES"
     varieties ""
     languages ""
     words ""
@@ -9604,15 +9604,6 @@ graph [
   ]
   node [
     id 1067
-    label "FREEZE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1068
     label "REGRET"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -9621,7 +9612,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1069
+    id 1068
     label "GUMS"
     varieties ""
     languages ""
@@ -9630,8 +9621,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1070
+    id 1069
     label "RETREAT"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1070
+    label "PRIEST"
     varieties ""
     languages ""
     words ""
@@ -9721,15 +9721,6 @@ graph [
   ]
   node [
     id 1080
-    label "INCREASE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1081
     label "ADJUDICATE"
     varieties ""
     languages ""
@@ -9738,7 +9729,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1082
+    id 1081
     label "OVEN"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -9747,8 +9738,8 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1083
-    label "DAY (24 HOURS)"
+    id 1082
+    label "INCREASE"
     varieties ""
     languages ""
     words ""
@@ -9756,16 +9747,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1084
-    label "CARRY IN HAND"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words ""
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 1085
+    id 1083
     label "SHELF"
     varieties ""
     languages ""
@@ -9774,16 +9756,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1086
-    label "TWIST"
-    varieties "clics4-46//clics4-239"
-    languages "yaqu1251//high1278"
-    words "t o t t a//m o + m a l a k a + tʃ o + a"
-    Variety_Count 2
-    Language_Count 2
-  ]
-  node [
-    id 1087
+    id 1084
     label "SCAR"
     varieties ""
     languages ""
@@ -9792,7 +9765,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1088
+    id 1085
     label "CHOKE"
     varieties ""
     languages ""
@@ -9801,7 +9774,25 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1089
+    id 1086
+    label "DAY (24 HOURS)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1087
+    label "CARRY IN HAND"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words ""
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 1088
     label "FRESHWATER EEL"
     varieties ""
     languages ""
@@ -9810,7 +9801,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1090
+    id 1089
     label "BARLEY"
     varieties ""
     languages ""
@@ -9819,13 +9810,22 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1091
+    id 1090
     label "DINNER (SUPPER)"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 1091
+    label "TWIST"
+    varieties "clics4-46//clics4-239"
+    languages "yaqu1251//high1278"
+    words "t o t t a//m o + m a l a k a + tʃ o + a"
+    Variety_Count 2
+    Language_Count 2
   ]
   node [
     id 1092
@@ -9901,24 +9901,15 @@ graph [
   ]
   node [
     id 1100
-    label "CERTAIN"
-    varieties "clics4-46//clics4-239"
-    languages "yaqu1251//high1278"
-    words "t u a//j e k + m e l a n"
-    Variety_Count 2
-    Language_Count 2
-  ]
-  node [
-    id 1101
     label "RATTLE"
-    varieties "clics4-1514//clics4-1973"
+    varieties "clics4-1510//clics4-1970"
     languages "cahu1264//tong1329"
     words "p a//a h + p a h"
     Variety_Count 2
     Language_Count 2
   ]
   node [
-    id 1102
+    id 1101
     label "FORGIVE"
     varieties ""
     languages ""
@@ -9927,16 +9918,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1103
-    label "SPIRIT"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1104
+    id 1102
     label "WOOL"
     varieties ""
     languages ""
@@ -9945,7 +9927,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1105
+    id 1103
     label "RAKE"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -9954,7 +9936,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1106
+    id 1104
     label "PRAY"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -9963,7 +9945,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1107
+    id 1105
     label "PRISON"
     varieties ""
     languages ""
@@ -9972,7 +9954,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1108
+    id 1106
+    label "CERTAIN"
+    varieties "clics4-46//clics4-239"
+    languages "yaqu1251//high1278"
+    words "t u a//j e k + m e l a n"
+    Variety_Count 2
+    Language_Count 2
+  ]
+  node [
+    id 1107
     label "MONDAY"
     varieties ""
     languages ""
@@ -9981,16 +9972,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1109
-    label "LOWER LEG"
-    varieties "clics4-1213"
-    languages "yaqu1251"
-    words "m a tʃ a m"
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 1110
+    id 1108
     label "MOLD"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -9999,7 +9981,16 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1111
+    id 1109
+    label "GUTS"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1110
     label "LIMP"
     varieties ""
     languages ""
@@ -10008,7 +9999,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1112
+    id 1111
     label "FOURTEEN"
     varieties ""
     languages ""
@@ -10017,13 +10008,22 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1113
+    id 1112
     label "WATERFALL"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 1113
+    label "LOWER LEG"
+    varieties "clics4-1209"
+    languages "yaqu1251"
+    words "m a tʃ a m"
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
     id 1114
@@ -10054,7 +10054,7 @@ graph [
   ]
   node [
     id 1117
-    label "DIRT"
+    label "SPIRIT"
     varieties ""
     languages ""
     words ""
@@ -10063,24 +10063,6 @@ graph [
   ]
   node [
     id 1118
-    label "GUTS"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1119
-    label "OBEY"
-    varieties "clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251"
-    words "j i k k a j a//j i k k a j a"
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 1120
     label "WHISPER"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -10089,16 +10071,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1121
-    label "LEND"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1122
+    id 1119
     label "PASTURE"
     varieties "clics4-239"
     languages "high1278"
@@ -10107,7 +10080,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1123
+    id 1120
     label "FRIDAY"
     varieties ""
     languages ""
@@ -10116,7 +10089,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1124
+    id 1121
     label "WEDNESDAY"
     varieties ""
     languages ""
@@ -10125,7 +10098,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1125
+    id 1122
     label "TUESDAY"
     varieties ""
     languages ""
@@ -10134,7 +10107,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1126
+    id 1123
     label "CARRY ON BACK"
     varieties ""
     languages ""
@@ -10143,7 +10116,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1127
+    id 1124
     label "POCKET"
     varieties ""
     languages ""
@@ -10152,7 +10125,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1128
+    id 1125
     label "WEATHER"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -10161,7 +10134,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1129
+    id 1126
     label "WIDOWER"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -10170,13 +10143,40 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1130
-    label "FAT (FROM ANIMALS)"
+    id 1127
+    label "LEND"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 1128
+    label "DEFEND"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251"
+    words "a n i a//a n i a//a n i a//a n i a"
+    Variety_Count 4
+    Language_Count 1
+  ]
+  node [
+    id 1129
+    label "DIRT"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1130
+    label "OBEY"
+    varieties "clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251"
+    words "j i k k a j a//j i k k a j a"
+    Variety_Count 2
+    Language_Count 1
   ]
   node [
     id 1131
@@ -10189,33 +10189,6 @@ graph [
   ]
   node [
     id 1132
-    label "DEFEND"
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251"
-    words "a n i a//a n i a//a n i a//a n i a"
-    Variety_Count 4
-    Language_Count 1
-  ]
-  node [
-    id 1133
-    label "PLANT (VEGETATION)"
-    varieties "clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251"
-    words "j u j a"
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 1134
-    label "COPULATE"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words ""
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 1135
     label "THIRTY"
     varieties ""
     languages ""
@@ -10224,25 +10197,25 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1136
-    label "NEIGHBOUR"
-    varieties "clics4-239//clics4-239"
-    languages "high1278//high1278"
-    words "i + tʃ a n + k a w//i + tʃ a n + k a w"
+    id 1133
+    label "FAT (FROM ANIMALS)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1134
+    label "PLANT (VEGETATION)"
+    varieties "clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251"
+    words "j u j a"
     Variety_Count 2
     Language_Count 1
   ]
   node [
-    id 1137
-    label "MORE"
-    varieties "clics4-46//clics4-239//clics4-239//clics4-46"
-    languages "yaqu1251//high1278//high1278//yaqu1251"
-    words ""
-    Variety_Count 4
-    Language_Count 2
-  ]
-  node [
-    id 1138
+    id 1135
     label "STINGRAY"
     varieties ""
     languages ""
@@ -10251,7 +10224,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1139
+    id 1136
     label "WHITE MAN"
     varieties ""
     languages ""
@@ -10260,16 +10233,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1140
-    label "STORY"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
+    id 1137
+    label "NEIGHBOUR"
+    varieties "clics4-239//clics4-239"
+    languages "high1278//high1278"
+    words "i + tʃ a n + k a w//i + tʃ a n + k a w"
+    Variety_Count 2
+    Language_Count 1
   ]
   node [
-    id 1141
+    id 1138
     label "FLYING FOX"
     varieties ""
     languages ""
@@ -10278,7 +10251,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1142
+    id 1139
     label "HEADGEAR"
     varieties ""
     languages ""
@@ -10287,7 +10260,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1143
+    id 1140
     label "SEEM"
     varieties ""
     languages ""
@@ -10296,25 +10269,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1144
-    label "FATHER-IN-LAW (OF MAN)"
-    varieties ""
-    languages ""
+    id 1141
+    label "COPULATE"
+    varieties "clics4-46"
+    languages "yaqu1251"
     words ""
-    Variety_Count 0
-    Language_Count 0
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
-    id 1145
-    label "TOGETHER"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1146
+    id 1142
     label "DARE"
     varieties ""
     languages ""
@@ -10323,7 +10287,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1147
+    id 1143
     label "SERVANT"
     varieties ""
     languages ""
@@ -10332,7 +10296,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1148
+    id 1144
     label "BAD LUCK"
     varieties ""
     languages ""
@@ -10341,13 +10305,49 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1149
+    id 1145
+    label "STORY"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1146
     label "DOWN"
     varieties "clics4-46//clics4-239//clics4-239"
     languages "yaqu1251//high1278//high1278"
     words ""
     Variety_Count 3
     Language_Count 2
+  ]
+  node [
+    id 1147
+    label "FATHER-IN-LAW (OF MAN)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1148
+    label "MORE"
+    varieties "clics4-46//clics4-239//clics4-239//clics4-46"
+    languages "yaqu1251//high1278//high1278//yaqu1251"
+    words ""
+    Variety_Count 4
+    Language_Count 2
+  ]
+  node [
+    id 1149
+    label "TOGETHER"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 1150
@@ -10378,15 +10378,6 @@ graph [
   ]
   node [
     id 1153
-    label "SAME"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "n a n a ʔ a n a"
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 1154
     label "BLIND PERSON"
     varieties ""
     languages ""
@@ -10395,16 +10386,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1155
-    label "CURSE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
+    id 1154
+    label "SAME"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "n a n a ʔ a n a"
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
-    id 1156
+    id 1155
     label "BOOT"
     varieties ""
     languages ""
@@ -10413,7 +10404,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1157
+    id 1156
     label "BRUSH"
     varieties ""
     languages ""
@@ -10422,13 +10413,22 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1158
+    id 1157
     label "BRAID (VERB) OR WEAVE (BASKET)"
     varieties "clics4-46//clics4-46//clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251"
     words "j i ʔ i k a//j i ʔ i k a//j i ʔ i k a//bʷ a s s u m a"
     Variety_Count 4
     Language_Count 1
+  ]
+  node [
+    id 1158
+    label "CURSE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 1159
@@ -10441,24 +10441,6 @@ graph [
   ]
   node [
     id 1160
-    label "BREATH"
-    varieties "clics4-239//clics4-239//clics4-239"
-    languages "high1278//high1278//high1278"
-    words "i + i j o + j o//iː h j o j o//i h s i k a"
-    Variety_Count 3
-    Language_Count 1
-  ]
-  node [
-    id 1161
-    label "CRICKET"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1162
     label "ALONE"
     varieties ""
     languages ""
@@ -10467,7 +10449,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1163
+    id 1161
     label "CARPENTER"
     varieties ""
     languages ""
@@ -10476,7 +10458,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1164
+    id 1162
     label "BALD"
     varieties ""
     languages ""
@@ -10485,7 +10467,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1165
+    id 1163
     label "SHARE"
     varieties "clics4-46//clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251//yaqu1251"
@@ -10494,8 +10476,26 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1166
+    id 1164
     label "QUARREL"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1165
+    label "BREATH"
+    varieties "clics4-239//clics4-239//clics4-239"
+    languages "high1278//high1278//high1278"
+    words "i + i j o + j o//iː h j o j o//i h s i k a"
+    Variety_Count 3
+    Language_Count 1
+  ]
+  node [
+    id 1166
+    label "CRICKET"
     varieties ""
     languages ""
     words ""
@@ -10577,7 +10577,7 @@ graph [
   node [
     id 1175
     label "DIGGING STICK"
-    varieties "clics4-1332//clics4-1332//clics4-1514//clics4-1973//clics4-1973"
+    varieties "clics4-1329//clics4-1329//clics4-1510//clics4-1970//clics4-1970"
     languages "pana1305//pana1305//cahu1264//tong1329//tong1329"
     words "p o t o n//p o t o n//n a x a t//a h + n a h tʃ//a h + n a h tʃ"
     Variety_Count 5
@@ -10630,15 +10630,6 @@ graph [
   ]
   node [
     id 1181
-    label "STEPMOTHER"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1182
     label "STRING"
     varieties ""
     languages ""
@@ -10647,17 +10638,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1183
-    label "BEAK"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "t eː n i"
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 1184
-    label "CHAMELEON"
+    id 1182
+    label "STEPMOTHER"
     varieties ""
     languages ""
     words ""
@@ -10665,7 +10647,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1185
+    id 1183
     label "RULE"
     varieties ""
     languages ""
@@ -10674,16 +10656,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1186
-    label "VINE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1187
+    id 1184
     label "KNOCK"
     varieties ""
     languages ""
@@ -10692,7 +10665,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1188
+    id 1185
+    label "CHAMELEON"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1186
     label "CROWD"
     varieties ""
     languages ""
@@ -10701,7 +10683,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1189
+    id 1187
     label "ENVY"
     varieties ""
     languages ""
@@ -10710,7 +10692,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1190
+    id 1188
     label "COMMAND"
     varieties ""
     languages ""
@@ -10719,7 +10701,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1191
+    id 1189
     label "GRAPE"
     varieties ""
     languages ""
@@ -10728,16 +10710,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1192
-    label "BETRAY"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1193
+    id 1190
     label "FORBID"
     varieties ""
     languages ""
@@ -10746,7 +10719,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1194
+    id 1191
+    label "BEAK"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "t eː n i"
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 1192
     label "SIXTY"
     varieties ""
     languages ""
@@ -10755,7 +10737,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1195
+    id 1193
+    label "BETRAY"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1194
     label "BE SILENT"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -10764,13 +10755,22 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1196
+    id 1195
     label "FEMALE (OF PERSON)"
     varieties "clics4-46//clics4-239//clics4-46"
     languages "yaqu1251//high1278//yaqu1251"
     words "j a m u t//s i w a + t"
     Variety_Count 3
     Language_Count 2
+  ]
+  node [
+    id 1196
+    label "VINE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 1197
@@ -10783,15 +10783,6 @@ graph [
   ]
   node [
     id 1198
-    label "TASTY"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1199
     label "WISE"
     varieties ""
     languages ""
@@ -10800,16 +10791,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1200
-    label "DIFFERENT"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1201
+    id 1199
     label "TWICE"
     varieties ""
     languages ""
@@ -10818,7 +10800,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1202
+    id 1200
     label "WHEEL"
     varieties "clics4-239"
     languages "high1278"
@@ -10827,7 +10809,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1203
+    id 1201
     label "SPLASH"
     varieties ""
     languages ""
@@ -10836,8 +10818,26 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1204
+    id 1202
+    label "TASTY"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1203
     label "SNIFF"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1204
+    label "DIFFERENT"
     varieties ""
     languages ""
     words ""
@@ -10900,15 +10900,6 @@ graph [
   ]
   node [
     id 1211
-    label "SON-IN-LAW (OF MAN)"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words ""
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 1212
     label "LAMP"
     varieties "clics4-239"
     languages "high1278"
@@ -10917,7 +10908,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1213
+    id 1212
     label "WEAR"
     varieties ""
     languages ""
@@ -10926,16 +10917,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1214
-    label "FATHER-IN-LAW (OF WOMAN)"
-    varieties ""
-    languages ""
+    id 1213
+    label "SON-IN-LAW (OF MAN)"
+    varieties "clics4-46"
+    languages "yaqu1251"
     words ""
-    Variety_Count 0
-    Language_Count 0
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
-    id 1215
+    id 1214
     label "BETELNUT"
     varieties ""
     languages ""
@@ -10944,16 +10935,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1216
-    label "VAGINA"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words ""
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 1217
+    id 1215
     label "SOW (FEMALE PIG)"
     varieties ""
     languages ""
@@ -10962,7 +10944,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1218
+    id 1216
+    label "FATHER-IN-LAW (OF WOMAN)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1217
     label "COUSIN"
     varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251"
@@ -10971,7 +10962,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1219
+    id 1218
     label "BOAR (MALE PIG)"
     varieties ""
     languages ""
@@ -10980,11 +10971,20 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1220
+    id 1219
     label "STAB TO DEATH"
     varieties "clics4-46"
     languages "yaqu1251"
     words "s o a"
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 1220
+    label "VAGINA"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words ""
     Variety_Count 1
     Language_Count 1
   ]
@@ -11071,15 +11071,6 @@ graph [
   ]
   node [
     id 1230
-    label "DONATE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1231
     label "MAINLAND"
     varieties ""
     languages ""
@@ -11088,7 +11079,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1232
+    id 1231
     label "WINNOWING"
     varieties ""
     languages ""
@@ -11097,16 +11088,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1233
-    label "LAW"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1234
+    id 1232
     label "FISH TRAP"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -11115,7 +11097,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1235
+    id 1233
     label "ARMY"
     varieties ""
     languages ""
@@ -11124,7 +11106,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1236
+    id 1234
     label "ADZE"
     varieties ""
     languages ""
@@ -11133,8 +11115,26 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1237
+    id 1235
+    label "DONATE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1236
     label "SHOP"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1237
+    label "LAW"
     varieties ""
     languages ""
     words ""
@@ -11170,15 +11170,6 @@ graph [
   ]
   node [
     id 1241
-    label "THREE TIMES"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1242
     label "PITY"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -11187,16 +11178,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1243
-    label "DAUGHTER-IN-LAW (OF MAN)"
-    varieties "clics4-46//clics4-239"
-    languages "yaqu1251//high1278"
-    words ""
-    Variety_Count 2
-    Language_Count 2
-  ]
-  node [
-    id 1244
+    id 1242
     label "LUNCH"
     varieties ""
     languages ""
@@ -11205,16 +11187,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1245
-    label "ACCUSE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1246
+    id 1243
     label "MISS (A TARGET)"
     varieties ""
     languages ""
@@ -11223,7 +11196,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1247
+    id 1244
     label "STUDY"
     varieties "clics4-239"
     languages "high1278"
@@ -11232,7 +11205,25 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1248
+    id 1245
+    label "THREE TIMES"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1246
+    label "DAUGHTER-IN-LAW (OF MAN)"
+    varieties "clics4-46//clics4-239"
+    languages "yaqu1251//high1278"
+    words ""
+    Variety_Count 2
+    Language_Count 2
+  ]
+  node [
+    id 1247
     label "BRASS INSTRUMENT (HORN OR TRUMPET)"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -11241,7 +11232,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1249
+    id 1248
     label "COAT"
     varieties ""
     languages ""
@@ -11250,8 +11241,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1250
+    id 1249
     label "YOLK"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1250
+    label "ACCUSE"
     varieties ""
     languages ""
     words ""
@@ -11279,7 +11279,7 @@ graph [
   node [
     id 1253
     label "ITCH (CAUSE ITCHING OR FEEL ITCHY)"
-    varieties "clics4-1350"
+    varieties "clics4-1348"
     languages "serr1255"
     words "ts u ŋ"
     Variety_Count 1
@@ -11341,15 +11341,6 @@ graph [
   ]
   node [
     id 1260
-    label "DRY SEASON"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1261
     label "FEMALE (OF ANIMAL)"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -11358,8 +11349,8 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1262
-    label "BEND (SOMETHING)"
+    id 1261
+    label "DRY SEASON"
     varieties ""
     languages ""
     words ""
@@ -11367,7 +11358,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1263
+    id 1262
     label "STEPFATHER"
     varieties ""
     languages ""
@@ -11376,7 +11367,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1264
+    id 1263
     label "RAG"
     varieties ""
     languages ""
@@ -11385,16 +11376,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1265
-    label "FAN (ACTION)"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1266
+    id 1264
     label "LOINCLOTH"
     varieties ""
     languages ""
@@ -11403,7 +11385,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1267
+    id 1265
     label "POWERFUL"
     varieties "clics4-239//clics4-239//clics4-239"
     languages "high1278//high1278//high1278"
@@ -11412,7 +11394,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1268
+    id 1266
     label "CARVE"
     varieties ""
     languages ""
@@ -11421,16 +11403,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1269
-    label "GREY"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1270
+    id 1267
     label "BREAK (OF ROPE)"
     varieties ""
     languages ""
@@ -11439,7 +11412,25 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1271
+    id 1268
+    label "BEND (SOMETHING)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1269
+    label "FAN (ACTION)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1270
     label "WILLOW"
     varieties ""
     languages ""
@@ -11448,7 +11439,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1272
+    id 1271
     label "TOMATO"
     varieties ""
     languages ""
@@ -11457,7 +11448,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1273
+    id 1272
     label "NEED (NOUN)"
     varieties ""
     languages ""
@@ -11466,7 +11457,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1274
+    id 1273
     label "SIXTEEN"
     varieties ""
     languages ""
@@ -11475,7 +11466,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1275
+    id 1274
     label "SLEEVE"
     varieties ""
     languages ""
@@ -11484,8 +11475,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1276
-    label "WIN"
+    id 1275
+    label "GREY"
     varieties ""
     languages ""
     words ""
@@ -11493,7 +11484,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1277
+    id 1276
     label "SIBLING"
     varieties ""
     languages ""
@@ -11502,16 +11493,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1278
-    label "HANDLE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1279
+    id 1277
     label "BOX"
     varieties ""
     languages ""
@@ -11520,7 +11502,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1280
+    id 1278
+    label "WIN"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1279
     label "SAGO"
     varieties ""
     languages ""
@@ -11529,7 +11520,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1281
+    id 1280
     label "BEGGAR"
     varieties ""
     languages ""
@@ -11538,7 +11529,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1282
+    id 1281
     label "DEBT"
     varieties ""
     languages ""
@@ -11547,7 +11538,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1283
+    id 1282
     label "WORSHIP"
     varieties ""
     languages ""
@@ -11556,7 +11547,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1284
+    id 1283
     label "COIN"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -11565,25 +11556,16 @@ graph [
     Language_Count 1
   ]
   node [
+    id 1284
+    label "HANDLE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
     id 1285
-    label "YARD"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1286
-    label "NOTHING"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1287
     label "BOLT (OF LIGHTNING)"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -11592,7 +11574,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1288
+    id 1286
     label "CUSTOM"
     varieties ""
     languages ""
@@ -11601,7 +11583,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1289
+    id 1287
     label "COMB (VERB)"
     varieties ""
     languages ""
@@ -11610,13 +11592,31 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1290
+    id 1288
     label "QUIVER (FOR ARROWS)"
-    varieties "clics4-1450//clics4-1632"
+    varieties "clics4-1447//clics4-1630"
     languages "mono1275//tuba1278"
     words "k i//m aː ʃ a tː"
     Variety_Count 2
     Language_Count 2
+  ]
+  node [
+    id 1289
+    label "YARD"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1290
+    label "NOTHING"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 1291
@@ -11737,21 +11737,21 @@ graph [
   ]
   node [
     id 1304
-    label "SPLEEN"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1305
     label "PUBIC HAIR"
     varieties "clics4-46"
     languages "yaqu1251"
     words "b o a m"
     Variety_Count 1
     Language_Count 1
+  ]
+  node [
+    id 1305
+    label "SPLEEN"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 1306
@@ -11800,15 +11800,6 @@ graph [
   ]
   node [
     id 1311
-    label "SON-IN-LAW (OF WOMAN)"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "m o ʔ o n e"
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 1312
     label "RUDDER"
     varieties ""
     languages ""
@@ -11817,7 +11808,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1313
+    id 1312
     label "MURDER"
     varieties ""
     languages ""
@@ -11826,7 +11817,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1314
+    id 1313
     label "GARLIC"
     varieties ""
     languages ""
@@ -11835,16 +11826,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1315
-    label "FEED"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1316
+    id 1314
     label "SPARK"
     varieties ""
     languages ""
@@ -11853,25 +11835,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1317
-    label "MACHETE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1318
-    label "FIN"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words ""
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 1319
+    id 1315
     label "SECRET"
     varieties ""
     languages ""
@@ -11880,16 +11844,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1320
-    label "SANDFLY"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
+    id 1316
+    label "SON-IN-LAW (OF WOMAN)"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "m o ʔ o n e"
+    Variety_Count 1
+    Language_Count 1
   ]
   node [
-    id 1321
+    id 1317
     label "BATTLE"
     varieties ""
     languages ""
@@ -11898,7 +11862,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1322
+    id 1318
     label "RAISE (BRING UP)"
     varieties ""
     languages ""
@@ -11907,7 +11871,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1323
+    id 1319
     label "COPPER"
     varieties ""
     languages ""
@@ -11916,7 +11880,25 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1324
+    id 1320
+    label "MACHETE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1321
+    label "FIN"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words ""
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 1322
     label "FAMINE"
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
@@ -11925,7 +11907,7 @@ graph [
     Language_Count 2
   ]
   node [
-    id 1325
+    id 1323
     label "DRIBBLE"
     varieties "clics4-46//clics4-239//clics4-239"
     languages "yaqu1251//high1278//high1278"
@@ -11934,7 +11916,7 @@ graph [
     Language_Count 2
   ]
   node [
-    id 1326
+    id 1324
     label "MERCHANT"
     varieties ""
     languages ""
@@ -11943,7 +11925,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1327
+    id 1325
     label "TRAP (CATCH)"
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -11952,7 +11934,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1328
+    id 1326
     label "LARVA"
     varieties ""
     languages ""
@@ -11961,7 +11943,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1329
+    id 1327
     label "WATCH"
     varieties ""
     languages ""
@@ -11970,7 +11952,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1330
+    id 1328
     label "DRESS"
     varieties "clics4-239//clics4-46//clics4-239"
     languages "high1278//yaqu1251//high1278"
@@ -11979,7 +11961,7 @@ graph [
     Language_Count 2
   ]
   node [
-    id 1331
+    id 1329
     label "READY"
     varieties ""
     languages ""
@@ -11988,8 +11970,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1332
-    label "BARKING"
+    id 1330
+    label "FEED"
     varieties ""
     languages ""
     words ""
@@ -11997,7 +11979,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1333
+    id 1331
+    label "SANDFLY"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1332
     label "GRASS-SKIRT"
     varieties ""
     languages ""
@@ -12006,7 +11997,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1334
+    id 1333
     label "LOCUST"
     varieties ""
     languages ""
@@ -12015,7 +12006,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1335
+    id 1334
     label "BUCKET"
     varieties ""
     languages ""
@@ -12024,7 +12015,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1336
+    id 1335
     label "RECOVER"
     varieties ""
     languages ""
@@ -12033,7 +12024,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1337
+    id 1336
     label "OATH"
     varieties ""
     languages ""
@@ -12042,7 +12033,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1338
+    id 1337
     label "PROSTITUTE"
     varieties ""
     languages ""
@@ -12051,16 +12042,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1339
-    label "DAUGHTER-IN-LAW (OF WOMAN)"
-    varieties "clics4-46//clics4-239"
-    languages "yaqu1251//high1278"
-    words "j a b o r a i//i + sʷ a + m o n"
-    Variety_Count 2
-    Language_Count 2
+    id 1338
+    label "BARKING"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
-    id 1340
+    id 1339
     label "CAMEL"
     varieties ""
     languages ""
@@ -12069,7 +12060,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1341
+    id 1340
     label "CARRY ON HEAD"
     varieties ""
     languages ""
@@ -12078,7 +12069,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1342
+    id 1341
     label "BLESS"
     varieties ""
     languages ""
@@ -12087,7 +12078,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1343
+    id 1342
     label "GOOD LUCK"
     varieties ""
     languages ""
@@ -12096,16 +12087,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1344
-    label "GUARD"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
+    id 1343
+    label "DAUGHTER-IN-LAW (OF WOMAN)"
+    varieties "clics4-46//clics4-239"
+    languages "yaqu1251//high1278"
+    words "j a b o r a i//i + sʷ a + m o n"
+    Variety_Count 2
+    Language_Count 2
   ]
   node [
-    id 1345
+    id 1344
     label "CAUSE"
     varieties "clics4-239//clics4-46"
     languages "high1278//yaqu1251"
@@ -12114,16 +12105,7 @@ graph [
     Language_Count 2
   ]
   node [
-    id 1346
-    label "GARBAGE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1347
+    id 1345
     label "AFFAIR"
     varieties ""
     languages ""
@@ -12132,7 +12114,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1348
+    id 1346
     label "OX"
     varieties "clics4-239//clics4-239"
     languages "high1278//high1278"
@@ -12141,7 +12123,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1349
+    id 1347
     label "ADD"
     varieties ""
     languages ""
@@ -12150,7 +12132,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1350
+    id 1348
+    label "GUARD"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1349
     label "HUMMINGBIRD"
     varieties ""
     languages ""
@@ -12159,8 +12150,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1351
+    id 1350
     label "TOOL"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1351
+    label "PIERCE"
     varieties ""
     languages ""
     words ""
@@ -12205,7 +12205,7 @@ graph [
   ]
   node [
     id 1356
-    label "PIERCE"
+    label "GARBAGE"
     varieties ""
     languages ""
     words ""
@@ -12232,7 +12232,7 @@ graph [
   ]
   node [
     id 1359
-    label "SHIN"
+    label "BEVERAGE"
     varieties ""
     languages ""
     words ""
@@ -12241,7 +12241,7 @@ graph [
   ]
   node [
     id 1360
-    label "BEVERAGE"
+    label "SHIN"
     varieties ""
     languages ""
     words ""
@@ -12295,15 +12295,6 @@ graph [
   ]
   node [
     id 1366
-    label "ADMIT"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1367
     label "HERDSMAN"
     varieties ""
     languages ""
@@ -12312,7 +12303,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1368
+    id 1367
     label "WALLABY"
     varieties ""
     languages ""
@@ -12321,13 +12312,22 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1369
+    id 1368
     label "SPEARTHROWER"
-    varieties "clics4-1286//clics4-1286//clics4-1450//clics4-1451//clics4-1494//clics4-1513//clics4-1514//clics4-1494"
+    varieties "clics4-1286//clics4-1286//clics4-1447//clics4-1448//clics4-1490//clics4-1509//clics4-1510//clics4-1490"
     languages "luis1253//luis1253//mono1275//coma1245//kawa1283//cupe1243//cahu1264//kawa1283"
     words "k u//k u//e//eː t y//e d y//k u t a p i ʃ//h u l//e d y"
     Variety_Count 8
     Language_Count 6
+  ]
+  node [
+    id 1369
+    label "ADMIT"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
   ]
   node [
     id 1370
@@ -12484,33 +12484,6 @@ graph [
   ]
   node [
     id 1387
-    label "HAMMOCK"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1388
-    label "JAGUAR"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "o u s e i"
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 1389
-    label "SOUND (OF INSTRUMENT OR VOICE)"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1390
     label "BEGET"
     varieties ""
     languages ""
@@ -12519,7 +12492,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1391
+    id 1388
     label "DAMAGE OR INJURE"
     varieties ""
     languages ""
@@ -12528,7 +12501,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1392
+    id 1389
     label "SLEEP (STATE)"
     varieties ""
     languages ""
@@ -12537,7 +12510,25 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1393
+    id 1390
+    label "HAMMOCK"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1391
+    label "JAGUAR"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "o u s e i"
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 1392
     label "DEFEAT"
     varieties ""
     languages ""
@@ -12546,7 +12537,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1394
+    id 1393
     label "STEPSON"
     varieties ""
     languages ""
@@ -12555,7 +12546,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1395
+    id 1394
     label "HOUR"
     varieties ""
     languages ""
@@ -12564,7 +12555,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1396
+    id 1395
     label "CONCEIVE"
     varieties ""
     languages ""
@@ -12573,7 +12564,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1397
+    id 1396
     label "WEAPONS"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -12582,7 +12573,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1398
+    id 1397
     label "FOAL"
     varieties ""
     languages ""
@@ -12591,7 +12582,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1399
+    id 1398
     label "WALK (TAKE A WALK)"
     varieties ""
     languages ""
@@ -12600,8 +12591,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1400
-    label "STING"
+    id 1399
+    label "SOUND (OF INSTRUMENT OR VOICE)"
     varieties ""
     languages ""
     words ""
@@ -12609,7 +12600,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1401
+    id 1400
     label "SLOTH"
     varieties ""
     languages ""
@@ -12618,7 +12609,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1402
+    id 1401
     label "DROWNED"
     varieties ""
     languages ""
@@ -12627,16 +12618,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1403
-    label "DRAG"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1404
+    id 1402
     label "YOU TWO"
     varieties ""
     languages ""
@@ -12645,7 +12627,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1405
+    id 1403
     label "THEY TWO"
     varieties ""
     languages ""
@@ -12654,7 +12636,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1406
+    id 1404
     label "LEAD (CHEMICAL ELEMENT)"
     varieties ""
     languages ""
@@ -12663,7 +12645,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1407
+    id 1405
     label "IRRIGATE"
     varieties ""
     languages ""
@@ -12672,7 +12654,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1408
+    id 1406
+    label "STING"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1407
     label "MANNER"
     varieties ""
     languages ""
@@ -12681,7 +12672,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1409
+    id 1408
     label "INTENTION"
     varieties "clics4-239//clics4-239//clics4-239//clics4-46"
     languages "high1278//high1278//high1278//yaqu1251"
@@ -12690,7 +12681,7 @@ graph [
     Language_Count 2
   ]
   node [
-    id 1410
+    id 1409
     label "HINDER OR PREVENT"
     varieties ""
     languages ""
@@ -12699,7 +12690,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1411
+    id 1410
     label "VICTORY"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -12708,7 +12699,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1412
+    id 1411
     label "UNCOOKED RICE"
     varieties ""
     languages ""
@@ -12717,7 +12708,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1413
+    id 1412
     label "BOOMERANG"
     varieties ""
     languages ""
@@ -12726,7 +12717,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1414
+    id 1413
     label "EARLOBE"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -12735,7 +12726,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1415
+    id 1414
     label "STOCKING"
     varieties ""
     languages ""
@@ -12744,7 +12735,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1416
+    id 1415
     label "PUNISHMENT"
     varieties ""
     languages ""
@@ -12753,8 +12744,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1417
-    label "USE (VERB)"
+    id 1416
+    label "DRAG"
     varieties ""
     languages ""
     words ""
@@ -12762,7 +12753,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1418
+    id 1417
     label "OUR"
     varieties ""
     languages ""
@@ -12771,8 +12762,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1419
+    id 1418
     label "HOOF"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1419
+    label "USE (VERB)"
     varieties ""
     languages ""
     words ""
@@ -12826,15 +12826,6 @@ graph [
   ]
   node [
     id 1425
-    label "ATTACK"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1426
     label "LAMB"
     varieties "clics4-46//clics4-239//clics4-46"
     languages "yaqu1251//high1278//yaqu1251"
@@ -12843,7 +12834,7 @@ graph [
     Language_Count 2
   ]
   node [
-    id 1427
+    id 1426
     label "STEPDAUGHTER"
     varieties ""
     languages ""
@@ -12852,7 +12843,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1428
+    id 1427
     label "CARRY UNDER ARM"
     varieties ""
     languages ""
@@ -12861,8 +12852,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1429
-    label "DECORATE"
+    id 1428
+    label "ATTACK"
     varieties ""
     languages ""
     words ""
@@ -12870,7 +12861,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1430
+    id 1429
     label "OCEAN"
     varieties ""
     languages ""
@@ -12879,7 +12870,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1431
+    id 1430
     label "MARRIED WOMAN"
     varieties ""
     languages ""
@@ -12888,8 +12879,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1432
+    id 1431
     label "MATERNAL GRANDMOTHER"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1432
+    label "MARRIED MAN"
     varieties ""
     languages ""
     words ""
@@ -12907,15 +12907,6 @@ graph [
   ]
   node [
     id 1434
-    label "MARRIED MAN"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1435
     label "PREACH"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -12924,8 +12915,17 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1436
+    id 1435
     label "NUT"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1436
+    label "DECORATE"
     varieties ""
     languages ""
     words ""
@@ -13051,15 +13051,6 @@ graph [
   ]
   node [
     id 1450
-    label "PRISONER"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1451
     label "PICK"
     varieties ""
     languages ""
@@ -13068,7 +13059,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1452
+    id 1451
     label "KINGFISHER"
     varieties ""
     languages ""
@@ -13077,8 +13068,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1453
+    id 1452
     label "TAPIR"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1453
+    label "PRISONER"
     varieties ""
     languages ""
     words ""
@@ -13132,15 +13132,6 @@ graph [
   ]
   node [
     id 1459
-    label "BE ABLE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1460
     label "FIST"
     varieties ""
     languages ""
@@ -13149,7 +13140,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1461
+    id 1460
     label "GUILTY"
     varieties ""
     languages ""
@@ -13158,7 +13149,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1462
+    id 1461
     label "HEAP"
     varieties ""
     languages ""
@@ -13167,7 +13158,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1463
+    id 1462
     label "CAMP"
     varieties ""
     languages ""
@@ -13176,16 +13167,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1464
-    label "DRESS UP"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1465
+    id 1463
     label "LATCH"
     varieties ""
     languages ""
@@ -13194,7 +13176,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1466
+    id 1464
     label "COOKHOUSE"
     varieties ""
     languages ""
@@ -13203,7 +13185,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1467
+    id 1465
     label "FATHOM"
     varieties ""
     languages ""
@@ -13212,7 +13194,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1468
+    id 1466
     label "TRANSIT"
     varieties ""
     languages ""
@@ -13221,7 +13203,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1469
+    id 1467
+    label "DRESS UP"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1468
     label "SURRENDER"
     varieties ""
     languages ""
@@ -13230,7 +13221,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1470
+    id 1469
     label "HOLY"
     varieties ""
     languages ""
@@ -13239,7 +13230,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1471
+    id 1470
     label "CITRUS FRUIT"
     varieties ""
     languages ""
@@ -13248,8 +13239,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1472
+    id 1471
     label "BIRCH"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1472
+    label "BE ABLE"
     varieties ""
     languages ""
     words ""
@@ -13330,15 +13330,6 @@ graph [
   ]
   node [
     id 1481
-    label "BE ANGRY"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1482
     label "LAND (DESCEND)"
     varieties ""
     languages ""
@@ -13347,7 +13338,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1483
+    id 1482
     label "EMU"
     varieties ""
     languages ""
@@ -13356,7 +13347,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1484
+    id 1483
     label "MASON"
     varieties ""
     languages ""
@@ -13365,7 +13356,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1485
+    id 1484
     label "ONCE (IN THE PAST)"
     varieties ""
     languages ""
@@ -13374,7 +13365,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1486
+    id 1485
     label "PYTHON"
     varieties ""
     languages ""
@@ -13383,7 +13374,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1487
+    id 1486
     label "INNOCENT"
     varieties ""
     languages ""
@@ -13392,7 +13383,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1488
+    id 1487
     label "FEBRUARY"
     varieties ""
     languages ""
@@ -13401,7 +13392,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1489
+    id 1488
     label "NET"
     varieties ""
     languages ""
@@ -13410,7 +13401,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1490
+    id 1489
     label "CONNECT"
     varieties ""
     languages ""
@@ -13419,16 +13410,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1491
-    label "ESCAPE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1492
+    id 1490
     label "HARVEST"
     varieties ""
     languages ""
@@ -13437,7 +13419,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1493
+    id 1491
     label "SHOEMAKER"
     varieties ""
     languages ""
@@ -13446,7 +13428,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1494
+    id 1492
+    label "BE ANGRY"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1493
     label "SOLE (FOOT)"
     varieties ""
     languages ""
@@ -13455,7 +13446,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1495
+    id 1494
     label "OMEN"
     varieties ""
     languages ""
@@ -13464,7 +13455,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1496
+    id 1495
     label "SAUCER"
     varieties ""
     languages ""
@@ -13473,7 +13464,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1497
+    id 1496
     label "TAILOR"
     varieties ""
     languages ""
@@ -13482,7 +13473,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1498
+    id 1497
     label "RELIGION"
     varieties ""
     languages ""
@@ -13491,16 +13482,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1499
-    label "PORT"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1500
+    id 1498
     label "NOTHING OR ZERO"
     varieties ""
     languages ""
@@ -13509,7 +13491,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1501
+    id 1499
     label "FAITHFUL"
     varieties "clics4-239"
     languages "high1278"
@@ -13518,7 +13500,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1502
+    id 1500
     label "BEG"
     varieties ""
     languages ""
@@ -13527,7 +13509,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1503
+    id 1501
+    label "ESCAPE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1502
     label "HOPE"
     varieties "clics4-239"
     languages "high1278"
@@ -13536,7 +13527,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1504
+    id 1503
     label "HELMET"
     varieties ""
     languages ""
@@ -13545,7 +13536,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1505
+    id 1504
     label "ADULTERY"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -13554,7 +13545,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1506
+    id 1505
     label "DECEIVE"
     varieties ""
     languages ""
@@ -13563,7 +13554,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1507
+    id 1506
     label "DEAF PERSON"
     varieties ""
     languages ""
@@ -13572,7 +13563,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1508
+    id 1507
     label "JUDGE"
     varieties ""
     languages ""
@@ -13581,8 +13572,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1509
+    id 1508
     label "FIG"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1509
+    label "PORT"
     varieties ""
     languages ""
     words ""
@@ -13600,15 +13600,6 @@ graph [
   ]
   node [
     id 1511
-    label "CURRENT (STREAM)"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1512
     label "LIME (FRUIT)"
     varieties ""
     languages ""
@@ -13617,7 +13608,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1513
+    id 1512
     label "DISPEL"
     varieties ""
     languages ""
@@ -13626,7 +13617,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1514
+    id 1513
     label "STATUE"
     varieties ""
     languages ""
@@ -13635,16 +13626,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1515
-    label "ARMADILLO"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1516
+    id 1514
     label "ANTEATER"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -13653,7 +13635,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1517
+    id 1515
     label "SHARK"
     varieties ""
     languages ""
@@ -13662,7 +13644,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1518
+    id 1516
     label "BILL"
     varieties ""
     languages ""
@@ -13671,7 +13653,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1519
+    id 1517
     label "MUMBLE"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -13680,7 +13662,16 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1520
+    id 1518
+    label "CURRENT (STREAM)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1519
     label "LAY (VERB)"
     varieties ""
     languages ""
@@ -13689,8 +13680,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1521
+    id 1520
     label "GUINEA FOWL"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1521
+    label "ARMADILLO"
     varieties ""
     languages ""
     words ""
@@ -13762,15 +13762,6 @@ graph [
   ]
   node [
     id 1529
-    label "SPICY"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1530
     label "CUCUMBER"
     varieties ""
     languages ""
@@ -13779,7 +13770,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1531
+    id 1530
     label "MARCH"
     varieties ""
     languages ""
@@ -13788,7 +13779,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1532
+    id 1531
     label "DECEMBER"
     varieties ""
     languages ""
@@ -13797,7 +13788,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1533
+    id 1532
     label "OPOSSUM"
     varieties ""
     languages ""
@@ -13806,7 +13797,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1534
+    id 1533
     label "WHALE"
     varieties ""
     languages ""
@@ -13815,7 +13806,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1535
+    id 1534
     label "MARRIAGE OR WEDDING"
     varieties ""
     languages ""
@@ -13824,16 +13815,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1536
-    label "SPLIT OPEN"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1537
+    id 1535
     label "APRIL"
     varieties ""
     languages ""
@@ -13842,7 +13824,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1538
+    id 1536
     label "MAY (MONTH)"
     varieties ""
     languages ""
@@ -13851,7 +13833,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1539
+    id 1537
     label "JUNE"
     varieties ""
     languages ""
@@ -13860,7 +13842,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1540
+    id 1538
     label "JULY"
     varieties ""
     languages ""
@@ -13869,7 +13851,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1541
+    id 1539
     label "AUGUST"
     varieties ""
     languages ""
@@ -13878,8 +13860,26 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1542
+    id 1540
     label "OCTOBER"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1541
+    label "SPICY"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1542
+    label "SPLIT OPEN"
     varieties ""
     languages ""
     words ""
@@ -13915,15 +13915,6 @@ graph [
   ]
   node [
     id 1546
-    label "ANUS"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1547
     label "ROUGH (OF SEA)"
     varieties ""
     languages ""
@@ -13932,8 +13923,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1548
+    id 1547
     label "OTTER"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1548
+    label "ANUS"
     varieties ""
     languages ""
     words ""
@@ -13969,15 +13969,6 @@ graph [
   ]
   node [
     id 1552
-    label "RESEMBLE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1553
     label "GILL"
     varieties ""
     languages ""
@@ -13986,8 +13977,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1554
+    id 1553
     label "GRUEL"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1554
+    label "RESEMBLE"
     varieties ""
     languages ""
     words ""
@@ -14122,15 +14122,6 @@ graph [
   ]
   node [
     id 1569
-    label "HEAT"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1570
     label "HAIL"
     varieties ""
     languages ""
@@ -14139,7 +14130,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1571
+    id 1570
     label "ANTHILL"
     varieties ""
     languages ""
@@ -14148,7 +14139,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1572
+    id 1571
     label "POTTER"
     varieties ""
     languages ""
@@ -14157,16 +14148,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1573
-    label "COLLARED PECCARY"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1574
+    id 1572
     label "PIMPLE"
     varieties ""
     languages ""
@@ -14175,7 +14157,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1575
+    id 1573
     label "MOUSTACHE"
     varieties ""
     languages ""
@@ -14184,7 +14166,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1576
+    id 1574
+    label "COLLARED PECCARY"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1575
     label "CALM (OF SEA)"
     varieties ""
     languages ""
@@ -14193,8 +14184,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1577
-    label "TREAD"
+    id 1576
+    label "HEAT"
     varieties ""
     languages ""
     words ""
@@ -14202,7 +14193,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1578
+    id 1577
     label "QUARREL (VERB)"
     varieties ""
     languages ""
@@ -14211,7 +14202,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1579
+    id 1578
     label "HANG"
     varieties ""
     languages ""
@@ -14220,7 +14211,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1580
+    id 1579
     label "ROB (VERB)"
     varieties ""
     languages ""
@@ -14229,7 +14220,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1581
+    id 1580
     label "COURTYARD"
     varieties ""
     languages ""
@@ -14238,8 +14229,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1582
+    id 1581
     label "NATIVE CAT"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1582
+    label "TREAD"
     varieties ""
     languages ""
     words ""
@@ -14266,24 +14266,6 @@ graph [
   ]
   node [
     id 1585
-    label "GET LOST"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1586
-    label "BECOME SICK"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1587
     label "SPOIL (BECOME SPOILED)"
     varieties ""
     languages ""
@@ -14292,7 +14274,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1588
+    id 1586
     label "PATERNAL GRANDMOTHER"
     varieties ""
     languages ""
@@ -14301,7 +14283,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1589
+    id 1587
     label "AGOUTI"
     varieties ""
     languages ""
@@ -14310,7 +14292,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1590
+    id 1588
     label "COURT"
     varieties ""
     languages ""
@@ -14319,7 +14301,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1591
+    id 1589
     label "WE TWO"
     varieties ""
     languages ""
@@ -14328,7 +14310,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1592
+    id 1590
+    label "GET LOST"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1591
     label "OLIVE"
     varieties ""
     languages ""
@@ -14337,7 +14328,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1593
+    id 1592
     label "CHEESE"
     varieties ""
     languages ""
@@ -14346,7 +14337,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1594
+    id 1593
     label "RUG"
     varieties ""
     languages ""
@@ -14355,7 +14346,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1595
+    id 1594
     label "ARSON"
     varieties ""
     languages ""
@@ -14364,8 +14355,17 @@ graph [
     Language_Count 0
   ]
   node [
+    id 1595
+    label "BECOME SICK"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
     id 1596
-    label "PACA"
+    label "ELF OR FAIRY"
     varieties ""
     languages ""
     words ""
@@ -14374,7 +14374,7 @@ graph [
   ]
   node [
     id 1597
-    label "ELF OR FAIRY"
+    label "PACA"
     varieties ""
     languages ""
     words ""
@@ -14446,24 +14446,6 @@ graph [
   ]
   node [
     id 1605
-    label "PIECE"
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "r e b e i"
-    Variety_Count 1
-    Language_Count 1
-  ]
-  node [
-    id 1606
-    label "SEAGULL"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1607
     label "MEETING HOUSE"
     varieties ""
     languages ""
@@ -14472,7 +14454,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1608
+    id 1606
     label "THRESHING-FLOOR"
     varieties ""
     languages ""
@@ -14481,7 +14463,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1609
+    id 1607
     label "SLOPE"
     varieties ""
     languages ""
@@ -14490,7 +14472,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1610
+    id 1608
     label "NOW OR TODAY"
     varieties ""
     languages ""
@@ -14499,7 +14481,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1611
+    id 1609
+    label "PIECE"
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "r e b e i"
+    Variety_Count 1
+    Language_Count 1
+  ]
+  node [
+    id 1610
     label "PATERNAL GRANDFATHER"
     varieties ""
     languages ""
@@ -14508,8 +14499,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1612
+    id 1611
     label "HIGH TIDE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1612
+    label "SEAGULL"
     varieties ""
     languages ""
     words ""
@@ -14572,15 +14572,6 @@ graph [
   ]
   node [
     id 1619
-    label "ACHIOTE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1620
     label "VEIL"
     varieties ""
     languages ""
@@ -14589,7 +14580,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1621
+    id 1620
     label "ADOBE"
     varieties ""
     languages ""
@@ -14598,7 +14589,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1622
+    id 1621
     label "CALCULATE"
     varieties ""
     languages ""
@@ -14607,7 +14598,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1623
+    id 1622
     label "TIE UP (TETHER)"
     varieties ""
     languages ""
@@ -14616,8 +14607,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1624
+    id 1623
     label "WRING"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1624
+    label "ACHIOTE"
     varieties ""
     languages ""
     words ""
@@ -14644,15 +14644,6 @@ graph [
   ]
   node [
     id 1627
-    label "PULL OUT"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1628
     label "WORKER"
     varieties ""
     languages ""
@@ -14661,7 +14652,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1629
+    id 1628
     label "SWINDLE"
     varieties ""
     languages ""
@@ -14670,8 +14661,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1630
-    label "SIEVE (TOOL)"
+    id 1629
+    label "PULL OUT"
     varieties ""
     languages ""
     words ""
@@ -14679,7 +14670,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1631
+    id 1630
     label "BEAR FRUIT"
     varieties ""
     languages ""
@@ -14688,7 +14679,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1632
+    id 1631
     label "NEWS"
     varieties ""
     languages ""
@@ -14697,7 +14688,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1633
+    id 1632
     label "JEWEL"
     varieties ""
     languages ""
@@ -14706,7 +14697,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1634
+    id 1633
     label "MORTAR BINDER"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -14715,25 +14706,16 @@ graph [
     Language_Count 1
   ]
   node [
+    id 1634
+    label "SIEVE (TOOL)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
     id 1635
-    label "HOWLER MONKEY"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1636
-    label "SIN"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1637
     label "AXLE"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -14742,7 +14724,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1638
+    id 1636
     label "MAST"
     varieties ""
     languages ""
@@ -14751,8 +14733,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1639
-    label "MY"
+    id 1637
+    label "SIN"
     varieties ""
     languages ""
     words ""
@@ -14760,7 +14742,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1640
+    id 1638
     label "ARCH"
     varieties ""
     languages ""
@@ -14769,7 +14751,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1641
+    id 1639
     label "PLOT"
     varieties ""
     languages ""
@@ -14778,7 +14760,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1642
+    id 1640
     label "CONVICT"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -14787,7 +14769,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1643
+    id 1641
     label "GAZELLE"
     varieties ""
     languages ""
@@ -14796,7 +14778,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1644
+    id 1642
     label "COLORFUL"
     varieties ""
     languages ""
@@ -14805,8 +14787,26 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1645
+    id 1643
+    label "MY"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1644
     label "WHITE COCKATOO"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1645
+    label "HOWLER MONKEY"
     varieties ""
     languages ""
     words ""
@@ -14923,24 +14923,6 @@ graph [
   ]
   node [
     id 1658
-    label "ALREADY"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1659
-    label "INVITE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1660
     label "CURASSOW"
     varieties ""
     languages ""
@@ -14949,7 +14931,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1661
+    id 1659
     label "GUAN"
     varieties ""
     languages ""
@@ -14958,7 +14940,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1662
+    id 1660
     label "PERJURY"
     varieties ""
     languages ""
@@ -14967,7 +14949,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1663
+    id 1661
     label "MELON"
     varieties ""
     languages ""
@@ -14976,7 +14958,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1664
+    id 1662
     label "CAPYBARA"
     varieties ""
     languages ""
@@ -14985,7 +14967,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1665
+    id 1663
     label "TATTOO"
     varieties ""
     languages ""
@@ -14994,7 +14976,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1666
+    id 1664
     label "OAT"
     varieties ""
     languages ""
@@ -15003,7 +14985,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1667
+    id 1665
     label "ARMOUR"
     varieties ""
     languages ""
@@ -15012,7 +14994,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1668
+    id 1666
     label "RICE PLANT"
     varieties ""
     languages ""
@@ -15021,7 +15003,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1669
+    id 1667
     label "CHOPSTICKS"
     varieties ""
     languages ""
@@ -15030,7 +15012,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1670
+    id 1668
     label "NEW MOON"
     varieties ""
     languages ""
@@ -15039,7 +15021,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1671
+    id 1669
+    label "ALREADY"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1670
     label "GOOD-LOOKING"
     varieties ""
     languages ""
@@ -15048,8 +15039,8 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1672
-    label "DAUGHTER-IN-LAW"
+    id 1671
+    label "INVITE"
     varieties ""
     languages ""
     words ""
@@ -15057,7 +15048,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1673
+    id 1672
     label "LAGOON"
     varieties "clics4-46"
     languages "yaqu1251"
@@ -15066,7 +15057,7 @@ graph [
     Language_Count 1
   ]
   node [
-    id 1674
+    id 1673
     label "CONGEE"
     varieties ""
     languages ""
@@ -15075,7 +15066,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1675
+    id 1674
     label "TIGHT"
     varieties ""
     languages ""
@@ -15084,7 +15075,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1676
+    id 1675
     label "TREETOP"
     varieties ""
     languages ""
@@ -15093,7 +15084,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1677
+    id 1676
     label "SCULPTOR"
     varieties ""
     languages ""
@@ -15102,7 +15093,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1678
+    id 1677
     label "RETURN HOME"
     varieties ""
     languages ""
@@ -15111,7 +15102,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1679
+    id 1678
     label "HIS OR HER"
     varieties ""
     languages ""
@@ -15120,7 +15111,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1680
+    id 1679
     label "MARROW"
     varieties ""
     languages ""
@@ -15129,7 +15120,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1681
+    id 1680
     label "PANDANUS"
     varieties ""
     languages ""
@@ -15138,8 +15129,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1682
+    id 1681
     label "MATERNAL GRANDFATHER"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1682
+    label "DAUGHTER-IN-LAW"
     varieties ""
     languages ""
     words ""
@@ -15157,15 +15157,6 @@ graph [
   ]
   node [
     id 1684
-    label "FESTIVAL"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1685
     label "MEAD"
     varieties ""
     languages ""
@@ -15174,7 +15165,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1686
+    id 1685
     label "POET"
     varieties ""
     languages ""
@@ -15183,7 +15174,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1687
+    id 1686
     label "POND"
     varieties ""
     languages ""
@@ -15192,7 +15183,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1688
+    id 1687
     label "THIS YEAR"
     varieties ""
     languages ""
@@ -15201,7 +15192,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1689
+    id 1688
     label "LAUGHTER"
     varieties ""
     languages ""
@@ -15210,7 +15201,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1690
+    id 1689
     label "SWALLOW (BIRD)"
     varieties ""
     languages ""
@@ -15219,7 +15210,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1691
+    id 1690
     label "SKIN (OF FRUIT)"
     varieties ""
     languages ""
@@ -15228,7 +15219,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1692
+    id 1691
     label "WOODPECKER"
     varieties ""
     languages ""
@@ -15237,8 +15228,17 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1693
+    id 1692
     label "MOVE (ONESELF)"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1693
+    label "FESTIVAL"
     varieties ""
     languages ""
     words ""
@@ -15292,15 +15292,6 @@ graph [
   ]
   node [
     id 1699
-    label "PIRANHA"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1700
     label "ELK"
     varieties ""
     languages ""
@@ -15309,16 +15300,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1701
-    label "NOISE"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1702
+    id 1700
     label "WAKE UP (SOMEONE)"
     varieties ""
     languages ""
@@ -15327,7 +15309,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1703
+    id 1701
     label "ANACONDA (WATER BOA)"
     varieties ""
     languages ""
@@ -15336,16 +15318,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1704
-    label "FISH POISON"
-    varieties "clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251"
-    words "j o j o//p a j t i"
-    Variety_Count 2
-    Language_Count 1
-  ]
-  node [
-    id 1705
+    id 1702
     label "CAPE"
     varieties ""
     languages ""
@@ -15354,7 +15327,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1706
+    id 1703
+    label "NOISE"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1704
     label "BEDBUG"
     varieties ""
     languages ""
@@ -15363,7 +15345,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1707
+    id 1705
     label "WE TWO (EXCLUSIVE)"
     varieties ""
     languages ""
@@ -15372,7 +15354,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1708
+    id 1706
     label "NEXT YEAR"
     varieties ""
     languages ""
@@ -15381,16 +15363,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1709
-    label "GIFT"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1710
+    id 1707
     label "PELICAN"
     varieties ""
     languages ""
@@ -15399,7 +15372,16 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1711
+    id 1708
+    label "PIRANHA"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1709
     label "FRONT (PART)"
     varieties ""
     languages ""
@@ -15408,7 +15390,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1712
+    id 1710
     label "PEACH"
     varieties ""
     languages ""
@@ -15417,13 +15399,31 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1713
+    id 1711
     label "PERSON (CLASSIFIER)"
     varieties ""
     languages ""
     words ""
     Variety_Count 0
     Language_Count 0
+  ]
+  node [
+    id 1712
+    label "GIFT"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1713
+    label "FISH POISON"
+    varieties "clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251"
+    words "j o j o//p a j t i"
+    Variety_Count 2
+    Language_Count 1
   ]
   node [
     id 1714
@@ -15490,15 +15490,6 @@ graph [
   ]
   node [
     id 1721
-    label "BOIL (SOMETHING)"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1722
     label "CROW (VERB)"
     varieties ""
     languages ""
@@ -15507,16 +15498,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1723
-    label "TIP (OF OBJECT)"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1724
+    id 1722
     label "ROCK"
     varieties ""
     languages ""
@@ -15525,7 +15507,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1725
+    id 1723
     label "CHANGE (BECOME DIFFERENT)"
     varieties ""
     languages ""
@@ -15534,16 +15516,7 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1726
-    label "WHITE-LIPPED PECCARY"
-    varieties ""
-    languages ""
-    words ""
-    Variety_Count 0
-    Language_Count 0
-  ]
-  node [
-    id 1727
+    id 1724
     label "OIL (FROM PLANTS)"
     varieties ""
     languages ""
@@ -15552,8 +15525,35 @@ graph [
     Language_Count 0
   ]
   node [
-    id 1728
+    id 1725
     label "DUSTPAN"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1726
+    label "HUNTER"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1727
+    label "SLAUGHTER"
+    varieties ""
+    languages ""
+    words ""
+    Variety_Count 0
+    Language_Count 0
+  ]
+  node [
+    id 1728
+    label "SOOT"
     varieties ""
     languages ""
     words ""
@@ -15562,8 +15562,8 @@ graph [
   ]
   edge [
     source 0
-    target 230
-    varieties "clics4-1450"
+    target 232
+    varieties "clics4-1447"
     languages "mono1275"
     words "p a"
     Variety_Count 1
@@ -15573,7 +15573,7 @@ graph [
   edge [
     source 0
     target 54
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "p a"
     Variety_Count 1
@@ -15583,7 +15583,7 @@ graph [
   edge [
     source 0
     target 45
-    varieties "clics4-1451//clics4-1683"
+    varieties "clics4-1448//clics4-1680"
     languages "coma1245//chem1251"
     words "p aː//p aː"
     Variety_Count 2
@@ -15593,7 +15593,7 @@ graph [
   edge [
     source 0
     target 237
-    varieties "clics4-1480"
+    varieties "clics4-1478"
     languages "nort2954"
     words "p aː"
     Variety_Count 1
@@ -15603,7 +15603,7 @@ graph [
   edge [
     source 1
     target 53
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "q o"
     Variety_Count 1
@@ -15613,7 +15613,7 @@ graph [
   edge [
     source 2
     target 4
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "p u"
     Variety_Count 1
@@ -15633,7 +15633,7 @@ graph [
   edge [
     source 3
     target 116
-    varieties "clics4-1683"
+    varieties "clics4-1680"
     languages "chem1251"
     words "t a w a"
     Variety_Count 1
@@ -15643,7 +15643,7 @@ graph [
   edge [
     source 3
     target 16
-    varieties "clics4-1286//clics4-1513//clics4-1514"
+    varieties "clics4-1286//clics4-1509//clics4-1510"
     languages "luis1253//cupe1243//cahu1264"
     words "t a m a//t a m//t a m a + l"
     Variety_Count 3
@@ -15652,7 +15652,7 @@ graph [
   ]
   edge [
     source 3
-    target 1015
+    target 1013
     varieties "clics4-46"
     languages "yaqu1251"
     words "t a m i m"
@@ -15663,7 +15663,7 @@ graph [
   edge [
     source 6
     target 321
-    varieties "clics4-1286//clics4-1450//clics4-1513//clics4-1514//clics4-1684"
+    varieties "clics4-1286//clics4-1447//clics4-1509//clics4-1510//clics4-1681"
     languages "luis1253//mono1275//cupe1243//cahu1264//shos1248"
     words "y uː + l a//w oː//y u//y u l u k a + l//p a m p i"
     Variety_Count 5
@@ -15673,7 +15673,7 @@ graph [
   edge [
     source 6
     target 76
-    varieties "clics4-1513"
+    varieties "clics4-1509"
     languages "cupe1243"
     words "y u"
     Variety_Count 1
@@ -15683,7 +15683,7 @@ graph [
   edge [
     source 7
     target 116
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "n a"
     Variety_Count 1
@@ -15692,7 +15692,7 @@ graph [
   ]
   edge [
     source 7
-    target 1414
+    target 1413
     varieties "clics4-46"
     languages "yaqu1251"
     words "n a k a m"
@@ -15703,7 +15703,7 @@ graph [
   edge [
     source 7
     target 50
-    varieties "clics4-1480//clics4-1683"
+    varieties "clics4-1478//clics4-1680"
     languages "nort2954//chem1251"
     words "n a k a//n a n k a"
     Variety_Count 2
@@ -15713,7 +15713,7 @@ graph [
   edge [
     source 7
     target 30
-    varieties "clics4-1350//clics4-1480//clics4-1515//clics4-1683"
+    varieties "clics4-1348//clics4-1478//clics4-1511//clics4-1680"
     languages "serr1255//nort2954//serr1255//chem1251"
     words "k a v a ts//n a k a//q a v//n a n k a"
     Variety_Count 4
@@ -15722,7 +15722,7 @@ graph [
   ]
   edge [
     source 9
-    target 1053
+    target 1057
     varieties "clics4-46"
     languages "yaqu1251"
     words "w o i"
@@ -15743,7 +15743,7 @@ graph [
   edge [
     source 10
     target 53
-    varieties "clics4-1514"
+    varieties "clics4-1510"
     languages "cahu1264"
     words "t e"
     Variety_Count 1
@@ -15752,8 +15752,8 @@ graph [
   ]
   edge [
     source 10
-    target 230
-    varieties "clics4-1953"
+    target 232
+    varieties "clics4-1950"
     languages "sout2969"
     words "oː + ʃ"
     Variety_Count 1
@@ -15763,7 +15763,7 @@ graph [
   edge [
     source 12
     target 84
-    varieties "clics4-1513"
+    varieties "clics4-1509"
     languages "cupe1243"
     words "a"
     Variety_Count 1
@@ -15773,7 +15773,7 @@ graph [
   edge [
     source 12
     target 193
-    varieties "clics4-46//clics4-239//clics4-1213//clics4-1632"
+    varieties "clics4-46//clics4-239//clics4-1209//clics4-1630"
     languages "yaqu1251//high1278//yaqu1251//tuba1278"
     words "t u ʔ i//kʷ a l i + j e t o k//t u ʔ i//t y"
     Variety_Count 4
@@ -15782,8 +15782,8 @@ graph [
   ]
   edge [
     source 13
-    target 208
-    varieties "clics4-1450"
+    target 207
+    varieties "clics4-1447"
     languages "mono1275"
     words "n o"
     Variety_Count 1
@@ -15793,7 +15793,7 @@ graph [
   edge [
     source 13
     target 39
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "n o"
     Variety_Count 1
@@ -15802,8 +15802,8 @@ graph [
   ]
   edge [
     source 14
-    target 1369
-    varieties "clics4-1450"
+    target 1368
+    varieties "clics4-1447"
     languages "mono1275"
     words "e"
     Variety_Count 1
@@ -15813,7 +15813,7 @@ graph [
   edge [
     source 14
     target 181
-    varieties "clics4-1465"
+    varieties "clics4-1463"
     languages "utee1244"
     words "a g"
     Variety_Count 1
@@ -15823,7 +15823,7 @@ graph [
   edge [
     source 14
     target 55
-    varieties "clics4-1465"
+    varieties "clics4-1463"
     languages "utee1244"
     words "a g"
     Variety_Count 1
@@ -15833,7 +15833,7 @@ graph [
   edge [
     source 16
     target 100
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -15843,7 +15843,7 @@ graph [
   edge [
     source 16
     target 106
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -15853,7 +15853,7 @@ graph [
   edge [
     source 16
     target 107
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -15863,7 +15863,7 @@ graph [
   edge [
     source 16
     target 474
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -15872,7 +15872,7 @@ graph [
   ]
   edge [
     source 16
-    target 1183
+    target 1191
     varieties "clics4-46"
     languages "yaqu1251"
     words "t eː n i"
@@ -15883,7 +15883,7 @@ graph [
   edge [
     source 16
     target 112
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -15893,7 +15893,7 @@ graph [
   edge [
     source 16
     target 101
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -15903,7 +15903,7 @@ graph [
   edge [
     source 16
     target 26
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -15913,7 +15913,7 @@ graph [
   edge [
     source 16
     target 41
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -15923,7 +15923,7 @@ graph [
   edge [
     source 16
     target 215
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -15933,7 +15933,7 @@ graph [
   edge [
     source 16
     target 216
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -15942,7 +15942,7 @@ graph [
   ]
   edge [
     source 17
-    target 490
+    target 491
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
     words "m eː tʃ a//m e tʃ + t i"
@@ -15962,7 +15962,7 @@ graph [
   ]
   edge [
     source 18
-    target 790
+    target 787
     varieties "clics4-46"
     languages "yaqu1251"
     words "b eː a"
@@ -15983,7 +15983,7 @@ graph [
   edge [
     source 19
     target 33
-    varieties "clics4-1332//clics4-1451"
+    varieties "clics4-1329//clics4-1448"
     languages "pana1305//coma1245"
     words "p i a//p i a"
     Variety_Count 2
@@ -15992,7 +15992,7 @@ graph [
   ]
   edge [
     source 19
-    target 610
+    target 607
     varieties "clics4-46"
     languages "yaqu1251"
     words "bʷ e ʔ u"
@@ -16003,7 +16003,7 @@ graph [
   edge [
     source 20
     target 100
-    varieties "clics4-1494"
+    varieties "clics4-1490"
     languages "kawa1283"
     words "t y + b i"
     Variety_Count 1
@@ -16013,7 +16013,7 @@ graph [
   edge [
     source 22
     target 37
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "y"
     Variety_Count 1
@@ -16023,7 +16023,7 @@ graph [
   edge [
     source 22
     target 45
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "y"
     Variety_Count 1
@@ -16033,7 +16033,7 @@ graph [
   edge [
     source 23
     target 34
-    varieties "clics4-1684"
+    varieties "clics4-1681"
     languages "shos1248"
     words "k u + kː w i + pː y h"
     Variety_Count 1
@@ -16052,8 +16052,8 @@ graph [
   ]
   edge [
     source 24
-    target 1290
-    varieties "clics4-1450"
+    target 1288
+    varieties "clics4-1447"
     languages "mono1275"
     words "k i"
     Variety_Count 1
@@ -16063,7 +16063,7 @@ graph [
   edge [
     source 25
     target 909
-    varieties "clics4-46//clics4-1213"
+    varieties "clics4-46//clics4-1209"
     languages "yaqu1251//yaqu1251"
     words "t o s a l i//t o̞ s a l i"
     Variety_Count 2
@@ -16073,7 +16073,7 @@ graph [
   edge [
     source 26
     target 100
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16083,7 +16083,7 @@ graph [
   edge [
     source 26
     target 106
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16093,7 +16093,7 @@ graph [
   edge [
     source 26
     target 107
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16103,7 +16103,7 @@ graph [
   edge [
     source 26
     target 474
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16113,7 +16113,7 @@ graph [
   edge [
     source 26
     target 101
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16123,7 +16123,7 @@ graph [
   edge [
     source 26
     target 353
-    varieties "clics4-1514"
+    varieties "clics4-1510"
     languages "cahu1264"
     words "kʷ a"
     Variety_Count 1
@@ -16133,7 +16133,7 @@ graph [
   edge [
     source 26
     target 41
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16143,7 +16143,7 @@ graph [
   edge [
     source 26
     target 215
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16153,7 +16153,7 @@ graph [
   edge [
     source 26
     target 216
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16163,7 +16163,7 @@ graph [
   edge [
     source 26
     target 112
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16172,8 +16172,8 @@ graph [
   ]
   edge [
     source 27
-    target 230
-    varieties "clics4-1350//clics4-1515"
+    target 232
+    varieties "clics4-1348//clics4-1511"
     languages "serr1255//serr1255"
     words "h u tsʰ//h uː + t"
     Variety_Count 2
@@ -16183,7 +16183,7 @@ graph [
   edge [
     source 27
     target 28
-    varieties "clics4-1683"
+    varieties "clics4-1680"
     languages "chem1251"
     words "p uː"
     Variety_Count 1
@@ -16193,7 +16193,7 @@ graph [
   edge [
     source 28
     target 120
-    varieties "clics4-1513"
+    varieties "clics4-1509"
     languages "cupe1243"
     words "t e w"
     Variety_Count 1
@@ -16213,7 +16213,7 @@ graph [
   edge [
     source 28
     target 36
-    varieties "clics4-1513"
+    varieties "clics4-1509"
     languages "cupe1243"
     words "t e w"
     Variety_Count 1
@@ -16222,7 +16222,7 @@ graph [
   ]
   edge [
     source 29
-    target 1019
+    target 1016
     varieties "clics4-46"
     languages "yaqu1251"
     words "p i p i m"
@@ -16233,7 +16233,7 @@ graph [
   edge [
     source 30
     target 89
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "p i"
     Variety_Count 1
@@ -16243,7 +16243,7 @@ graph [
   edge [
     source 30
     target 137
-    varieties "clics4-1332"
+    varieties "clics4-1329"
     languages "pana1305"
     words "p i s i"
     Variety_Count 1
@@ -16273,7 +16273,7 @@ graph [
   edge [
     source 30
     target 50
-    varieties "clics4-1465//clics4-1480//clics4-1683"
+    varieties "clics4-1463//clics4-1478//clics4-1680"
     languages "utee1244//nort2954//chem1251"
     words "n y k aː v ɪ//n a k a//n a n k a"
     Variety_Count 3
@@ -16282,8 +16282,8 @@ graph [
   ]
   edge [
     source 31
-    target 208
-    varieties "clics4-46//clics4-1213//clics4-1350//clics4-1513"
+    target 207
+    varieties "clics4-46//clics4-1209//clics4-1348//clics4-1509"
     languages "yaqu1251//yaqu1251//serr1255//cupe1243"
     words "k u t a n aː//k u t a n aː//n g o h o ts//p a v a"
     Variety_Count 4
@@ -16293,7 +16293,7 @@ graph [
   edge [
     source 33
     target 82
-    varieties "clics4-1350"
+    varieties "clics4-1348"
     languages "serr1255"
     words "j y"
     Variety_Count 1
@@ -16302,8 +16302,8 @@ graph [
   ]
   edge [
     source 33
-    target 358
-    varieties "clics4-1450"
+    target 357
+    varieties "clics4-1447"
     languages "mono1275"
     words "p i y a"
     Variety_Count 1
@@ -16313,7 +16313,7 @@ graph [
   edge [
     source 36
     target 120
-    varieties "clics4-1513"
+    varieties "clics4-1509"
     languages "cupe1243"
     words "t e w"
     Variety_Count 1
@@ -16323,7 +16323,7 @@ graph [
   edge [
     source 37
     target 48
-    varieties "clics4-1350"
+    varieties "clics4-1348"
     languages "serr1255"
     words "ʃ y v y t"
     Variety_Count 1
@@ -16333,7 +16333,7 @@ graph [
   edge [
     source 37
     target 45
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "y"
     Variety_Count 1
@@ -16352,8 +16352,8 @@ graph [
   ]
   edge [
     source 38
-    target 160
-    varieties "clics4-1513"
+    target 158
+    varieties "clics4-1509"
     languages "cupe1243"
     words "n a"
     Variety_Count 1
@@ -16362,8 +16362,8 @@ graph [
   ]
   edge [
     source 38
-    target 159
-    varieties "clics4-1513"
+    target 157
+    varieties "clics4-1509"
     languages "cupe1243"
     words "n a"
     Variety_Count 1
@@ -16372,8 +16372,8 @@ graph [
   ]
   edge [
     source 38
-    target 212
-    varieties "clics4-1480"
+    target 211
+    varieties "clics4-1478"
     languages "nort2954"
     words "n aː"
     Variety_Count 1
@@ -16382,8 +16382,8 @@ graph [
   ]
   edge [
     source 38
-    target 700
-    varieties "clics4-1514"
+    target 699
+    varieties "clics4-1510"
     languages "cahu1264"
     words "n a"
     Variety_Count 1
@@ -16392,8 +16392,8 @@ graph [
   ]
   edge [
     source 39
-    target 208
-    varieties "clics4-1450"
+    target 207
+    varieties "clics4-1447"
     languages "mono1275"
     words "n o"
     Variety_Count 1
@@ -16402,8 +16402,8 @@ graph [
   ]
   edge [
     source 40
-    target 150
-    varieties "clics4-1450"
+    target 149
+    varieties "clics4-1447"
     languages "mono1275"
     words "n yː"
     Variety_Count 1
@@ -16412,8 +16412,8 @@ graph [
   ]
   edge [
     source 40
-    target 151
-    varieties "clics4-1450"
+    target 150
+    varieties "clics4-1447"
     languages "mono1275"
     words "n yː"
     Variety_Count 1
@@ -16423,7 +16423,7 @@ graph [
   edge [
     source 41
     target 100
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16433,7 +16433,7 @@ graph [
   edge [
     source 41
     target 106
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16443,7 +16443,7 @@ graph [
   edge [
     source 41
     target 107
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16453,7 +16453,7 @@ graph [
   edge [
     source 41
     target 474
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16463,7 +16463,7 @@ graph [
   edge [
     source 41
     target 101
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16473,7 +16473,7 @@ graph [
   edge [
     source 41
     target 112
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16482,7 +16482,7 @@ graph [
   ]
   edge [
     source 41
-    target 861
+    target 860
     varieties "clics4-46"
     languages "yaqu1251"
     words "n aː w a"
@@ -16492,7 +16492,7 @@ graph [
   ]
   edge [
     source 41
-    target 687
+    target 689
     varieties "clics4-46"
     languages "yaqu1251"
     words "n aː w a"
@@ -16503,7 +16503,7 @@ graph [
   edge [
     source 41
     target 215
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16513,7 +16513,7 @@ graph [
   edge [
     source 41
     target 216
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -16522,8 +16522,8 @@ graph [
   ]
   edge [
     source 42
-    target 506
-    varieties "clics4-1465"
+    target 505
+    varieties "clics4-1463"
     languages "utee1244"
     words "p õ ʔ ã + v ɪ"
     Variety_Count 1
@@ -16533,7 +16533,7 @@ graph [
   edge [
     source 42
     target 239
-    varieties "clics4-1973//clics4-1973"
+    varieties "clics4-1970//clics4-1970"
     languages "tong1329//tong1329"
     words "aː r//aː r"
     Variety_Count 2
@@ -16543,7 +16543,7 @@ graph [
   edge [
     source 42
     target 153
-    varieties "clics4-1514"
+    varieties "clics4-1510"
     languages "cahu1264"
     words "s a"
     Variety_Count 1
@@ -16552,8 +16552,8 @@ graph [
   ]
   edge [
     source 42
-    target 755
-    varieties "clics4-1683"
+    target 754
+    varieties "clics4-1680"
     languages "chem1251"
     words "a ts i"
     Variety_Count 1
@@ -16563,7 +16563,7 @@ graph [
   edge [
     source 44
     target 170
-    varieties "clics4-1451//clics4-1465"
+    varieties "clics4-1448//clics4-1463"
     languages "coma1245//utee1244"
     words "k a h t y//k a r y"
     Variety_Count 2
@@ -16572,7 +16572,7 @@ graph [
   ]
   edge [
     source 45
-    target 782
+    target 783
     varieties "clics4-46"
     languages "yaqu1251"
     words "t eː b e"
@@ -16582,8 +16582,8 @@ graph [
   ]
   edge [
     source 46
-    target 121
-    varieties "clics4-1515"
+    target 122
+    varieties "clics4-1511"
     languages "serr1255"
     words "t a yː + t"
     Variety_Count 1
@@ -16592,8 +16592,8 @@ graph [
   ]
   edge [
     source 46
-    target 157
-    varieties "clics4-239//clics4-1494//clics4-1684//clics4-1953"
+    target 159
+    varieties "clics4-239//clics4-1490//clics4-1681//clics4-1950"
     languages "high1278//kawa1283//shos1248//sout2969"
     words "m i ʃ + t i//k y n a + v i//p a k y n a + pː y h//p a g i nː a + ʃ"
     Variety_Count 4
@@ -16603,7 +16603,7 @@ graph [
   edge [
     source 46
     target 74
-    varieties "clics4-1350//clics4-1514"
+    varieties "clics4-1348//clics4-1510"
     languages "serr1255//cahu1264"
     words "w o ŋ a t//w e w n i + ʃ"
     Variety_Count 2
@@ -16613,7 +16613,7 @@ graph [
   edge [
     source 46
     target 54
-    varieties "clics4-1683"
+    varieties "clics4-1680"
     languages "chem1251"
     words "p a g y"
     Variety_Count 1
@@ -16622,8 +16622,8 @@ graph [
   ]
   edge [
     source 48
-    target 811
-    varieties "clics4-46//clics4-239//clics4-1213"
+    target 812
+    varieties "clics4-46//clics4-239//clics4-1209"
     languages "yaqu1251//high1278//yaqu1251"
     words "j eː k a//e h e k a + t//j e̞ː k a"
     Variety_Count 3
@@ -16633,7 +16633,7 @@ graph [
   edge [
     source 48
     target 97
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "h y"
     Variety_Count 1
@@ -16642,8 +16642,8 @@ graph [
   ]
   edge [
     source 50
-    target 519
-    varieties "clics4-1953"
+    target 518
+    varieties "clics4-1950"
     languages "sout2969"
     words "n a ŋ q a"
     Variety_Count 1
@@ -16662,7 +16662,7 @@ graph [
   ]
   edge [
     source 50
-    target 1119
+    target 1130
     varieties "clics4-46"
     languages "yaqu1251"
     words "j i k k a j a"
@@ -16703,7 +16703,7 @@ graph [
   edge [
     source 53
     target 153
-    varieties "clics4-1513"
+    varieties "clics4-1509"
     languages "cupe1243"
     words "h a"
     Variety_Count 1
@@ -16712,8 +16712,8 @@ graph [
   ]
   edge [
     source 54
-    target 230
-    varieties "clics4-1450"
+    target 232
+    varieties "clics4-1447"
     languages "mono1275"
     words "p a"
     Variety_Count 1
@@ -16723,7 +16723,7 @@ graph [
   edge [
     source 54
     target 523
-    varieties "clics4-1515"
+    varieties "clics4-1511"
     languages "serr1255"
     words "k e"
     Variety_Count 1
@@ -16732,7 +16732,7 @@ graph [
   ]
   edge [
     source 55
-    target 423
+    target 425
     varieties "clics4-46"
     languages "yaqu1251"
     words "j i t a"
@@ -16742,8 +16742,8 @@ graph [
   ]
   edge [
     source 55
-    target 645
-    varieties "clics4-46//clics4-1213"
+    target 649
+    varieties "clics4-46//clics4-1209"
     languages "yaqu1251//yaqu1251"
     words "j i t a//j i t a"
     Variety_Count 2
@@ -16753,7 +16753,7 @@ graph [
   edge [
     source 55
     target 181
-    varieties "clics4-1350//clics4-1465"
+    varieties "clics4-1348//clics4-1463"
     languages "serr1255//utee1244"
     words "h a m i n a t//a g"
     Variety_Count 2
@@ -16762,7 +16762,7 @@ graph [
   ]
   edge [
     source 55
-    target 511
+    target 509
     varieties "clics4-46"
     languages "yaqu1251"
     words "j i t a"
@@ -16773,7 +16773,7 @@ graph [
   edge [
     source 55
     target 59
-    varieties "clics4-1480"
+    varieties "clics4-1478"
     languages "nort2954"
     words "h a g a"
     Variety_Count 1
@@ -16792,7 +16792,7 @@ graph [
   ]
   edge [
     source 56
-    target 332
+    target 333
     varieties "clics4-239//clics4-239"
     languages "high1278//high1278"
     words "kʷ o w i + t//kʷ o w i + t"
@@ -16803,7 +16803,7 @@ graph [
   edge [
     source 56
     target 249
-    varieties "clics4-239//clics4-239//clics4-1514"
+    varieties "clics4-239//clics4-239//clics4-1510"
     languages "high1278//high1278//cahu1264"
     words "kʷ o w i + t//kʷ o w i + t//k e l a w a t"
     Variety_Count 3
@@ -16812,7 +16812,7 @@ graph [
   ]
   edge [
     source 56
-    target 1133
+    target 1134
     varieties "clics4-46"
     languages "yaqu1251"
     words "j u j a"
@@ -16823,7 +16823,7 @@ graph [
   edge [
     source 56
     target 169
-    varieties "clics4-1684"
+    varieties "clics4-1681"
     languages "shos1248"
     words "h uː + p i n"
     Variety_Count 1
@@ -16843,7 +16843,7 @@ graph [
   edge [
     source 58
     target 155
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "k y"
     Variety_Count 1
@@ -16852,8 +16852,8 @@ graph [
   ]
   edge [
     source 58
-    target 252
-    varieties "clics4-1450"
+    target 253
+    varieties "clics4-1447"
     languages "mono1275"
     words "k y"
     Variety_Count 1
@@ -16863,7 +16863,7 @@ graph [
   edge [
     source 58
     target 273
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "k y"
     Variety_Count 1
@@ -16873,7 +16873,7 @@ graph [
   edge [
     source 58
     target 115
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "k y"
     Variety_Count 1
@@ -16882,8 +16882,8 @@ graph [
   ]
   edge [
     source 59
-    target 694
-    varieties "clics4-1450"
+    target 691
+    varieties "clics4-1447"
     languages "mono1275"
     words "h a"
     Variety_Count 1
@@ -16892,7 +16892,7 @@ graph [
   ]
   edge [
     source 60
-    target 716
+    target 718
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
     words "k i k t e//j a p t e"
@@ -16902,6 +16902,16 @@ graph [
   ]
   edge [
     source 61
+    target 338
+    varieties "clics4-46//clics4-1209"
+    languages "yaqu1251//yaqu1251"
+    words "tʃ u k u l i//tʃ u k u l i"
+    Variety_Count 2
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 62
     target 256
     varieties "clics4-46"
     languages "yaqu1251"
@@ -16911,9 +16921,9 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 61
-    target 1101
-    varieties "clics4-1514"
+    source 62
+    target 1100
+    varieties "clics4-1510"
     languages "cahu1264"
     words "p a"
     Variety_Count 1
@@ -16921,19 +16931,9 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 62
-    target 339
-    varieties "clics4-46//clics4-1213"
-    languages "yaqu1251//yaqu1251"
-    words "tʃ u k u l i//tʃ u k u l i"
-    Variety_Count 2
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
     source 63
     target 676
-    varieties "clics4-1683"
+    varieties "clics4-1680"
     languages "chem1251"
     words "p a k a"
     Variety_Count 1
@@ -16952,8 +16952,8 @@ graph [
   ]
   edge [
     source 63
-    target 579
-    varieties "clics4-1683"
+    target 581
+    varieties "clics4-1680"
     languages "chem1251"
     words "p a k a"
     Variety_Count 1
@@ -16963,7 +16963,7 @@ graph [
   edge [
     source 63
     target 314
-    varieties "clics4-1683//clics4-1953"
+    varieties "clics4-1680//clics4-1950"
     languages "chem1251//sout2969"
     words "p a k a//p a qː a"
     Variety_Count 2
@@ -16973,7 +16973,7 @@ graph [
   edge [
     source 63
     target 261
-    varieties "clics4-1683//clics4-1953"
+    varieties "clics4-1680//clics4-1950"
     languages "chem1251//sout2969"
     words "p a k a//p a qː a"
     Variety_Count 2
@@ -16982,7 +16982,7 @@ graph [
   ]
   edge [
     source 64
-    target 1051
+    target 1055
     varieties "clics4-46"
     languages "yaqu1251"
     words "aː tʃ e"
@@ -16992,7 +16992,7 @@ graph [
   ]
   edge [
     source 65
-    target 1318
+    target 1321
     varieties "clics4-46"
     languages "yaqu1251"
     words "m a s a m"
@@ -17003,7 +17003,7 @@ graph [
   edge [
     source 65
     target 113
-    varieties "clics4-1350//clics4-1450"
+    varieties "clics4-1348//clics4-1447"
     languages "serr1255//mono1275"
     words "m a h a ts//q a"
     Variety_Count 2
@@ -17013,7 +17013,7 @@ graph [
   edge [
     source 65
     target 283
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "q a"
     Variety_Count 1
@@ -17023,7 +17023,7 @@ graph [
   edge [
     source 65
     target 284
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "q a"
     Variety_Count 1
@@ -17033,7 +17033,7 @@ graph [
   edge [
     source 66
     target 84
-    varieties "clics4-1332"
+    varieties "clics4-1329"
     languages "pana1305"
     words "n y m y"
     Variety_Count 1
@@ -17043,7 +17043,7 @@ graph [
   edge [
     source 66
     target 83
-    varieties "clics4-1450//clics4-1514"
+    varieties "clics4-1447//clics4-1510"
     languages "mono1275//cahu1264"
     words "n y//n e m"
     Variety_Count 2
@@ -17053,7 +17053,7 @@ graph [
   edge [
     source 66
     target 170
-    varieties "clics4-1683"
+    varieties "clics4-1680"
     languages "chem1251"
     words "n y w y"
     Variety_Count 1
@@ -17063,7 +17063,7 @@ graph [
   edge [
     source 67
     target 135
-    varieties "clics4-1350"
+    varieties "clics4-1348"
     languages "serr1255"
     words "j a"
     Variety_Count 1
@@ -17092,8 +17092,8 @@ graph [
   ]
   edge [
     source 68
-    target 842
-    varieties "clics4-1213"
+    target 843
+    varieties "clics4-1209"
     languages "yaqu1251"
     words "m a m a m"
     Variety_Count 1
@@ -17103,7 +17103,7 @@ graph [
   edge [
     source 68
     target 837
-    varieties "clics4-1213"
+    varieties "clics4-1209"
     languages "yaqu1251"
     words "m a m a m"
     Variety_Count 1
@@ -17113,7 +17113,7 @@ graph [
   edge [
     source 68
     target 88
-    varieties "clics4-1632"
+    varieties "clics4-1630"
     languages "tuba1278"
     words "m aː + l"
     Variety_Count 1
@@ -17123,12 +17123,22 @@ graph [
   edge [
     source 70
     target 104
-    varieties "clics4-1450//clics4-1451//clics4-1465"
+    varieties "clics4-1447//clics4-1448//clics4-1463"
     languages "mono1275//coma1245//utee1244"
     words "yː//y n y//y m y"
     Variety_Count 3
     Language_Count 3
     Cognate_Count 2
+  ]
+  edge [
+    source 70
+    target 183
+    varieties "clics4-239"
+    languages "high1278"
+    words "t i"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
   ]
   edge [
     source 70
@@ -17142,17 +17152,7 @@ graph [
   ]
   edge [
     source 70
-    target 185
-    varieties "clics4-239"
-    languages "high1278"
-    words "t i"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 70
-    target 1409
+    target 1408
     varieties "clics4-239"
     languages "high1278"
     words "t i"
@@ -17163,7 +17163,7 @@ graph [
   edge [
     source 70
     target 676
-    varieties "clics4-1513"
+    varieties "clics4-1509"
     languages "cupe1243"
     words "e"
     Variety_Count 1
@@ -17172,8 +17172,8 @@ graph [
   ]
   edge [
     source 70
-    target 579
-    varieties "clics4-1513"
+    target 581
+    varieties "clics4-1509"
     languages "cupe1243"
     words "e"
     Variety_Count 1
@@ -17183,7 +17183,7 @@ graph [
   edge [
     source 70
     target 574
-    varieties "clics4-1973"
+    varieties "clics4-1970"
     languages "tong1329"
     words "a"
     Variety_Count 1
@@ -17193,7 +17193,7 @@ graph [
   edge [
     source 75
     target 86
-    varieties "clics4-1683"
+    varieties "clics4-1680"
     languages "chem1251"
     words "t a v a"
     Variety_Count 1
@@ -17203,7 +17203,7 @@ graph [
   edge [
     source 76
     target 321
-    varieties "clics4-1513"
+    varieties "clics4-1509"
     languages "cupe1243"
     words "y u"
     Variety_Count 1
@@ -17223,7 +17223,7 @@ graph [
   edge [
     source 79
     target 214
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "w i"
     Variety_Count 1
@@ -17233,7 +17233,7 @@ graph [
   edge [
     source 79
     target 329
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "w i"
     Variety_Count 1
@@ -17272,8 +17272,8 @@ graph [
   ]
   edge [
     source 83
-    target 185
-    varieties "clics4-1480"
+    target 184
+    varieties "clics4-1478"
     languages "nort2954"
     words "n y mː i"
     Variety_Count 1
@@ -17282,8 +17282,8 @@ graph [
   ]
   edge [
     source 83
-    target 208
-    varieties "clics4-1465"
+    target 207
+    varieties "clics4-1463"
     languages "utee1244"
     words "p a g"
     Variety_Count 1
@@ -17322,7 +17322,7 @@ graph [
   ]
   edge [
     source 83
-    target 172
+    target 173
     varieties "clics4-239//clics4-239"
     languages "high1278//high1278"
     words "n e m i//n e h + n e m i"
@@ -17333,7 +17333,7 @@ graph [
   edge [
     source 84
     target 170
-    varieties "clics4-1480"
+    varieties "clics4-1478"
     languages "nort2954"
     words "n y m y"
     Variety_Count 1
@@ -17353,7 +17353,7 @@ graph [
   edge [
     source 88
     target 181
-    varieties "clics4-1683"
+    varieties "clics4-1680"
     languages "chem1251"
     words "h a g a"
     Variety_Count 1
@@ -17373,7 +17373,7 @@ graph [
   edge [
     source 90
     target 273
-    varieties "clics4-1494"
+    varieties "clics4-1490"
     languages "kawa1283"
     words "kʷ iː"
     Variety_Count 1
@@ -17383,7 +17383,7 @@ graph [
   edge [
     source 93
     target 271
-    varieties "clics4-1451//clics4-1684"
+    varieties "clics4-1448//clics4-1681"
     languages "coma1245//shos1248"
     words "m a//m a"
     Variety_Count 2
@@ -17393,7 +17393,7 @@ graph [
   edge [
     source 93
     target 272
-    varieties "clics4-1451//clics4-1684"
+    varieties "clics4-1448//clics4-1681"
     languages "coma1245//shos1248"
     words "m a//m a"
     Variety_Count 2
@@ -17403,7 +17403,7 @@ graph [
   edge [
     source 93
     target 411
-    varieties "clics4-1451//clics4-1684"
+    varieties "clics4-1448//clics4-1681"
     languages "coma1245//shos1248"
     words "m a//m a"
     Variety_Count 2
@@ -17413,7 +17413,7 @@ graph [
   edge [
     source 93
     target 103
-    varieties "clics4-1450//clics4-1451//clics4-1684"
+    varieties "clics4-1447//clics4-1448//clics4-1681"
     languages "mono1275//coma1245//shos1248"
     words "m a h u//m a//m a"
     Variety_Count 3
@@ -17442,7 +17442,7 @@ graph [
   ]
   edge [
     source 100
-    target 697
+    target 694
     varieties "clics4-46"
     languages "yaqu1251"
     words "bʷ i a"
@@ -17462,7 +17462,7 @@ graph [
   ]
   edge [
     source 100
-    target 795
+    target 794
     varieties "clics4-239"
     languages "high1278"
     words "t a l + p a n"
@@ -17473,7 +17473,7 @@ graph [
   edge [
     source 100
     target 120
-    varieties "clics4-1515"
+    varieties "clics4-1511"
     languages "serr1255"
     words "t i y v a + t"
     Variety_Count 1
@@ -17483,7 +17483,7 @@ graph [
   edge [
     source 100
     target 106
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17493,7 +17493,7 @@ graph [
   edge [
     source 100
     target 107
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17503,7 +17503,7 @@ graph [
   edge [
     source 100
     target 101
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17513,7 +17513,7 @@ graph [
   edge [
     source 100
     target 215
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17523,7 +17523,7 @@ graph [
   edge [
     source 100
     target 216
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17533,7 +17533,7 @@ graph [
   edge [
     source 100
     target 112
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17543,7 +17543,7 @@ graph [
   edge [
     source 100
     target 474
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17553,7 +17553,7 @@ graph [
   edge [
     source 100
     target 193
-    varieties "clics4-1683"
+    varieties "clics4-1680"
     languages "chem1251"
     words "t y v i"
     Variety_Count 1
@@ -17563,7 +17563,7 @@ graph [
   edge [
     source 100
     target 301
-    varieties "clics4-1683"
+    varieties "clics4-1680"
     languages "chem1251"
     words "t y v i"
     Variety_Count 1
@@ -17573,7 +17573,7 @@ graph [
   edge [
     source 101
     target 106
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17583,7 +17583,7 @@ graph [
   edge [
     source 101
     target 107
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17593,7 +17593,7 @@ graph [
   edge [
     source 101
     target 474
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17603,7 +17603,7 @@ graph [
   edge [
     source 101
     target 215
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17613,7 +17613,7 @@ graph [
   edge [
     source 101
     target 216
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17623,7 +17623,7 @@ graph [
   edge [
     source 101
     target 112
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17653,7 +17653,7 @@ graph [
   edge [
     source 103
     target 271
-    varieties "clics4-1350//clics4-1451//clics4-1514//clics4-1515//clics4-1684"
+    varieties "clics4-1348//clics4-1448//clics4-1510//clics4-1511//clics4-1681"
     languages "serr1255//coma1245//cahu1264//serr1255//shos1248"
     words "a m a//m a//p e//a m a//m a"
     Variety_Count 5
@@ -17663,7 +17663,7 @@ graph [
   edge [
     source 103
     target 272
-    varieties "clics4-1350//clics4-1451//clics4-1514//clics4-1515//clics4-1684"
+    varieties "clics4-1348//clics4-1448//clics4-1510//clics4-1511//clics4-1681"
     languages "serr1255//coma1245//cahu1264//serr1255//shos1248"
     words "a m a//m a//p e//a m a//m a"
     Variety_Count 5
@@ -17673,7 +17673,7 @@ graph [
   edge [
     source 103
     target 411
-    varieties "clics4-1350//clics4-1451//clics4-1514//clics4-1515//clics4-1684"
+    varieties "clics4-1348//clics4-1448//clics4-1510//clics4-1511//clics4-1681"
     languages "serr1255//coma1245//cahu1264//serr1255//shos1248"
     words "a m a//m a//p e//a m a//m a"
     Variety_Count 5
@@ -17682,8 +17682,8 @@ graph [
   ]
   edge [
     source 103
-    target 152
-    varieties "clics4-1514"
+    target 151
+    varieties "clics4-1510"
     languages "cahu1264"
     words "p e"
     Variety_Count 1
@@ -17692,7 +17692,7 @@ graph [
   ]
   edge [
     source 105
-    target 1196
+    target 1195
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
     words "j a m u t//s i w a + t"
@@ -17702,7 +17702,7 @@ graph [
   ]
   edge [
     source 105
-    target 1261
+    target 1260
     varieties "clics4-46"
     languages "yaqu1251"
     words "j a m u t"
@@ -17713,7 +17713,7 @@ graph [
   edge [
     source 106
     target 107
-    varieties "clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
+    varieties "clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
     languages "high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
     words "t a t a//β e̞ː t e̞//tsʰ u y a//w a y a//h u//t y//w e h a r y//kʷ i y aː//n a i//h i g w a//s e x + i n//tsʰ u t//h u a + i//ts a m a + t//k u ts i//w a i h j a + n k y h//q u tː ts y a//v e r eː k"
     Variety_Count 18
@@ -17722,7 +17722,7 @@ graph [
   ]
   edge [
     source 106
-    target 722
+    target 728
     varieties "clics4-46"
     languages "yaqu1251"
     words "t a j a"
@@ -17732,7 +17732,7 @@ graph [
   ]
   edge [
     source 106
-    target 221
+    target 222
     varieties "clics4-239"
     languages "high1278"
     words "k i + t a t i + a"
@@ -17743,7 +17743,7 @@ graph [
   edge [
     source 106
     target 215
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17753,7 +17753,7 @@ graph [
   edge [
     source 106
     target 216
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17763,7 +17763,7 @@ graph [
   edge [
     source 106
     target 112
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17773,7 +17773,7 @@ graph [
   edge [
     source 106
     target 474
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17783,7 +17783,7 @@ graph [
   edge [
     source 107
     target 215
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17793,7 +17793,7 @@ graph [
   edge [
     source 107
     target 216
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17803,7 +17803,7 @@ graph [
   edge [
     source 107
     target 112
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17813,7 +17813,7 @@ graph [
   edge [
     source 107
     target 474
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17823,7 +17823,7 @@ graph [
   edge [
     source 111
     target 213
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t u"
     Variety_Count 1
@@ -17833,7 +17833,7 @@ graph [
   edge [
     source 111
     target 198
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t u"
     Variety_Count 1
@@ -17843,7 +17843,7 @@ graph [
   edge [
     source 111
     target 237
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t u"
     Variety_Count 1
@@ -17853,7 +17853,7 @@ graph [
   edge [
     source 112
     target 474
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17862,7 +17862,7 @@ graph [
   ]
   edge [
     source 112
-    target 965
+    target 963
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
     words "b a s o//s a k a + t"
@@ -17883,7 +17883,7 @@ graph [
   edge [
     source 112
     target 373
-    varieties "clics4-1332//clics4-1332"
+    varieties "clics4-1329//clics4-1329"
     languages "pana1305//pana1305"
     words "p o h m aː//p o h m aː"
     Variety_Count 2
@@ -17893,7 +17893,7 @@ graph [
   edge [
     source 112
     target 215
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17903,7 +17903,7 @@ graph [
   edge [
     source 112
     target 216
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -17913,7 +17913,7 @@ graph [
   edge [
     source 113
     target 283
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "q a"
     Variety_Count 1
@@ -17923,7 +17923,7 @@ graph [
   edge [
     source 113
     target 284
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "q a"
     Variety_Count 1
@@ -17933,7 +17933,7 @@ graph [
   edge [
     source 115
     target 155
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "k y"
     Variety_Count 1
@@ -17942,8 +17942,8 @@ graph [
   ]
   edge [
     source 115
-    target 252
-    varieties "clics4-1450"
+    target 253
+    varieties "clics4-1447"
     languages "mono1275"
     words "k y"
     Variety_Count 1
@@ -17953,7 +17953,7 @@ graph [
   edge [
     source 115
     target 273
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "k y"
     Variety_Count 1
@@ -17982,8 +17982,8 @@ graph [
   ]
   edge [
     source 116
-    target 184
-    varieties "clics4-1953"
+    target 183
+    varieties "clics4-1950"
     languages "sout2969"
     words "t a ŋ w a"
     Variety_Count 1
@@ -17992,7 +17992,7 @@ graph [
   ]
   edge [
     source 117
-    target 432
+    target 431
     varieties "clics4-239"
     languages "high1278"
     words "ʃ o ʃ o k + t i + k"
@@ -18012,7 +18012,7 @@ graph [
   ]
   edge [
     source 118
-    target 1369
+    target 1368
     varieties "clics4-1286"
     languages "luis1253"
     words "k u"
@@ -18031,8 +18031,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 121
-    target 1287
+    source 122
+    target 1285
     varieties "clics4-46"
     languages "yaqu1251"
     words "j u k u + j i m aː r i"
@@ -18042,7 +18042,7 @@ graph [
   ]
   edge [
     source 123
-    target 649
+    target 648
     varieties "clics4-239"
     languages "high1278"
     words "a m o + kʷ a l i"
@@ -18062,7 +18062,7 @@ graph [
   ]
   edge [
     source 124
-    target 598
+    target 596
     varieties "clics4-46"
     languages "yaqu1251"
     words "j i a p s i"
@@ -18072,7 +18072,7 @@ graph [
   ]
   edge [
     source 126
-    target 435
+    target 436
     varieties "clics4-239"
     languages "high1278"
     words "w e w e + t"
@@ -18083,7 +18083,7 @@ graph [
   edge [
     source 126
     target 127
-    varieties "clics4-46//clics4-239//clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
+    varieties "clics4-46//clics4-239//clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
     languages "yaqu1251//high1278//high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
     words "o ʔ o r a//w e w e + t//s o l + t i + k//o̞ ʔ o̞ ɾ a//a n x a//p y e tː y m p y//u v i h a t//m uː a ts i y eː//ts u k u h p y//w iː//m o a//iː + t y//u v i h p y + t//uː l a w y + t//y i t y + p y w + v//p y a i tː y m + p y h//iː//e r aː x p o"
     Variety_Count 18
@@ -18092,7 +18092,7 @@ graph [
   ]
   edge [
     source 127
-    target 435
+    target 436
     varieties "clics4-239"
     languages "high1278"
     words "w e w e + t"
@@ -18103,7 +18103,7 @@ graph [
   edge [
     source 129
     target 686
-    varieties "clics4-1350"
+    varieties "clics4-1348"
     languages "serr1255"
     words "p i"
     Variety_Count 1
@@ -18113,7 +18113,7 @@ graph [
   edge [
     source 129
     target 167
-    varieties "clics4-1350//clics4-1350"
+    varieties "clics4-1348//clics4-1348"
     languages "serr1255//serr1255"
     words "p i//p i"
     Variety_Count 2
@@ -18123,7 +18123,7 @@ graph [
   edge [
     source 130
     target 155
-    varieties "clics4-239//clics4-1286//clics4-1286//clics4-1332//clics4-1350//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1513//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
+    varieties "clics4-239//clics4-1286//clics4-1286//clics4-1329//clics4-1348//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1509//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
     languages "high1278//luis1253//luis1253//pana1305//serr1255//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cupe1243//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
     words "i + m e tʃ//e + t//e + t//n u ŋ kʷ a pː y h//ts a k a ts//ts a k a ts//h u//o m o//j uː a v ɪ//k a u p a//j uː + v y//x u tsʰ i//x u tsʰ i//ts aː q + l e g//uː kː a pː yː l//j u//oː n//j y u + ʃ//n e n eː v"
     Variety_Count 19
@@ -18132,7 +18132,7 @@ graph [
   ]
   edge [
     source 130
-    target 211
+    target 212
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
     words "m a tʃ a m//i + k e s"
@@ -18142,8 +18142,8 @@ graph [
   ]
   edge [
     source 130
-    target 553
-    varieties "clics4-1513"
+    target 554
+    varieties "clics4-1509"
     languages "cupe1243"
     words "x u tsʰ i"
     Variety_Count 1
@@ -18162,7 +18162,7 @@ graph [
   ]
   edge [
     source 133
-    target 934
+    target 940
     varieties "clics4-46"
     languages "yaqu1251"
     words "k uː n a"
@@ -18172,7 +18172,7 @@ graph [
   ]
   edge [
     source 134
-    target 853
+    target 851
     varieties "clics4-46"
     languages "yaqu1251"
     words "w a s u k t i a"
@@ -18182,7 +18182,7 @@ graph [
   ]
   edge [
     source 135
-    target 1084
+    target 1087
     varieties "clics4-46"
     languages "yaqu1251"
     words "m a tʃ u ʔ u t e"
@@ -18192,7 +18192,7 @@ graph [
   ]
   edge [
     source 135
-    target 857
+    target 861
     varieties "clics4-46"
     languages "yaqu1251"
     words "j i p p u e"
@@ -18202,7 +18202,7 @@ graph [
   ]
   edge [
     source 135
-    target 939
+    target 936
     varieties "clics4-46"
     languages "yaqu1251"
     words "j i p p u e"
@@ -18212,7 +18212,7 @@ graph [
   ]
   edge [
     source 135
-    target 1020
+    target 1019
     varieties "clics4-46"
     languages "yaqu1251"
     words "j i p p u e"
@@ -18223,7 +18223,7 @@ graph [
   edge [
     source 139
     target 261
-    varieties "clics4-1350"
+    varieties "clics4-1348"
     languages "serr1255"
     words "m u k"
     Variety_Count 1
@@ -18233,7 +18233,7 @@ graph [
   edge [
     source 139
     target 314
-    varieties "clics4-1350"
+    varieties "clics4-1348"
     languages "serr1255"
     words "m u k"
     Variety_Count 1
@@ -18242,7 +18242,7 @@ graph [
   ]
   edge [
     source 142
-    target 820
+    target 822
     varieties "clics4-46"
     languages "yaqu1251"
     words "t aː t a"
@@ -18252,7 +18252,7 @@ graph [
   ]
   edge [
     source 142
-    target 555
+    target 553
     varieties "clics4-46"
     languages "yaqu1251"
     words "t aː t a"
@@ -18261,9 +18261,9 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 143
-    target 692
-    varieties "clics4-1213"
+    source 144
+    target 687
+    varieties "clics4-1209"
     languages "yaqu1251"
     words "ŋ ɔ k ɔ"
     Variety_Count 1
@@ -18271,8 +18271,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 143
-    target 806
+    source 144
+    target 808
     varieties "clics4-239"
     languages "high1278"
     words "a hʷ i j a k"
@@ -18283,7 +18283,7 @@ graph [
   edge [
     source 145
     target 1253
-    varieties "clics4-1350"
+    varieties "clics4-1348"
     languages "serr1255"
     words "ts u ŋ"
     Variety_Count 1
@@ -18292,7 +18292,7 @@ graph [
   ]
   edge [
     source 146
-    target 1133
+    target 1134
     varieties "clics4-46"
     languages "yaqu1251"
     words "j u j a"
@@ -18311,9 +18311,9 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 150
-    target 151
-    varieties "clics4-239//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
+    source 149
+    target 150
+    varieties "clics4-239//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
     languages "high1278//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
     words "o h + t i//p e + t//p o e//p o k t//n yː//p u ɛ//p o o//t oː + v y//p i + t//p i t//p oː q + t//p o h t//p o//p o a i//p oː//p e t"
     Variety_Count 16
@@ -18321,9 +18321,9 @@ graph [
     Cognate_Count 6
   ]
   edge [
-    source 152
+    source 151
     target 271
-    varieties "clics4-1514"
+    varieties "clics4-1510"
     languages "cahu1264"
     words "p e"
     Variety_Count 1
@@ -18331,9 +18331,9 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 152
+    source 151
     target 272
-    varieties "clics4-1514"
+    varieties "clics4-1510"
     languages "cahu1264"
     words "p e"
     Variety_Count 1
@@ -18341,9 +18341,9 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 152
+    source 151
     target 411
-    varieties "clics4-1514"
+    varieties "clics4-1510"
     languages "cahu1264"
     words "p e"
     Variety_Count 1
@@ -18351,8 +18351,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 152
-    target 1149
+    source 151
+    target 1146
     varieties "clics4-46//clics4-239//clics4-239"
     languages "yaqu1251//high1278//high1278"
     words "b e t u k u//t a n i//n e + w i n + t a n i"
@@ -18362,8 +18362,8 @@ graph [
   ]
   edge [
     source 155
-    target 553
-    varieties "clics4-1513//clics4-1513//clics4-1515"
+    target 554
+    varieties "clics4-1509//clics4-1509//clics4-1511"
     languages "cupe1243//cupe1243//serr1255"
     words "x u tsʰ i//x u tsʰ i//n a v yː + t"
     Variety_Count 3
@@ -18372,8 +18372,8 @@ graph [
   ]
   edge [
     source 155
-    target 252
-    varieties "clics4-1450"
+    target 253
+    varieties "clics4-1447"
     languages "mono1275"
     words "k y"
     Variety_Count 1
@@ -18383,7 +18383,7 @@ graph [
   edge [
     source 155
     target 273
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "k y"
     Variety_Count 1
@@ -18392,8 +18392,8 @@ graph [
   ]
   edge [
     source 156
-    target 727
-    varieties "clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1450//clics4-1451//clics4-1451//clics4-1465//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1513//clics4-1514//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1684//clics4-1953//clics4-1973"
+    target 725
+    varieties "clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1447//clics4-1448//clics4-1448//clics4-1463//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1509//clics4-1510//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1681//clics4-1950//clics4-1970"
     languages "luis1253//pana1305//serr1255//mono1275//mono1275//coma1245//coma1245//utee1244//utee1244//nort2954//kawa1283//cupe1243//cupe1243//cahu1264//cahu1264//serr1255//tuba1278//chem1251//shos1248//shos1248//sout2969//tong1329"
     words "p u t iː//n o p u s a m a//kʷ a h kʷ a tʃ a m u k//n o s i d a b i//n o s i d a b i//n a b u s i a i p y//n a b u s i a i p y//n o n o s i//n o n o s i//n o s e//n o n o ʃ i + d y//t u//t u//t e t//t e t//kʷ a h tʃ u m u k//t u mː u k a//n o n o s ɪ//n a + p u i s a i h//n a + p u i s a i h//n o nː o tsː i + p ɪ//h oː + h oː + w a r + r a + w eː tʃ"
     Variety_Count 22
@@ -18401,29 +18401,9 @@ graph [
     Cognate_Count 8
   ]
   edge [
-    source 158
-    target 180
-    varieties "clics4-1286"
-    languages "luis1253"
-    words "w o y a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 158
-    target 179
-    varieties "clics4-1286"
-    languages "luis1253"
-    words "w o y a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 159
-    target 160
-    varieties "clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
+    source 157
+    target 158
+    varieties "clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
     languages "luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
     words "k i h aː + t//p i a mː y tː s i//m a y h a t//t u w a p y//t y e t y//t u a tsʰ ɪ//d u a k i//p i ʃ y oː + tsʰ i//n a//k i//a n y iː ts + i//t uː m u + u n//p i s o//t u a//t u a + ɢ//kʷ e t iː"
     Variety_Count 16
@@ -18431,7 +18411,7 @@ graph [
     Cognate_Count 10
   ]
   edge [
-    source 159
+    source 157
     target 245
     varieties "clics4-239"
     languages "high1278"
@@ -18441,7 +18421,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 159
+    source 157
     target 330
     varieties "clics4-239"
     languages "high1278"
@@ -18451,7 +18431,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 159
+    source 157
     target 903
     varieties "clics4-46"
     languages "yaqu1251"
@@ -18461,7 +18441,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 159
+    source 157
     target 1567
     varieties "clics4-46"
     languages "yaqu1251"
@@ -18471,9 +18451,9 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 159
+    source 157
     target 283
-    varieties "clics4-1514"
+    varieties "clics4-1510"
     languages "cahu1264"
     words "k i"
     Variety_Count 1
@@ -18481,9 +18461,9 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 159
+    source 157
     target 284
-    varieties "clics4-1514"
+    varieties "clics4-1510"
     languages "cahu1264"
     words "k i"
     Variety_Count 1
@@ -18491,7 +18471,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 160
+    source 158
     target 189
     varieties "clics4-239"
     languages "high1278"
@@ -18501,7 +18481,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 160
+    source 158
     target 244
     varieties "clics4-239"
     languages "high1278"
@@ -18511,7 +18491,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 160
+    source 158
     target 245
     varieties "clics4-46"
     languages "yaqu1251"
@@ -18521,8 +18501,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 160
-    target 640
+    source 158
+    target 639
     varieties "clics4-239"
     languages "high1278"
     words "p i l i"
@@ -18531,9 +18511,19 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 160
+    source 158
     target 283
-    varieties "clics4-1514"
+    varieties "clics4-1510"
+    languages "cahu1264"
+    words "k i"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 158
+    target 284
+    varieties "clics4-1510"
     languages "cahu1264"
     words "k i"
     Variety_Count 1
@@ -18542,17 +18532,27 @@ graph [
   ]
   edge [
     source 160
-    target 284
-    varieties "clics4-1514"
-    languages "cahu1264"
-    words "k i"
+    target 180
+    varieties "clics4-1286"
+    languages "luis1253"
+    words "w o y a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 160
+    target 179
+    varieties "clics4-1286"
+    languages "luis1253"
+    words "w o y a"
     Variety_Count 1
     Language_Count 1
     Cognate_Count 1
   ]
   edge [
     source 162
-    target 1137
+    target 1148
     varieties "clics4-46//clics4-239//clics4-239"
     languages "yaqu1251//high1278//high1278"
     words "o u s i//k a tʃ i//m i a k"
@@ -18563,7 +18563,7 @@ graph [
   edge [
     source 167
     target 686
-    varieties "clics4-46//clics4-239//clics4-239//clics4-1286//clics4-1332//clics4-1350//clics4-1350//clics4-1450//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1684//clics4-1953"
+    varieties "clics4-46//clics4-239//clics4-239//clics4-1286//clics4-1329//clics4-1348//clics4-1348//clics4-1447//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1681//clics4-1950"
     languages "yaqu1251//high1278//high1278//luis1253//pana1305//serr1255//serr1255//mono1275//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//shos1248//sout2969"
     words "b e b a//k i + m a g a//m a h + m a g a//p a q a//t a pː a i h//p i//p i//t a b i//t a b i//n a r aː j aː k y p y//w h tsʰ o g//p o t a//ts o k o//p u x//t u l a//p oː ŋ//k o h k o hʷ i n + a t//t o + pː a i h//t a pː o r u"
     Variety_Count 19
@@ -18573,7 +18573,7 @@ graph [
   edge [
     source 169
     target 249
-    varieties "clics4-1973"
+    varieties "clics4-1970"
     languages "tong1329"
     words "k u t aː"
     Variety_Count 1
@@ -18583,7 +18583,7 @@ graph [
   edge [
     source 170
     target 182
-    varieties "clics4-1513"
+    varieties "clics4-1509"
     languages "cupe1243"
     words "q u s a"
     Variety_Count 1
@@ -18602,7 +18602,7 @@ graph [
   ]
   edge [
     source 170
-    target 172
+    target 173
     varieties "clics4-239"
     languages "high1278"
     words "n e m i"
@@ -18612,6 +18612,16 @@ graph [
   ]
   edge [
     source 172
+    target 801
+    varieties "clics4-239"
+    languages "high1278"
+    words "w e j i + a + t"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 173
     target 1131
     varieties "clics4-239"
     languages "high1278"
@@ -18621,18 +18631,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 173
-    target 803
-    varieties "clics4-239"
-    languages "high1278"
-    words "w e j i + a + t"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
     source 174
-    target 487
+    target 488
     varieties "clics4-239"
     languages "high1278"
     words "p i tʃ o + t i + k"
@@ -18641,7 +18641,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 177
+    source 178
     target 229
     varieties "clics4-46"
     languages "yaqu1251"
@@ -18651,8 +18651,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 177
-    target 805
+    source 178
+    target 803
     varieties "clics4-46"
     languages "yaqu1251"
     words "bʷ i t e"
@@ -18663,7 +18663,7 @@ graph [
   edge [
     source 179
     target 180
-    varieties "clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953"
+    varieties "clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950"
     languages "yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969"
     words "e̞ a//w o y a//m u k u a t u//w i n i k a w//s u n a w i//s u a t y t y//s u m a i//s u n a m i//m u g u w a + r y//w e y + y a x//s i tsʰ u//ts a m a q aː n + v t//t oː j + y + t//m u g u a//s u a//ts u mː a i"
     Variety_Count 16
@@ -18673,7 +18673,7 @@ graph [
   edge [
     source 182
     target 239
-    varieties "clics4-1480"
+    varieties "clics4-1478"
     languages "nort2954"
     words "s o"
     Variety_Count 1
@@ -18682,7 +18682,7 @@ graph [
   ]
   edge [
     source 182
-    target 1160
+    target 1165
     varieties "clics4-239//clics4-239//clics4-239"
     languages "high1278//high1278//high1278"
     words "i + i j o + j o//iː h j o j o//i h s i k a"
@@ -18692,38 +18692,8 @@ graph [
   ]
   edge [
     source 183
-    target 682
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "j i ʔ i k a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 183
-    target 460
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "j i ʔ i k a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 183
-    target 1158
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "j i ʔ i k a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 184
-    target 185
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-239//clics4-239//clics4-1213//clics4-1350//clics4-1513//clics4-1514//clics4-1515"
+    target 184
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-239//clics4-239//clics4-1209//clics4-1348//clics4-1509//clics4-1510//clics4-1511"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//high1278//high1278//high1278//yaqu1251//serr1255//cupe1243//cahu1264//serr1255"
     words "i t e p o//i t e p o//i t e p o//i t e p o//t i//t e h + w a + n//t + h//k e h//i t e̞ p o̞//i ts a m//tsʰ e m//tsʰ e m//a ts a m"
     Variety_Count 13
@@ -18731,8 +18701,18 @@ graph [
     Cognate_Count 6
   ]
   edge [
+    source 183
+    target 1408
+    varieties "clics4-239"
+    languages "high1278"
+    words "t i"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
     source 184
-    target 1409
+    target 1408
     varieties "clics4-239"
     languages "high1278"
     words "t i"
@@ -18742,17 +18722,37 @@ graph [
   ]
   edge [
     source 185
-    target 1409
-    varieties "clics4-239"
-    languages "high1278"
-    words "t i"
+    target 685
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "j i ʔ i k a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 185
+    target 461
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "j i ʔ i k a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 185
+    target 1157
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "j i ʔ i k a"
     Variety_Count 1
     Language_Count 1
     Cognate_Count 1
   ]
   edge [
     source 187
-    target 1673
+    target 1672
     varieties "clics4-46"
     languages "yaqu1251"
     words "b a u b a ʔ a"
@@ -18772,7 +18772,7 @@ graph [
   ]
   edge [
     source 189
-    target 656
+    target 658
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
     words "u s i + j u ʔ u bʷ a + j o ʔ o t u m e//o k i tʃ + p i l"
@@ -18792,7 +18792,7 @@ graph [
   ]
   edge [
     source 190
-    target 575
+    target 576
     varieties "clics4-239"
     languages "high1278"
     words "s a n i + l o + a"
@@ -18803,7 +18803,7 @@ graph [
   edge [
     source 191
     target 871
-    varieties "clics4-1350//clics4-1514//clics4-1632//clics4-1973"
+    varieties "clics4-1348//clics4-1510//clics4-1630//clics4-1970"
     languages "serr1255//cahu1264//tuba1278//tong1329"
     words "w a k a t a t//w a x a tʃ i lʲ//w oː h n aː l//kʷ a"
     Variety_Count 4
@@ -18813,7 +18813,7 @@ graph [
   edge [
     source 193
     target 301
-    varieties "clics4-1683"
+    varieties "clics4-1680"
     languages "chem1251"
     words "t y v i"
     Variety_Count 1
@@ -18822,7 +18822,7 @@ graph [
   ]
   edge [
     source 194
-    target 680
+    target 679
     varieties "clics4-46"
     languages "yaqu1251"
     words "b a tʃ i a"
@@ -18831,7 +18831,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 195
+    source 196
     target 1205
     varieties "clics4-46"
     languages "yaqu1251"
@@ -18842,7 +18842,7 @@ graph [
   ]
   edge [
     source 197
-    target 654
+    target 653
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
     words "k a w i//t e p e + t"
@@ -18863,7 +18863,7 @@ graph [
   edge [
     source 198
     target 213
-    varieties "clics4-46//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
+    varieties "clics4-46//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
     languages "yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
     words "w aː k a s//w aː i + ʃ//t u kː u a i t y n//a + t a p//t u//t u h k u//t y k a p y//t u k u//p aː + v i//w a//w a//t u k//t u k u w a//t u k u//t u kː u//t u qː u a + ʃ//t uː k e n"
     Variety_Count 17
@@ -18873,7 +18873,7 @@ graph [
   edge [
     source 198
     target 237
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t u"
     Variety_Count 1
@@ -18892,7 +18892,7 @@ graph [
   ]
   edge [
     source 201
-    target 1369
+    target 1368
     varieties "clics4-1286"
     languages "luis1253"
     words "k u"
@@ -18902,8 +18902,8 @@ graph [
   ]
   edge [
     source 201
-    target 553
-    varieties "clics4-1514"
+    target 554
+    varieties "clics4-1510"
     languages "cahu1264"
     words "a"
     Variety_Count 1
@@ -18913,7 +18913,7 @@ graph [
   edge [
     source 204
     target 283
-    varieties "clics4-1465"
+    varieties "clics4-1463"
     languages "utee1244"
     words "k a"
     Variety_Count 1
@@ -18923,7 +18923,7 @@ graph [
   edge [
     source 204
     target 284
-    varieties "clics4-1465"
+    varieties "clics4-1463"
     languages "utee1244"
     words "k a"
     Variety_Count 1
@@ -18932,8 +18932,8 @@ graph [
   ]
   edge [
     source 206
-    target 615
-    varieties "clics4-1332"
+    target 616
+    varieties "clics4-1329"
     languages "pana1305"
     words "p a h a"
     Variety_Count 1
@@ -18943,6 +18943,16 @@ graph [
   edge [
     source 206
     target 240
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "tʃ u k t a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 206
+    target 746
     varieties "clics4-46"
     languages "yaqu1251"
     words "tʃ u k t a"
@@ -18962,10 +18972,10 @@ graph [
   ]
   edge [
     source 206
-    target 748
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "tʃ u k t a"
+    target 414
+    varieties "clics4-239"
+    languages "high1278"
+    words "k i + t a p a n a"
     Variety_Count 1
     Language_Count 1
     Cognate_Count 1
@@ -18981,18 +18991,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 206
-    target 416
-    varieties "clics4-239"
-    languages "high1278"
-    words "k i + t a p a n a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 208
-    target 1248
+    source 207
+    target 1247
     varieties "clics4-46"
     languages "yaqu1251"
     words "k u s i a"
@@ -19001,8 +19001,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 208
-    target 746
+    source 207
+    target 751
     varieties "clics4-46"
     languages "yaqu1251"
     words "k u s i a"
@@ -19022,7 +19022,7 @@ graph [
   ]
   edge [
     source 209
-    target 790
+    target 787
     varieties "clics4-46"
     languages "yaqu1251"
     words "b eː a"
@@ -19051,9 +19051,9 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 211
-    target 1109
-    varieties "clics4-1213"
+    source 212
+    target 1113
+    varieties "clics4-1209"
     languages "yaqu1251"
     words "m a tʃ a m"
     Variety_Count 1
@@ -19073,7 +19073,7 @@ graph [
   edge [
     source 213
     target 237
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t u"
     Variety_Count 1
@@ -19082,7 +19082,7 @@ graph [
   ]
   edge [
     source 214
-    target 665
+    target 661
     varieties "clics4-239"
     languages "high1278"
     words "k i + p a tʃ k a"
@@ -19092,7 +19092,7 @@ graph [
   ]
   edge [
     source 214
-    target 495
+    target 497
     varieties "clics4-239"
     languages "high1278"
     words "k i + p a tʃ o + a"
@@ -19103,7 +19103,7 @@ graph [
   edge [
     source 214
     target 329
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "w i"
     Variety_Count 1
@@ -19113,7 +19113,7 @@ graph [
   edge [
     source 215
     target 474
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -19122,7 +19122,7 @@ graph [
   ]
   edge [
     source 215
-    target 248
+    target 247
     varieties "clics4-239"
     languages "high1278"
     words "p i tʃ a w a + k"
@@ -19133,7 +19133,7 @@ graph [
   edge [
     source 215
     target 216
-    varieties "clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1973"
+    varieties "clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1970"
     languages "yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//tong1329"
     words "w a k i l a//a l u//t a t u tː s i//i v i v i//t y//t a h i//tsʰ aː//t y k i j a i//o h o + j eː//m i ŋ i + ʃ//y a w i + ʃ//j e i p k a//a lː a l a lː i p i tsʰ//ts i a u//t a t u i h//y a r oː r e"
     Variety_Count 16
@@ -19143,7 +19143,7 @@ graph [
   edge [
     source 216
     target 474
-    varieties "clics4-1450"
+    varieties "clics4-1447"
     languages "mono1275"
     words "t y"
     Variety_Count 1
@@ -19152,26 +19152,6 @@ graph [
   ]
   edge [
     source 219
-    target 704
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "j a ʔ a m u"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 219
-    target 375
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "j a ʔ a m u"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 220
     target 739
     varieties "clics4-239"
     languages "high1278"
@@ -19181,18 +19161,28 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 221
-    target 222
-    varieties "clics4-1213//clics4-1286//clics4-1332//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953"
-    languages "yaqu1251//luis1253//pana1305//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969"
-    words "e̞ ʔ e̞ ɾ i a//h e l i//w a ts i kː a t y h//n a w aː z i//w a ts i t y k i t y//aː g//w a ts i//w a z i a//w i l y + y a x//n e ŋ//m yː j + k i n + v t//uː k uː tsʰ y + t//aː//w a ts i + t i kː i h//aː g a + ɣ w"
-    Variety_Count 15
-    Language_Count 15
-    Cognate_Count 12
+    source 220
+    target 704
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "j a ʔ a m u"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
   ]
   edge [
-    source 223
-    target 501
+    source 220
+    target 374
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "j a ʔ a m u"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 221
+    target 500
     varieties "clics4-239"
     languages "high1278"
     words "k i + kʷ i"
@@ -19201,8 +19191,18 @@ graph [
     Cognate_Count 1
   ]
   edge [
+    source 222
+    target 223
+    varieties "clics4-1209//clics4-1286//clics4-1329//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950"
+    languages "yaqu1251//luis1253//pana1305//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969"
+    words "e̞ ʔ e̞ ɾ i a//h e l i//w a ts i kː a t y h//n a w aː z i//w a ts i t y k i t y//aː g//w a ts i//w a z i a//w i l y + y a x//n e ŋ//m yː j + k i n + v t//uː k uː tsʰ y + t//aː//w a ts i + t i kː i h//aː g a + ɣ w"
+    Variety_Count 15
+    Language_Count 15
+    Cognate_Count 12
+  ]
+  edge [
     source 227
-    target 1637
+    target 1635
     varieties "clics4-46"
     languages "yaqu1251"
     words "eː j e"
@@ -19212,8 +19212,8 @@ graph [
   ]
   edge [
     source 228
-    target 466
-    varieties "clics4-1332//clics4-1450//clics4-1494//clics4-1683//clics4-1684"
+    target 465
+    varieties "clics4-1329//clics4-1447//clics4-1490//clics4-1680//clics4-1681"
     languages "pana1305//mono1275//kawa1283//chem1251//shos1248"
     words "e t y n//e d y//e d y//a ts y//a i t i"
     Variety_Count 5
@@ -19222,7 +19222,7 @@ graph [
   ]
   edge [
     source 228
-    target 268
+    target 267
     varieties "clics4-1286"
     languages "luis1253"
     words "k u t a p i ʃ"
@@ -19232,8 +19232,8 @@ graph [
   ]
   edge [
     source 228
-    target 1369
-    varieties "clics4-1451//clics4-1494//clics4-1513//clics4-1514"
+    target 1368
+    varieties "clics4-1448//clics4-1490//clics4-1509//clics4-1510"
     languages "coma1245//kawa1283//cupe1243//cahu1264"
     words "eː t y//e d y//k u t a p i ʃ//h u l"
     Variety_Count 4
@@ -19242,7 +19242,7 @@ graph [
   ]
   edge [
     source 229
-    target 805
+    target 803
     varieties "clics4-46"
     languages "yaqu1251"
     words "bʷ i t e"
@@ -19251,9 +19251,9 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 230
+    source 232
     target 235
-    varieties "clics4-1286//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513"
+    varieties "clics4-1286//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509"
     languages "luis1253//coma1245//utee1244//nort2954//kawa1283//cupe1243"
     words "h uː l a//p aː k a//uː//p o ŋ o s a//h u w a + z i//h u y a l"
     Variety_Count 6
@@ -19261,7 +19261,7 @@ graph [
     Cognate_Count 5
   ]
   edge [
-    source 230
+    source 232
     target 237
     varieties "clics4-1286"
     languages "luis1253"
@@ -19271,9 +19271,9 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 230
+    source 232
     target 1175
-    varieties "clics4-1973//clics4-1973"
+    varieties "clics4-1970//clics4-1970"
     languages "tong1329//tong1329"
     words "a h + n a h tʃ//a h + n a h tʃ"
     Variety_Count 2
@@ -19282,7 +19282,7 @@ graph [
   ]
   edge [
     source 237
-    target 751
+    target 750
     varieties "clics4-46"
     languages "yaqu1251"
     words "b e p a"
@@ -19292,7 +19292,7 @@ graph [
   ]
   edge [
     source 240
-    target 747
+    target 746
     varieties "clics4-46"
     languages "yaqu1251"
     words "tʃ u k t a"
@@ -19302,7 +19302,7 @@ graph [
   ]
   edge [
     source 240
-    target 748
+    target 747
     varieties "clics4-46"
     languages "yaqu1251"
     words "tʃ u k t a"
@@ -19322,7 +19322,7 @@ graph [
   ]
   edge [
     source 249
-    target 332
+    target 333
     varieties "clics4-239"
     languages "high1278"
     words "kʷ o w i + t"
@@ -19332,18 +19332,8 @@ graph [
   ]
   edge [
     source 252
-    target 273
-    varieties "clics4-1450"
-    languages "mono1275"
-    words "k y"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 253
-    target 338
-    varieties "clics4-1332//clics4-1350//clics4-1973"
+    target 339
+    varieties "clics4-1329//clics4-1348//clics4-1970"
     languages "pana1305//serr1255//tong1329"
     words "p i h n aː p i n//p i h a + tʃ//a w eː"
     Variety_Count 3
@@ -19351,8 +19341,18 @@ graph [
     Cognate_Count 3
   ]
   edge [
+    source 253
+    target 273
+    varieties "clics4-1447"
+    languages "mono1275"
+    words "k y"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
     source 255
-    target 1202
+    target 1200
     varieties "clics4-239"
     languages "high1278"
     words "j o w a + l + t i + k"
@@ -19383,7 +19383,7 @@ graph [
   edge [
     source 261
     target 676
-    varieties "clics4-1683"
+    varieties "clics4-1680"
     languages "chem1251"
     words "p a k a"
     Variety_Count 1
@@ -19393,7 +19393,7 @@ graph [
   edge [
     source 261
     target 314
-    varieties "clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
+    varieties "clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
     languages "luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
     words "t i w a//k a mː a h//m u k//q a m a//h o y o p i y//p a k a k i//t y o j a i//j eː//q aː w i + ʃ//q e l y a//m y h ts a n//y nː y h y + a t//p a k a//k a mː a h + d u lː + p a i n//p a qː a//ts aː y t"
     Variety_Count 16
@@ -19402,8 +19402,8 @@ graph [
   ]
   edge [
     source 261
-    target 579
-    varieties "clics4-1683"
+    target 581
+    varieties "clics4-1680"
     languages "chem1251"
     words "p a k a"
     Variety_Count 1
@@ -19421,19 +19421,9 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 267
-    target 317
-    varieties "clics4-46//clics4-1213"
-    languages "yaqu1251//yaqu1251"
-    words "tʃ iː b u//tʃ iː β u"
-    Variety_Count 2
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 269
+    source 268
     target 456
-    varieties "clics4-1350//clics4-1451"
+    varieties "clics4-1348//clics4-1448"
     languages "serr1255//coma1245"
     words "h a m y k//t y a s y"
     Variety_Count 2
@@ -19441,8 +19431,8 @@ graph [
     Cognate_Count 2
   ]
   edge [
-    source 269
-    target 939
+    source 268
+    target 936
     varieties "clics4-239"
     languages "high1278"
     words "w a n"
@@ -19451,9 +19441,19 @@ graph [
     Cognate_Count 1
   ]
   edge [
+    source 270
+    target 316
+    varieties "clics4-46//clics4-1209"
+    languages "yaqu1251//yaqu1251"
+    words "tʃ iː b u//tʃ iː β u"
+    Variety_Count 2
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
     source 271
     target 272
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
     words "aː p o//aː p o//aː p o//aː p o//j e h//j e h + w a//aː p o̞//p oː//m a t y n//a m a//i h u//m a//m aː s//u + s u//s a + m a//p e//p e//a m a//ts//m a ŋ//m a//m a ŋ a + h e//p oː"
     Variety_Count 23
@@ -19463,7 +19463,7 @@ graph [
   edge [
     source 271
     target 411
-    varieties "clics4-46//clics4-46//clics4-239//clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
+    varieties "clics4-46//clics4-46//clics4-239//clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
     languages "yaqu1251//yaqu1251//high1278//high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
     words "aː p o//aː p o//j e h//j e h + w a//aː p o̞//p oː//m a t y n//a m a//i h u//m a//m aː s//u + s u//s a + m a//p e//p e//a m a//ts//m a ŋ//m a//m a ŋ a + h e//p oː"
     Variety_Count 21
@@ -19473,7 +19473,7 @@ graph [
   edge [
     source 272
     target 411
-    varieties "clics4-46//clics4-46//clics4-239//clics4-239//clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
+    varieties "clics4-46//clics4-46//clics4-239//clics4-239//clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
     languages "yaqu1251//yaqu1251//high1278//high1278//yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
     words "aː p o//aː p o//j e h//j e h + w a//aː p o̞//p oː//m a t y n//a m a//i h u//m a//m aː s//u + s u//s a + m a//p e//p e//a m a//ts//m a ŋ//m a//m a ŋ a + h e//p oː"
     Variety_Count 21
@@ -19482,8 +19482,8 @@ graph [
   ]
   edge [
     source 273
-    target 293
-    varieties "clics4-46//clics4-1213"
+    target 291
+    varieties "clics4-46//clics4-1209"
     languages "yaqu1251//yaqu1251"
     words "s eː n u//s e̞ː n u"
     Variety_Count 2
@@ -19513,7 +19513,7 @@ graph [
   edge [
     source 274
     target 275
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-1213"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-1209"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//yaqu1251"
     words "s a i l a//s a i//s a i//s a i//s a i//iː + k n i + w//s a i"
     Variety_Count 7
@@ -19632,8 +19632,8 @@ graph [
   ]
   edge [
     source 278
-    target 392
-    varieties "clics4-1286//clics4-1350//clics4-1450//clics4-1494"
+    target 390
+    varieties "clics4-1286//clics4-1348//clics4-1447//clics4-1490"
     languages "luis1253//serr1255//mono1275//kawa1283"
     words "ŋ a//p e a//w eː//p i"
     Variety_Count 4
@@ -19652,7 +19652,7 @@ graph [
   ]
   edge [
     source 279
-    target 826
+    target 834
     varieties "clics4-46"
     languages "yaqu1251"
     words "eː tʃ a"
@@ -19662,7 +19662,7 @@ graph [
   ]
   edge [
     source 279
-    target 779
+    target 778
     varieties "clics4-46"
     languages "yaqu1251"
     words "eː tʃ a"
@@ -19672,7 +19672,7 @@ graph [
   ]
   edge [
     source 280
-    target 1305
+    target 1304
     varieties "clics4-46"
     languages "yaqu1251"
     words "b o a m"
@@ -19683,7 +19683,7 @@ graph [
   edge [
     source 283
     target 284
-    varieties "clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953//clics4-1973"
+    varieties "clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950//clics4-1970"
     languages "luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969//tong1329"
     words "q a y//k e//n a w//q a//k e//k a//g a i//j u w + aː + t y//q a y//k i//q a i//h aː i ʃ//k a ts//k e//q a//x a y"
     Variety_Count 16
@@ -19692,7 +19692,7 @@ graph [
   ]
   edge [
     source 285
-    target 791
+    target 792
     varieties "clics4-239"
     languages "high1278"
     words "k i + n e l o + a"
@@ -19702,7 +19702,7 @@ graph [
   ]
   edge [
     source 285
-    target 797
+    target 795
     varieties "clics4-239"
     languages "high1278"
     words "k i + n e l o + a"
@@ -19713,7 +19713,7 @@ graph [
   edge [
     source 285
     target 286
-    varieties "clics4-1213//clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1632//clics4-1683//clics4-1684//clics4-1953"
+    varieties "clics4-1209//clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1630//clics4-1680//clics4-1681//clics4-1950"
     languages "yaqu1251//luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//tuba1278//chem1251//shos1248//sout2969"
     words "k u a k t e̞//m o m a//m u n u h//m a n u m k//m i//k oː n i t y//k o m o n i tsʰ i//ts a m y n a//m y n i ʃ i//w a x + y a x//m e y e//n g o h aː h + q + t u r n + w//p a j k + y t//k o t o//p u i n u a h//m y n i tsː i + ɣ + t o + t u r n + o v e r"
     Variety_Count 16
@@ -19742,7 +19742,7 @@ graph [
   ]
   edge [
     source 286
-    target 1086
+    target 1091
     varieties "clics4-239"
     languages "high1278"
     words "m o + m a l a k a + tʃ o + a"
@@ -19751,8 +19751,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 295
-    target 970
+    source 294
+    target 969
     varieties "clics4-46"
     languages "yaqu1251"
     words "w o j o ʔ o r i a"
@@ -19782,7 +19782,7 @@ graph [
   ]
   edge [
     source 312
-    target 635
+    target 636
     varieties "clics4-239"
     languages "high1278"
     words "j o k s i"
@@ -19793,7 +19793,7 @@ graph [
   edge [
     source 314
     target 676
-    varieties "clics4-1683"
+    varieties "clics4-1680"
     languages "chem1251"
     words "p a k a"
     Variety_Count 1
@@ -19802,8 +19802,8 @@ graph [
   ]
   edge [
     source 314
-    target 579
-    varieties "clics4-1683"
+    target 581
+    varieties "clics4-1680"
     languages "chem1251"
     words "p a k a"
     Variety_Count 1
@@ -19812,7 +19812,7 @@ graph [
   ]
   edge [
     source 315
-    target 434
+    target 435
     varieties "clics4-239"
     languages "high1278"
     words "t a s a + l"
@@ -19822,7 +19822,7 @@ graph [
   ]
   edge [
     source 315
-    target 1330
+    target 1328
     varieties "clics4-239"
     languages "high1278"
     words "i + t a k e n"
@@ -19842,7 +19842,7 @@ graph [
   ]
   edge [
     source 323
-    target 1348
+    target 1346
     varieties "clics4-239"
     languages "high1278"
     words "kʷ a kʷ o w e h"
@@ -19853,7 +19853,7 @@ graph [
   edge [
     source 324
     target 468
-    varieties "clics4-1465"
+    varieties "clics4-1463"
     languages "utee1244"
     words "p a p u n i"
     Variety_Count 1
@@ -19872,16 +19872,6 @@ graph [
   ]
   edge [
     source 332
-    target 896
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "k u t a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 333
     target 489
     varieties "clics4-239"
     languages "high1278"
@@ -19891,7 +19881,17 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 335
+    source 333
+    target 896
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "k u t a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 334
     target 368
     varieties "clics4-239"
     languages "high1278"
@@ -19901,8 +19901,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 338
-    target 634
+    source 339
+    target 633
     varieties "clics4-46"
     languages "yaqu1251"
     words "a s u k a"
@@ -19953,7 +19953,7 @@ graph [
   edge [
     source 341
     target 342
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1213"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-239//clics4-1209"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//high1278//yaqu1251"
     words "a k o//a k o//a k o//a k o//iː + k n i + w//n o + sʷ aː + i k n iː + w//a k o̞"
     Variety_Count 7
@@ -19962,7 +19962,7 @@ graph [
   ]
   edge [
     source 341
-    target 1218
+    target 1217
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
     words "a k o//a k o"
@@ -20012,7 +20012,7 @@ graph [
   ]
   edge [
     source 342
-    target 1218
+    target 1217
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
     words "a k o//a k o"
@@ -20021,9 +20021,9 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 349
+    source 348
     target 468
-    varieties "clics4-1451"
+    varieties "clics4-1448"
     languages "coma1245"
     words "aː w o"
     Variety_Count 1
@@ -20042,7 +20042,7 @@ graph [
   ]
   edge [
     source 354
-    target 484
+    target 482
     varieties "clics4-46"
     languages "yaqu1251"
     words "b a j u t"
@@ -20062,7 +20062,7 @@ graph [
   ]
   edge [
     source 359
-    target 901
+    target 900
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
     words "t o m a//i + p o ʃ"
@@ -20071,7 +20071,7 @@ graph [
     Cognate_Count 2
   ]
   edge [
-    source 361
+    source 360
     target 752
     varieties "clics4-46"
     languages "yaqu1251"
@@ -20092,7 +20092,7 @@ graph [
   ]
   edge [
     source 365
-    target 1110
+    target 1108
     varieties "clics4-46"
     languages "yaqu1251"
     words "j oː a"
@@ -20103,7 +20103,7 @@ graph [
   edge [
     source 368
     target 409
-    varieties "clics4-46//clics4-1213"
+    varieties "clics4-46//clics4-1209"
     languages "yaqu1251//yaqu1251"
     words "tʃ i t a b e t a l a i//tʃ i t a β e̞ t a l a i"
     Variety_Count 2
@@ -20112,7 +20112,7 @@ graph [
   ]
   edge [
     source 369
-    target 465
+    target 466
     varieties "clics4-46"
     languages "yaqu1251"
     words "w aː t a"
@@ -20122,7 +20122,7 @@ graph [
   ]
   edge [
     source 371
-    target 611
+    target 610
     varieties "clics4-239"
     languages "high1278"
     words "i + k o tʃ"
@@ -20132,26 +20132,6 @@ graph [
   ]
   edge [
     source 374
-    target 802
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "w iː ʔ i"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 374
-    target 955
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "w iː ʔ i"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 375
     target 704
     varieties "clics4-46"
     languages "yaqu1251"
@@ -20161,8 +20141,28 @@ graph [
     Cognate_Count 1
   ]
   edge [
+    source 375
+    target 806
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "w iː ʔ i"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 375
+    target 954
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "w iː ʔ i"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
     source 380
-    target 1324
+    target 1322
     varieties "clics4-46"
     languages "yaqu1251"
     words "t e b a u r e"
@@ -20181,7 +20181,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 392
+    source 390
     target 396
     varieties "clics4-46"
     languages "yaqu1251"
@@ -20192,7 +20192,7 @@ graph [
   ]
   edge [
     source 393
-    target 539
+    target 540
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
     words "n oː k i//t a h t o + l"
@@ -20203,7 +20203,7 @@ graph [
   edge [
     source 394
     target 395
-    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-1213"
+    varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46//clics4-239//clics4-1209"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251//high1278//yaqu1251"
     words "s a i l a//s a i l a//s a i l a//s a i l a//s a i//iː + k n i + w//s a i l a"
     Variety_Count 7
@@ -20251,17 +20251,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 404
-    target 595
-    varieties "clics4-239"
-    languages "high1278"
-    words "k i + a h s i"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 405
+    source 403
     target 741
     varieties "clics4-239"
     languages "high1278"
@@ -20271,8 +20261,18 @@ graph [
     Cognate_Count 1
   ]
   edge [
+    source 404
+    target 598
+    varieties "clics4-239"
+    languages "high1278"
+    words "k i + a h s i"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
     source 406
-    target 1247
+    target 1244
     varieties "clics4-239"
     languages "high1278"
     words "m o + m a tʃ + t i + a"
@@ -20282,7 +20282,7 @@ graph [
   ]
   edge [
     source 412
-    target 1348
+    target 1346
     varieties "clics4-239"
     languages "high1278"
     words "kʷ a kʷ o w e h"
@@ -20291,8 +20291,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 415
-    target 416
+    source 414
+    target 415
     varieties "clics4-46//clics4-46//clics4-239//clics4-239//clics4-239"
     languages "yaqu1251//yaqu1251//high1278//high1278//high1278"
     words "j a m t e//j a m t a//k i + t a p a n a//t a p a n i//k o t o n i"
@@ -20302,7 +20302,7 @@ graph [
   ]
   edge [
     source 420
-    target 858
+    target 856
     varieties "clics4-46"
     languages "yaqu1251"
     words "bʷ a r a"
@@ -20312,7 +20312,7 @@ graph [
   ]
   edge [
     source 420
-    target 1426
+    target 1425
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
     words "bʷ a r a//i tʃ k a + t"
@@ -20322,7 +20322,7 @@ graph [
   ]
   edge [
     source 422
-    target 815
+    target 819
     varieties "clics4-239"
     languages "high1278"
     words "ʃ o ʃ o + w i + k"
@@ -20331,8 +20331,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 423
-    target 645
+    source 425
+    target 649
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
     words "j i t a//t e h s a"
@@ -20341,8 +20341,8 @@ graph [
     Cognate_Count 2
   ]
   edge [
-    source 423
-    target 511
+    source 425
+    target 509
     varieties "clics4-46"
     languages "yaqu1251"
     words "j i t a"
@@ -20353,7 +20353,7 @@ graph [
   edge [
     source 429
     target 430
-    varieties "clics4-46//clics4-46//clics4-239//clics4-239//clics4-1213"
+    varieties "clics4-46//clics4-46//clics4-239//clics4-239//clics4-1209"
     languages "yaqu1251//yaqu1251//high1278//high1278//yaqu1251"
     words "a k o//w a i//iː + k n i + w//n o + sʷ aː + i k n iː + w//w a i"
     Variety_Count 5
@@ -20362,7 +20362,7 @@ graph [
   ]
   edge [
     source 429
-    target 1218
+    target 1217
     varieties "clics4-46"
     languages "yaqu1251"
     words "a k o"
@@ -20372,7 +20372,7 @@ graph [
   ]
   edge [
     source 430
-    target 1218
+    target 1217
     varieties "clics4-46"
     languages "yaqu1251"
     words "a k o"
@@ -20381,9 +20381,9 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 431
+    source 432
     target 483
-    varieties "clics4-46//clics4-1213"
+    varieties "clics4-46//clics4-1209"
     languages "yaqu1251//yaqu1251"
     words "b i tʃ a p o//β i tʃ a p o̞"
     Variety_Count 2
@@ -20391,8 +20391,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 431
-    target 633
+    source 432
+    target 637
     varieties "clics4-239"
     languages "high1278"
     words "a tʃ t o"
@@ -20432,7 +20432,7 @@ graph [
   ]
   edge [
     source 451
-    target 597
+    target 599
     varieties "clics4-46"
     languages "yaqu1251"
     words "r a m aː"
@@ -20443,7 +20443,7 @@ graph [
   edge [
     source 451
     target 452
-    varieties "clics4-1286//clics4-1350//clics4-1465//clics4-1494//clics4-1513//clics4-1514//clics4-1632//clics4-1683"
+    varieties "clics4-1286//clics4-1348//clics4-1463//clics4-1490//clics4-1509//clics4-1510//clics4-1630//clics4-1680"
     languages "luis1253//serr1255//utee1244//kawa1283//cupe1243//cahu1264//tuba1278//chem1251"
     words "k o t l a + ʃ//h a m a n//k a n i u vʷ aː g//tsʰ i k u p u + w a + a k a + k a h n i + j a//t eː tsʰ o//k i s + v a x a t//w a tː a ŋ aː + n + h a nː iː l i ŋ//t a k a"
     Variety_Count 8
@@ -20472,7 +20472,7 @@ graph [
   ]
   edge [
     source 452
-    target 639
+    target 638
     varieties "clics4-46"
     languages "yaqu1251"
     words "b e p a ʔ a r i a"
@@ -20492,7 +20492,7 @@ graph [
   ]
   edge [
     source 455
-    target 1119
+    target 1130
     varieties "clics4-46"
     languages "yaqu1251"
     words "j i k k a j a"
@@ -20502,7 +20502,7 @@ graph [
   ]
   edge [
     source 457
-    target 562
+    target 563
     varieties "clics4-46"
     languages "yaqu1251"
     words "bʷ i s e"
@@ -20512,7 +20512,7 @@ graph [
   ]
   edge [
     source 457
-    target 1327
+    target 1325
     varieties "clics4-46"
     languages "yaqu1251"
     words "bʷ i s e"
@@ -20521,8 +20521,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 460
-    target 682
+    source 461
+    target 685
     varieties "clics4-46"
     languages "yaqu1251"
     words "j i ʔ i k a"
@@ -20531,8 +20531,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 460
-    target 1158
+    source 461
+    target 1157
     varieties "clics4-46"
     languages "yaqu1251"
     words "j i ʔ i k a"
@@ -20542,7 +20542,7 @@ graph [
   ]
   edge [
     source 463
-    target 1284
+    target 1283
     varieties "clics4-46"
     languages "yaqu1251"
     words "t o m i"
@@ -20561,8 +20561,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 466
-    target 1397
+    source 465
+    target 1396
     varieties "clics4-46"
     languages "yaqu1251"
     words "w i k o ʔ i"
@@ -20571,9 +20571,9 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 466
-    target 1369
-    varieties "clics4-1494"
+    source 465
+    target 1368
+    varieties "clics4-1490"
     languages "kawa1283"
     words "e d y"
     Variety_Count 1
@@ -20582,7 +20582,7 @@ graph [
   ]
   edge [
     source 468
-    target 1023
+    target 1022
     varieties "clics4-46"
     languages "yaqu1251"
     words "s o t o ʔ i"
@@ -20602,7 +20602,7 @@ graph [
   ]
   edge [
     source 469
-    target 627
+    target 625
     varieties "clics4-46"
     languages "yaqu1251"
     words "p o j t e"
@@ -20612,7 +20612,7 @@ graph [
   ]
   edge [
     source 474
-    target 1516
+    target 1514
     varieties "clics4-46"
     languages "yaqu1251"
     words "m aː s o"
@@ -20621,17 +20621,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 475
-    target 1101
-    varieties "clics4-1973"
-    languages "tong1329"
-    words "a h + p a h"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 477
+    source 476
     target 523
     varieties "clics4-46"
     languages "yaqu1251"
@@ -20641,37 +20631,17 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 481
-    target 690
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "n a ʔ i k i m t e"
+    source 477
+    target 1100
+    varieties "clics4-1970"
+    languages "tong1329"
+    words "a h + p a h"
     Variety_Count 1
     Language_Count 1
     Cognate_Count 1
   ]
   edge [
-    source 481
-    target 1165
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "n a ʔ i k i m t e"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 481
-    target 603
-    varieties "clics4-46//clics4-239"
-    languages "yaqu1251//high1278"
-    words "n a ʔ i k i m t e//k i + ʃ e l o + a"
-    Variety_Count 2
-    Language_Count 2
-    Cognate_Count 2
-  ]
-  edge [
-    source 484
+    source 482
     target 1374
     varieties "clics4-46"
     languages "yaqu1251"
@@ -20681,7 +20651,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 484
+    source 482
     target 1455
     varieties "clics4-46"
     languages "yaqu1251"
@@ -20691,18 +20661,38 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 495
-    target 524
-    varieties "clics4-239"
-    languages "high1278"
-    words "k i + tʃ a kʷ a"
+    source 484
+    target 688
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "n a ʔ i k i m t e"
     Variety_Count 1
     Language_Count 1
     Cognate_Count 1
   ]
   edge [
-    source 497
-    target 578
+    source 484
+    target 1163
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "n a ʔ i k i m t e"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 484
+    target 602
+    varieties "clics4-46//clics4-239"
+    languages "yaqu1251//high1278"
+    words "n a ʔ i k i m t e//k i + ʃ e l o + a"
+    Variety_Count 2
+    Language_Count 2
+    Cognate_Count 2
+  ]
+  edge [
+    source 496
+    target 575
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
     words "s a p a m//s e k + t i"
@@ -20711,8 +20701,18 @@ graph [
     Cognate_Count 2
   ]
   edge [
-    source 504
-    target 595
+    source 497
+    target 526
+    varieties "clics4-239"
+    languages "high1278"
+    words "k i + tʃ a kʷ a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 503
+    target 598
     varieties "clics4-46"
     languages "yaqu1251"
     words "t e a"
@@ -20721,7 +20721,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 504
+    source 503
     target 907
     varieties "clics4-46"
     languages "yaqu1251"
@@ -20732,6 +20732,16 @@ graph [
   ]
   edge [
     source 509
+    target 649
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "j i t a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 511
     target 522
     varieties "clics4-239"
     languages "high1278"
@@ -20741,18 +20751,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 511
-    target 645
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "j i t a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 520
-    target 1388
+    source 519
+    target 1391
     varieties "clics4-46"
     languages "yaqu1251"
     words "o u s e i"
@@ -20761,8 +20761,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 526
-    target 527
+    source 524
+    target 525
     varieties "clics4-239"
     languages "high1278"
     words "k a n a tʃ i"
@@ -20772,7 +20772,7 @@ graph [
   ]
   edge [
     source 535
-    target 1100
+    target 1106
     varieties "clics4-46"
     languages "yaqu1251"
     words "t u a"
@@ -20782,7 +20782,7 @@ graph [
   ]
   edge [
     source 536
-    target 715
+    target 717
     varieties "clics4-46"
     languages "yaqu1251"
     words "a n i a"
@@ -20792,7 +20792,7 @@ graph [
   ]
   edge [
     source 536
-    target 951
+    target 949
     varieties "clics4-46"
     languages "yaqu1251"
     words "a n i a"
@@ -20802,7 +20802,7 @@ graph [
   ]
   edge [
     source 536
-    target 872
+    target 873
     varieties "clics4-46"
     languages "yaqu1251"
     words "a n i a"
@@ -20812,7 +20812,7 @@ graph [
   ]
   edge [
     source 536
-    target 1132
+    target 1128
     varieties "clics4-46"
     languages "yaqu1251"
     words "a n i a"
@@ -20822,7 +20822,7 @@ graph [
   ]
   edge [
     source 541
-    target 557
+    target 556
     varieties "clics4-46"
     languages "yaqu1251"
     words "n a u t o j a"
@@ -20832,7 +20832,7 @@ graph [
   ]
   edge [
     source 541
-    target 809
+    target 811
     varieties "clics4-46"
     languages "yaqu1251"
     words "n a u t o j a"
@@ -20842,7 +20842,7 @@ graph [
   ]
   edge [
     source 543
-    target 782
+    target 783
     varieties "clics4-239"
     languages "high1278"
     words "w e h k a + p a n"
@@ -20851,8 +20851,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 547
-    target 830
+    source 546
+    target 828
     varieties "clics4-239"
     languages "high1278"
     words "ʃ i k a l"
@@ -20861,8 +20861,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 555
-    target 820
+    source 553
+    target 822
     varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251"
     words "s a m a i//t aː t a//k u m u i//j aː b i//j aː b i"
@@ -20871,8 +20871,8 @@ graph [
     Cognate_Count 3
   ]
   edge [
-    source 557
-    target 809
+    source 556
+    target 811
     varieties "clics4-46"
     languages "yaqu1251"
     words "n a u t o j a"
@@ -20882,7 +20882,7 @@ graph [
   ]
   edge [
     source 560
-    target 973
+    target 972
     varieties "clics4-46"
     languages "yaqu1251"
     words "bʷ a ʔ a m e"
@@ -20902,7 +20902,7 @@ graph [
   ]
   edge [
     source 561
-    target 576
+    target 578
     varieties "clics4-46"
     languages "yaqu1251"
     words "b i t t u a"
@@ -20911,8 +20911,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 562
-    target 1327
+    source 563
+    target 1325
     varieties "clics4-46"
     languages "yaqu1251"
     words "bʷ i s e"
@@ -20921,8 +20921,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 564
-    target 719
+    source 568
+    target 715
     varieties "clics4-239"
     languages "high1278"
     words "kʷ a l k a n"
@@ -20932,7 +20932,7 @@ graph [
   ]
   edge [
     source 570
-    target 585
+    target 584
     varieties "clics4-239"
     languages "high1278"
     words "kʷ i ʃ i n"
@@ -20942,7 +20942,7 @@ graph [
   ]
   edge [
     source 572
-    target 1110
+    target 1108
     varieties "clics4-46"
     languages "yaqu1251"
     words "j oː a"
@@ -20961,8 +20961,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 575
-    target 624
+    source 576
+    target 629
     varieties "clics4-46"
     languages "yaqu1251"
     words "t e u w a"
@@ -20971,9 +20971,9 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 579
+    source 581
     target 676
-    varieties "clics4-1286//clics4-1332//clics4-1350//clics4-1450//clics4-1451//clics4-1465//clics4-1480//clics4-1494//clics4-1513//clics4-1514//clics4-1515//clics4-1683//clics4-1953//clics4-1973"
+    varieties "clics4-1286//clics4-1329//clics4-1348//clics4-1447//clics4-1448//clics4-1463//clics4-1478//clics4-1490//clics4-1509//clics4-1510//clics4-1511//clics4-1680//clics4-1950//clics4-1970"
     languages "luis1253//pana1305//serr1255//mono1275//coma1245//utee1244//nort2954//kawa1283//cupe1243//cahu1264//serr1255//chem1251//sout2969//tong1329"
     words "x u l a//p o ts oi n//j y ʃ k y//m uː s a i//t a k u s i t oi t y//p a k aː tsʰ ɪ p i//k u n aː//h u v a + k aː//e//e a l//j y ʃ k a//p a k a//p a qː aː + ʃ//a h + t o ŋ"
     Variety_Count 14
@@ -20982,7 +20982,7 @@ graph [
   ]
   edge [
     source 582
-    target 1324
+    target 1322
     varieties "clics4-239"
     languages "high1278"
     words "a p i s + t i"
@@ -20992,7 +20992,7 @@ graph [
   ]
   edge [
     source 587
-    target 598
+    target 596
     varieties "clics4-46"
     languages "yaqu1251"
     words "j i a p s i"
@@ -21001,7 +21001,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 590
+    source 591
     target 1296
     varieties "clics4-46"
     languages "yaqu1251"
@@ -21012,17 +21012,7 @@ graph [
   ]
   edge [
     source 595
-    target 907
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "t e a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 596
-    target 1330
+    target 1328
     varieties "clics4-239"
     languages "high1278"
     words "i + kʷ e j"
@@ -21031,7 +21021,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 599
+    source 597
     target 1446
     varieties "clics4-46"
     languages "yaqu1251"
@@ -21041,8 +21031,18 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 603
-    target 690
+    source 598
+    target 907
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "t e a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 602
+    target 688
     varieties "clics4-46"
     languages "yaqu1251"
     words "n a ʔ i k i m t e"
@@ -21051,8 +21051,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 603
-    target 1165
+    source 602
+    target 1163
     varieties "clics4-46"
     languages "yaqu1251"
     words "n a ʔ i k i m t e"
@@ -21061,8 +21061,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 605
-    target 848
+    source 609
+    target 849
     varieties "clics4-46"
     languages "yaqu1251"
     words "k u p t e o"
@@ -21071,7 +21071,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 607
+    source 611
     target 868
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
@@ -21082,7 +21082,7 @@ graph [
   ]
   edge [
     source 620
-    target 1330
+    target 1328
     varieties "clics4-46"
     languages "yaqu1251"
     words "s u p e m"
@@ -21092,7 +21092,7 @@ graph [
   ]
   edge [
     source 621
-    target 943
+    target 942
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
     words "p u ʔ a t o//k a ʃ a h p a s"
@@ -21101,8 +21101,8 @@ graph [
     Cognate_Count 2
   ]
   edge [
-    source 636
-    target 1128
+    source 634
+    target 1125
     varieties "clics4-46"
     languages "yaqu1251"
     words "t i e m p o"
@@ -21111,7 +21111,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 639
+    source 638
     target 1544
     varieties "clics4-46"
     languages "yaqu1251"
@@ -21121,7 +21121,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 639
+    source 638
     target 1421
     varieties "clics4-46"
     languages "yaqu1251"
@@ -21131,8 +21131,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 643
-    target 1234
+    source 642
+    target 1232
     varieties "clics4-46"
     languages "yaqu1251"
     words "t aː m p a"
@@ -21141,8 +21141,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 650
-    target 651
+    source 654
+    target 655
     varieties "clics4-46//clics4-46//clics4-46//clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251//yaqu1251//yaqu1251//yaqu1251"
     words "tʃ i ʔ i l a//tʃ i ʔ i l a//j a ʔ a k a//n e ʔ e s a//n e ʔ e s a"
@@ -21152,6 +21152,16 @@ graph [
   ]
   edge [
     source 656
+    target 954
+    varieties "clics4-1348"
+    languages "serr1255"
+    words "o kʷ a t"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 658
     target 877
     varieties "clics4-239"
     languages "high1278"
@@ -21161,18 +21171,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 657
-    target 955
-    varieties "clics4-1350"
-    languages "serr1255"
-    words "o kʷ a t"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 668
-    target 1267
+    source 669
+    target 1265
     varieties "clics4-239//clics4-239//clics4-239"
     languages "high1278//high1278//high1278"
     words "tʃ i k a w a + k//tʃ i k a w a l i s//tʃ i k a w + t o k"
@@ -21182,7 +21182,7 @@ graph [
   ]
   edge [
     source 671
-    target 848
+    target 849
     varieties "clics4-239"
     languages "high1278"
     words "w e h k a + w a"
@@ -21192,7 +21192,7 @@ graph [
   ]
   edge [
     source 671
-    target 963
+    target 965
     varieties "clics4-239"
     languages "high1278"
     words "w e h k a + w a"
@@ -21201,8 +21201,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 682
-    target 1158
+    source 685
+    target 1157
     varieties "clics4-46"
     languages "yaqu1251"
     words "j i ʔ i k a"
@@ -21212,27 +21212,7 @@ graph [
   ]
   edge [
     source 687
-    target 861
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "n aː w a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 690
-    target 1165
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "n a ʔ i k i m t e"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 692
-    target 806
+    target 808
     varieties "clics4-46"
     languages "yaqu1251"
     words "w i n j u b a"
@@ -21241,7 +21221,27 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 697
+    source 688
+    target 1163
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "n a ʔ i k i m t e"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 689
+    target 860
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "n aː w a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 694
     target 893
     varieties "clics4-46"
     languages "yaqu1251"
@@ -21251,11 +21251,31 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 697
-    target 795
+    source 694
+    target 794
     varieties "clics4-239"
     languages "high1278"
     words "t a l"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 696
+    target 726
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "w i k o s a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 696
+    target 791
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "w i k o s a"
     Variety_Count 1
     Language_Count 1
     Cognate_Count 1
@@ -21271,57 +21291,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 699
-    target 723
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "w i k o s a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 699
-    target 792
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "w i k o s a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 715
-    target 951
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "a n i a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 715
-    target 872
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "a n i a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 715
-    target 1132
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "a n i a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 720
+    source 716
     target 1306
     varieties "clics4-239"
     languages "high1278"
@@ -21331,8 +21301,38 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 723
-    target 792
+    source 717
+    target 949
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "a n i a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 717
+    target 873
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "a n i a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 717
+    target 1128
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "a n i a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 726
+    target 791
     varieties "clics4-46"
     languages "yaqu1251"
     words "w i k o s a"
@@ -21342,7 +21342,7 @@ graph [
   ]
   edge [
     source 730
-    target 961
+    target 959
     varieties "clics4-239"
     languages "high1278"
     words "t e s k a + t"
@@ -21382,17 +21382,7 @@ graph [
   ]
   edge [
     source 746
-    target 1248
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "k u s i a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 747
-    target 748
+    target 747
     varieties "clics4-46//clics4-239//clics4-239"
     languages "yaqu1251//high1278//high1278"
     words "tʃ u k t a//k o k o t o tʃ a//t e h + t e k i"
@@ -21401,8 +21391,18 @@ graph [
     Cognate_Count 3
   ]
   edge [
+    source 751
+    target 1247
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "k u s i a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
     source 768
-    target 1038
+    target 1049
     varieties "clics4-46//clics4-46//clics4-239//clics4-239"
     languages "yaqu1251//yaqu1251//high1278//high1278"
     words "s o b a//k i s aː r o a//t e w a i k//t a t e w a tʃ"
@@ -21411,8 +21411,8 @@ graph [
     Cognate_Count 4
   ]
   edge [
-    source 779
-    target 826
+    source 778
+    target 834
     varieties "clics4-46"
     languages "yaqu1251"
     words "eː tʃ a"
@@ -21432,7 +21432,7 @@ graph [
   ]
   edge [
     source 781
-    target 1136
+    target 1137
     varieties "clics4-239"
     languages "high1278"
     words "i + tʃ a n + k a w"
@@ -21441,17 +21441,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 786
-    target 1704
-    varieties "clics4-46//clics4-46"
-    languages "yaqu1251//yaqu1251"
-    words "j o j o//p a j t i"
-    Variety_Count 2
-    Language_Count 1
-    Cognate_Count 2
-  ]
-  edge [
-    source 790
+    source 787
     target 916
     varieties "clics4-46"
     languages "yaqu1251"
@@ -21461,8 +21451,18 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 791
-    target 797
+    source 790
+    target 1713
+    varieties "clics4-46//clics4-46"
+    languages "yaqu1251//yaqu1251"
+    words "j o j o//p a j t i"
+    Variety_Count 2
+    Language_Count 1
+    Cognate_Count 2
+  ]
+  edge [
+    source 792
+    target 795
     varieties "clics4-239"
     languages "high1278"
     words "k i + n e l o + a"
@@ -21471,8 +21471,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 795
-    target 1122
+    source 794
+    target 1119
     varieties "clics4-239"
     languages "high1278"
     words "i ʃ t a w a + t"
@@ -21481,7 +21481,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 797
+    source 795
     target 1169
     varieties "clics4-46"
     languages "yaqu1251"
@@ -21491,8 +21491,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 800
-    target 1063
+    source 799
+    target 1064
     varieties "clics4-46"
     languages "yaqu1251"
     words "e m o + e i j a"
@@ -21501,8 +21501,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 802
-    target 955
+    source 806
+    target 954
     varieties "clics4-46"
     languages "yaqu1251"
     words "w iː ʔ i"
@@ -21511,17 +21511,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 813
-    target 1325
-    varieties "clics4-46//clics4-239//clics4-239"
-    languages "yaqu1251//high1278//high1278"
-    words "tʃ a k t e//tʃ i tʃ i p i k a//tʃ i p i n i"
-    Variety_Count 3
-    Language_Count 2
-    Cognate_Count 2
-  ]
-  edge [
-    source 819
+    source 814
     target 867
     varieties "clics4-239"
     languages "high1278"
@@ -21531,7 +21521,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 821
+    source 815
     target 882
     varieties "clics4-46"
     languages "yaqu1251"
@@ -21541,8 +21531,18 @@ graph [
     Cognate_Count 1
   ]
   edge [
+    source 816
+    target 1323
+    varieties "clics4-46//clics4-239//clics4-239"
+    languages "yaqu1251//high1278//high1278"
+    words "tʃ a k t e//tʃ i tʃ i p i k a//tʃ i p i n i"
+    Variety_Count 3
+    Language_Count 2
+    Cognate_Count 2
+  ]
+  edge [
     source 823
-    target 999
+    target 998
     varieties "clics4-46"
     languages "yaqu1251"
     words "k aː + a + m a b e t a"
@@ -21551,7 +21551,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 828
+    source 827
     target 874
     varieties "clics4-46"
     languages "yaqu1251"
@@ -21562,7 +21562,7 @@ graph [
   ]
   edge [
     source 835
-    target 1021
+    target 1020
     varieties "clics4-46//clics4-46//clics4-239//clics4-239//clics4-239//clics4-239"
     languages "yaqu1251//yaqu1251//high1278//high1278//high1278//high1278"
     words "s e n e ʔ e k a//p oː s o//a m e l//p i l a//a k o m o l//a m e j a l"
@@ -21572,7 +21572,7 @@ graph [
   ]
   edge [
     source 836
-    target 1158
+    target 1157
     varieties "clics4-46"
     languages "yaqu1251"
     words "bʷ a s s u m a"
@@ -21582,8 +21582,8 @@ graph [
   ]
   edge [
     source 837
-    target 842
-    varieties "clics4-1213"
+    target 843
+    varieties "clics4-1209"
     languages "yaqu1251"
     words "m a m a m"
     Variety_Count 1
@@ -21591,8 +21591,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 841
-    target 1082
+    source 840
+    target 1081
     varieties "clics4-46"
     languages "yaqu1251"
     words "j oː n a"
@@ -21601,8 +21601,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 841
-    target 1001
+    source 840
+    target 1000
     varieties "clics4-46"
     languages "yaqu1251"
     words "j oː n a"
@@ -21612,7 +21612,7 @@ graph [
   ]
   edge [
     source 847
-    target 1605
+    target 1609
     varieties "clics4-46"
     languages "yaqu1251"
     words "r e b e i"
@@ -21621,8 +21621,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 848
-    target 963
+    source 849
+    target 965
     varieties "clics4-239"
     languages "high1278"
     words "w e h k a + w a"
@@ -21631,8 +21631,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 851
-    target 1009
+    source 850
+    target 1006
     varieties "clics4-239"
     languages "high1278"
     words "kʷ e m i + t"
@@ -21641,28 +21641,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 857
-    target 939
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "j i p p u e"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 857
-    target 1020
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "j i p p u e"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 858
-    target 1426
+    source 856
+    target 1425
     varieties "clics4-46"
     languages "yaqu1251"
     words "bʷ a r a"
@@ -21671,27 +21651,27 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 872
-    target 951
+    source 861
+    target 936
     varieties "clics4-46"
     languages "yaqu1251"
-    words "a n i a"
+    words "j i p p u e"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 861
+    target 1019
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "j i p p u e"
     Variety_Count 1
     Language_Count 1
     Cognate_Count 1
   ]
   edge [
     source 872
-    target 1132
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "a n i a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 873
     target 1309
     varieties "clics4-46"
     languages "yaqu1251"
@@ -21701,8 +21681,28 @@ graph [
     Cognate_Count 1
   ]
   edge [
+    source 873
+    target 949
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "a n i a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 873
+    target 1128
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "a n i a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
     source 876
-    target 1216
+    target 1220
     varieties "clics4-46"
     languages "yaqu1251"
     words "k o i m"
@@ -21721,8 +21721,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 879
-    target 967
+    source 881
+    target 973
     varieties "clics4-46"
     languages "yaqu1251"
     words "j a k a r a"
@@ -21731,7 +21731,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 879
+    source 881
     target 975
     varieties "clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251"
@@ -21741,8 +21741,8 @@ graph [
     Cognate_Count 2
   ]
   edge [
-    source 879
-    target 1006
+    source 881
+    target 1010
     varieties "clics4-46"
     languages "yaqu1251"
     words "j a k a r a"
@@ -21752,7 +21752,7 @@ graph [
   ]
   edge [
     source 884
-    target 1129
+    target 1126
     varieties "clics4-46"
     languages "yaqu1251"
     words "j o k o p t u i"
@@ -21762,7 +21762,7 @@ graph [
   ]
   edge [
     source 885
-    target 1086
+    target 1091
     varieties "clics4-46"
     languages "yaqu1251"
     words "t o t t a"
@@ -21771,8 +21771,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 892
-    target 1137
+    source 891
+    target 1148
     varieties "clics4-46"
     languages "yaqu1251"
     words "b u ʔ u"
@@ -21782,7 +21782,7 @@ graph [
   ]
   edge [
     source 894
-    target 1049
+    target 1047
     varieties "clics4-46"
     languages "yaqu1251"
     words "l u ʔ u t e k"
@@ -21793,7 +21793,7 @@ graph [
   edge [
     source 896
     target 1175
-    varieties "clics4-1332//clics4-1332//clics4-1514"
+    varieties "clics4-1329//clics4-1329//clics4-1510"
     languages "pana1305//pana1305//cahu1264"
     words "p o t o n//p o t o n//n a x a t"
     Variety_Count 3
@@ -21802,7 +21802,7 @@ graph [
   ]
   edge [
     source 897
-    target 1105
+    target 1103
     varieties "clics4-46"
     languages "yaqu1251"
     words "r a j t i o m"
@@ -21812,8 +21812,8 @@ graph [
   ]
   edge [
     source 898
-    target 1290
-    varieties "clics4-1632"
+    target 1288
+    varieties "clics4-1630"
     languages "tuba1278"
     words "m aː ʃ a tː"
     Variety_Count 1
@@ -21832,7 +21832,7 @@ graph [
   ]
   edge [
     source 910
-    target 1634
+    target 1633
     varieties "clics4-46"
     languages "yaqu1251"
     words "tʃ u ʔ a k t i r i a"
@@ -21851,8 +21851,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 939
-    target 1020
+    source 936
+    target 1019
     varieties "clics4-46"
     languages "yaqu1251"
     words "j i p p u e"
@@ -21861,8 +21861,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 939
-    target 1345
+    source 936
+    target 1344
     varieties "clics4-239"
     languages "high1278"
     words "w"
@@ -21872,7 +21872,7 @@ graph [
   ]
   edge [
     source 944
-    target 1212
+    target 1211
     varieties "clics4-239"
     languages "high1278"
     words "t a + w i + l"
@@ -21881,18 +21881,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 946
-    target 1153
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "n a n a ʔ a n a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 951
-    target 1132
+    source 949
+    target 1128
     varieties "clics4-46"
     languages "yaqu1251"
     words "a n i a"
@@ -21901,8 +21891,18 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 966
-    target 1195
+    source 950
+    target 1154
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "n a n a ʔ a n a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 964
+    target 1194
     varieties "clics4-46"
     languages "yaqu1251"
     words "k o p a l a i"
@@ -21911,7 +21911,17 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 967
+    source 972
+    target 1197
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "bʷ a ʔ a m e"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 973
     target 975
     varieties "clics4-46"
     languages "yaqu1251"
@@ -21921,24 +21931,14 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 967
-    target 1006
+    source 973
+    target 1010
     varieties "clics4-46//clics4-46//clics4-46"
     languages "yaqu1251//yaqu1251//yaqu1251"
     words "j a k a r a//a s o w aː r a//j a b i r e"
     Variety_Count 3
     Language_Count 1
     Cognate_Count 2
-  ]
-  edge [
-    source 973
-    target 1197
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "bʷ a ʔ a m e"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
   ]
   edge [
     source 974
@@ -21952,7 +21952,7 @@ graph [
   ]
   edge [
     source 975
-    target 1006
+    target 1010
     varieties "clics4-46"
     languages "yaqu1251"
     words "j a k a r a"
@@ -21961,8 +21961,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 1001
-    target 1082
+    source 1000
+    target 1081
     varieties "clics4-46"
     languages "yaqu1251"
     words "j oː n a"
@@ -21981,7 +21981,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 1023
+    source 1022
     target 1207
     varieties "clics4-46"
     languages "yaqu1251"
@@ -21991,7 +21991,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 1037
+    source 1035
     target 1150
     varieties "clics4-46"
     languages "yaqu1251"
@@ -22001,8 +22001,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 1068
-    target 1242
+    source 1067
+    target 1241
     varieties "clics4-46"
     languages "yaqu1251"
     words "j i o k o l e"
@@ -22011,7 +22011,17 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 1100
+    source 1104
+    target 1434
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "l i o n o k a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 1106
     target 1239
     varieties "clics4-239"
     languages "high1278"
@@ -22021,18 +22031,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 1106
-    target 1435
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "l i o n o k a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 1120
-    target 1519
+    source 1118
+    target 1517
     varieties "clics4-46"
     languages "yaqu1251"
     words "k u tʃ i tʃ i ʔ i t i + n oː k a"
@@ -22041,17 +22041,7 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 1134
-    target 1220
-    varieties "clics4-46"
-    languages "yaqu1251"
-    words "s o a"
-    Variety_Count 1
-    Language_Count 1
-    Cognate_Count 1
-  ]
-  edge [
-    source 1136
+    source 1137
     target 1567
     varieties "clics4-239"
     languages "high1278"
@@ -22061,8 +22051,18 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 1196
-    target 1261
+    source 1141
+    target 1219
+    varieties "clics4-46"
+    languages "yaqu1251"
+    words "s o a"
+    Variety_Count 1
+    Language_Count 1
+    Cognate_Count 1
+  ]
+  edge [
+    source 1195
+    target 1260
     varieties "clics4-46"
     languages "yaqu1251"
     words "j a m u t"
@@ -22071,8 +22071,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 1211
-    target 1311
+    source 1213
+    target 1316
     varieties "clics4-46"
     languages "yaqu1251"
     words "m o ʔ o n e"
@@ -22081,8 +22081,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 1243
-    target 1339
+    source 1246
+    target 1343
     varieties "clics4-46//clics4-239"
     languages "yaqu1251//high1278"
     words "j a b o r a i//i + sʷ a + m o n"
@@ -22091,7 +22091,7 @@ graph [
     Cognate_Count 2
   ]
   edge [
-    source 1284
+    source 1283
     target 1601
     varieties "clics4-46"
     languages "yaqu1251"
@@ -22102,7 +22102,7 @@ graph [
   ]
   edge [
     source 1300
-    target 1505
+    target 1504
     varieties "clics4-46"
     languages "yaqu1251"
     words "b a i t a ʔ a"
@@ -22111,8 +22111,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 1345
-    target 1409
+    source 1344
+    target 1408
     varieties "clics4-46"
     languages "yaqu1251"
     words "i n i e + b e t tʃ i ʔ i b o"
@@ -22122,7 +22122,7 @@ graph [
   ]
   edge [
     source 1357
-    target 1411
+    target 1410
     varieties "clics4-46"
     languages "yaqu1251"
     words "j o ʔ o"
@@ -22151,8 +22151,8 @@ graph [
     Cognate_Count 1
   ]
   edge [
-    source 1501
-    target 1503
+    source 1499
+    target 1502
     varieties "clics4-239"
     languages "high1278"
     words "t a + kʷ a w t a m a t i + l i s"
@@ -22162,7 +22162,7 @@ graph [
   ]
   edge [
     source 1568
-    target 1642
+    target 1640
     varieties "clics4-46"
     languages "yaqu1251"
     words "k o n r e n a r o a"
